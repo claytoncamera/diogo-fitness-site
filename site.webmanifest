@@ -1,0 +1,15 @@
+{
+  "name": "Diogo Fitness",
+  "short_name": "Diogo",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F3EFE6",
+  "theme_color": "#061513",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
