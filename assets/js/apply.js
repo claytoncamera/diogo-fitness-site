@@ -111,7 +111,6 @@ if (root) {
       msgEl.textContent = message;
       charsEl.textContent = message.length;
     }
-    if (key === 'done') requestAnimationFrame(() => $('.daystrip', steps[idx])?.classList.add('is-in'));
     updateProgress();
     updateNav();
     const hint = $('[data-apply-scroll]');

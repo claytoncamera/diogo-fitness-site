@@ -131,9 +131,6 @@ $$('[data-storycard]').forEach((card) => {
 const V = new URL(import.meta.url).search;
 const lazy = (name) => import(`./${name}.js${V}`).catch((err) => { console.warn(`[site] ${name}.js did not load`, err); return null; });
 if ($('[data-week]')) lazy('week-widget');
-if ($('[data-streak]')) lazy('streak');
-if ($('[data-words]')) lazy('manifesto');
 if ($('[data-cal]')) lazy('calendars');
-if ($('[data-rail-page]')) lazy('rail');
 if ($('[data-apply]')) lazy('apply').then((m) => { if (!m) $('[data-apply]').classList.add('is-failed'); }); // is-failed: show the plain DM link text
 if ($('[data-readbar]')) lazy('readbar');
