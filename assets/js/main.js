@@ -106,20 +106,25 @@ if (bar) {
 $$('[data-storycard]').forEach((card) => {
   const video = $('video', card);
   const btn = $('[data-story-play]', card);
+  const note = $('.storycard__label i', card);
   if (!video || !btn) return;
+  const idle = note ? note.textContent : '';
+  const reset = (msg) => { video.controls = false; card.classList.remove('is-playing'); if (note) note.textContent = msg ?? idle; };
   btn.addEventListener('click', async () => {
-    if (!video.src) video.src = video.dataset.src;
+    if (!video.src || video.error) { video.src = video.dataset.src; video.load(); } // first play, or try again after an error
     video.controls = true;
     card.classList.add('is-playing');
+    if (note) note.textContent = idle;
     try {
       await video.play();
     } catch {
       // Some browsers refuse un-muted playback without a user gesture; retry muted rather than fail.
-      try { video.muted = true; await video.play(); } catch { card.classList.remove('is-playing'); video.controls = false; }
+      try { video.muted = true; await video.play(); } catch { reset('Couldn’t play it. Tap to try again.'); }
     }
     track('story_play', { page: document.body.dataset.page || '' });
   });
-  video.addEventListener('ended', () => { video.controls = false; card.classList.remove('is-playing'); video.currentTime = 0; });
+  video.addEventListener('error', () => reset('Couldn’t load it. Tap to try again.'));
+  video.addEventListener('ended', () => { reset(); video.currentTime = 0; });
   // Pause when scrolled away so a half-watched story doesn't keep decoding off-screen.
   if ('IntersectionObserver' in window) {
     new IntersectionObserver((en) => en.forEach((e) => { if (!e.isIntersecting && !video.paused) video.pause(); }), { threshold: 0.1 }).observe(video);

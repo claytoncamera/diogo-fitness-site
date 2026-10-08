@@ -25,7 +25,7 @@
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/fonts/bricolage-grotesque-var.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/fonts/instrument-sans-var.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/site.css?v=80c86d0c">
+<link rel="stylesheet" href="/assets/site.css?v=8b38d851">
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://diogofit.loopholemaxing.com/#person","name":"Diogo Camera","givenName":"Diogo","jobTitle":"Online fitness coach","sameAs":["https://www.instagram.com/diogo.camera/"],"description":"Online fitness coach based in South Florida and Health Science student at St. Thomas University. Helps people build training, nutrition and lifestyle habits that fit their real schedule.","address":{"@type":"PostalAddress","addressRegion":"FL","addressCountry":"US"},"knowsAbout":["Online fitness coaching","Fat loss","Muscle gain","Body recomposition","Strength training","Calories and protein","Habit building"],"url":"https://diogofit.loopholemaxing.com/about/"},{"@type":"WebSite","name":"Diogo Fitness","description":"Online fitness coaching that fits your life.","url":"https://diogofit.loopholemaxing.com/"},{"@type":"ProfessionalService","name":"Diogo Fitness","serviceType":"Online fitness coaching","description":"Personalized workouts, practical nutrition, accountability and progress monitoring built around the client’s real schedule and lifestyle.","provider":{"@id":"https://diogofit.loopholemaxing.com/#person"},"address":{"@type":"PostalAddress","addressRegion":"FL","addressCountry":"US"},"url":"https://diogofit.loopholemaxing.com/coaching/"}]}</script>
 
 </head>
@@ -50,7 +50,7 @@
 
 <section class="hero hero--v3 grain on-dark" id="start" aria-labelledby="hero-title">
   <div class="hero__media" aria-hidden="true"><picture class="ambient-poster"><source media="(max-width: 720px)" srcset="/video/hero-gym-portrait.jpg"><img src="/video/hero-gym.jpg" alt="" fetchpriority="high" decoding="async"></picture><video class="ambient " muted loop playsinline preload="none" aria-hidden="true" tabindex="-1" disablepictureinpicture data-ambient data-eager><source data-src="/video/hero-gym-portrait.mp4" media="(max-width: 720px)" type="video/mp4"><source data-src="/video/hero-gym.mp4" type="video/mp4"></video></div>
-  <div class="container hero__inner hero__grid">
+  <div class="container hero__inner">
     <div class="hero__copy">
       <p class="hero__eyebrow" data-reveal>Online fitness coaching</p>
       <h1 class="hero__title" id="hero-title" data-reveal style="--d:80ms"><span>Motivation</span> <span>was <em>never</em></span> <span>the problem.</span></h1>
@@ -58,15 +58,6 @@
       <div class="hero__actions" data-reveal style="--d:280ms"><a class="btn btn--sun btn--lg" href="/apply/" data-cta data-track="apply_click" data-loc="hero"><span>Apply for coaching</span><svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div>
       <p class="hero__hint" data-reveal style="--d:340ms">About two minutes. Nothing is sent until you press send.</p>
     </div>
-    <div class="hero__reel" data-reveal style="--d:220ms"><figure class="storycard" data-storycard>
-  <div class="media storycard__frame" style="--ratio: 9/16">
-    <video class="storycard__video" playsinline preload="none" poster="/video/diogo-story.jpg" data-src="/video/diogo-story.mp4" aria-label="Diogo tells his story. 1 minute 10 seconds, captions are part of the video."></video>
-    <button class="storycard__play" type="button" data-story-play aria-label="Play: Diogo tells his story, 1 minute 10 seconds">
-      <span class="storycard__icon"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor"><path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/></svg></span>
-      <span class="storycard__label"><b>Watch my story</b><i>1:10 · captions on</i></span>
-    </button>
-  </div>
-</figure></div>
   </div>
 </section>
 
@@ -162,8 +153,11 @@
     </div>
     <div class="meet" data-reveal>
       <span class="meet__photo"><img src="/img/diogo-portrait.jpg" alt="Diogo" width="96" height="120" loading="lazy" decoding="async"></span>
-      <p class="meet__text"><b>I’m Diogo.</b> I used to build my days around comfort. Now I build them around structure, and I help other people do the same.</p>
-      <a class="btn btn--ghost" href="/about/" data-track="cta_click" data-loc="meet"><span>My story</span><svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+      <div class="meet__text">
+        <p class="meet__eyebrow">Meet the founder</p>
+        <p><b>I’m Diogo.</b> I used to build my days around comfort. Now I build them around structure, and I help other people do the same.</p>
+      </div>
+      <a class="btn btn--ghost" href="/about/" data-track="cta_click" data-loc="meet"><span>Learn about Diogo</span><svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
     </div>
   </div>
 </section>
@@ -218,6 +212,6 @@
 <div class="dm-bar" data-dm-bar aria-hidden="true">
   <a class="btn btn--sun btn--block" href="/apply/" data-cta data-track="apply_click" data-loc="sticky-bar" tabindex="-1"><span>Apply for coaching</span><svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
 </div>
-<script type="module" src="/assets/js/main.js?v=80c86d0c"></script>
+<script type="module" src="/assets/js/main.js?v=8b38d851"></script>
 </body>
 </html>
