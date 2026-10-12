@@ -10,6 +10,19 @@
       "src": "/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
     }
+  ],
+  "id": "/",
+  "lang": "en",
+  "description": "Online fitness coaching with Diogo Camera: personalized training, practical nutrition and weekly accountability, built around your real week.",
+  "categories": [
+    "health",
+    "fitness",
+    "lifestyle"
   ]
 }

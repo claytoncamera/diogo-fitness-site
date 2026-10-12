@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+  <title>Diogo Fitness: Learn</title>
+  <link>https://diogofit.com/learn/</link>
+  <description>Straight answers on training, eating and consistency from online fitness coach Diogo Camera.</description>
+  <language>en</language>
+  <atom:link href="https://diogofit.com/learn/feed.xml" rel="self" type="application/rss+xml"/>
+  <image><url>https://diogofit.com/apple-touch-icon.png</url><title>Diogo Fitness: Learn</title><link>https://diogofit.com/learn/</link></image>
+  <item>
+    <title>What is online fitness coaching, and how does it work?</title>
+    <link>https://diogofit.com/learn/what-is-online-fitness-coaching/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/what-is-online-fitness-coaching/</guid>
+    <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Coaching</category>
+    <description>Online coaching is a personalized training and nutrition plan on your phone, with a real coach adjusting it and checking in every week. How it works and who it's for.</description>
+  </item>
+  <item>
+    <title>Progressive overload: the one rule behind every good program</title>
+    <link>https://diogofit.com/learn/progressive-overload/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/progressive-overload/</guid>
+    <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>Progressive overload means asking a little more of your muscles over time: more weight, reps or sets. How to apply it, how fast to add weight and what to do when you stall.</description>
+  </item>
+  <item>
+    <title>How to choose an online fitness coach: seven things to check</title>
+    <link>https://diogofit.com/learn/how-to-choose-an-online-fitness-coach/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/how-to-choose-an-online-fitness-coach/</guid>
+    <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Coaching</category>
+    <description>Seven things to check before you hire an online fitness coach: whether they ask about your life first, how they track progress, how often you'll talk and what they promise.</description>
+  </item>
+  <item>
+    <title>How long does it take to see results from working out?</title>
+    <link>https://diogofit.com/learn/how-long-to-see-results/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/how-long-to-see-results/</guid>
+    <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>A realistic timeline: strength improves in 2 to 4 weeks, measurable muscle shows up around weeks 4 to 8, and visible fat loss takes about 8 to 12 weeks.</description>
+  </item>
+  <item>
+    <title>Can you lose fat and build muscle at the same time?</title>
+    <link>https://diogofit.com/learn/body-recomposition/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/body-recomposition/</guid>
+    <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Fat loss</category>
+    <description>Losing fat and building muscle at the same time is realistic for more people than you'd think. What body recomposition takes: protein, lifting, a small deficit and time.</description>
+  </item>
+  <item>
+    <title>Why you keep starting over (and how to stop)</title>
+    <link>https://diogofit.com/learn/why-you-keep-starting-over/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/why-you-keep-starting-over/</guid>
+    <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Consistency</category>
+    <description>Starting over usually isn't a willpower problem. It's a system problem: decide ahead, shrink the plan for bad weeks, never miss twice, have a witness.</description>
+  </item>
+  <item>
+    <title>Why can't I lose fat? Six common reasons</title>
+    <link>https://diogofit.com/learn/why-you-cant-lose-fat/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/why-you-cant-lose-fat/</guid>
+    <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Fat loss</category>
+    <description>Eating healthy but not losing weight? Six things I'd check first: portions, underestimated intake, weekends, steps, consistency and one-day weigh-ins.</description>
+  </item>
+  <item>
+    <title>Walking is the most underrated tool for fat loss</title>
+    <link>https://diogofit.com/learn/walking-for-fat-loss/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/walking-for-fat-loss/</guid>
+    <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Fat loss</category>
+    <description>Don't jump to a big number. Start from the steps you already average, add a bit and hold it until it feels routine. Then raise it.</description>
+  </item>
+  <item>
+    <title>There's always 3 reps in reserve</title>
+    <link>https://diogofit.com/learn/reps-in-reserve/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/reps-in-reserve/</guid>
+    <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>Reps in reserve (RIR) is how many more good reps you could have done before failure. For most working sets, aim for about 1 to 3 in reserve.</description>
+  </item>
+  <item>
+    <title>How often should you train? Less than you think.</title>
+    <link>https://diogofit.com/learn/how-often-to-train/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/how-often-to-train/</guid>
+    <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>Once a week beats none. General fitness and fat loss are happy on two or three days a week. Pick the schedule you can repeat, then make it count.</description>
+  </item>
+  <item>
+    <title>The 80/20 approach: eat flexibly without wrecking your progress</title>
+    <link>https://diogofit.com/learn/eighty-twenty-eating/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/eighty-twenty-eating/</guid>
+    <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Nutrition</category>
+    <description>About 80% of what you eat is filling, protein-rich, mostly unprocessed food. The other 20% is food you simply enjoy. Calories and protein still count.</description>
+  </item>
+  <item>
+    <title>Consistency beats motivation. Every time.</title>
+    <link>https://diogofit.com/learn/consistency-vs-motivation/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/consistency-vs-motivation/</guid>
+    <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Consistency</category>
+    <description>Motivation comes and goes, so plan for the days you don't feel like it: set days and times, a smaller workout on bad days, and never miss twice.</description>
+  </item>
+  <item>
+    <title>Calories and protein: the two numbers that matter most</title>
+    <link>https://diogofit.com/learn/calories-and-protein/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/calories-and-protein/</guid>
+    <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Nutrition</category>
+    <description>If you lift, aim for 0.7 to 1 gram of protein per pound of bodyweight a day. For calories, estimate your maintenance, pick a direction and adjust.</description>
+  </item>
+</channel>
+</rss>

@@ -1,2 +1,6 @@
+# diogofit.com
 User-agent: *
-Disallow: /
+Allow: /
+Disallow: /docs/
+
+Sitemap: https://diogofit.com/sitemap.xml
