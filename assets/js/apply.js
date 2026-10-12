@@ -1,6 +1,6 @@
 // The Apply flow: one question at a time, ending as a message the visitor sends to Diogo themselves.
 // Everything happens in the browser. Nothing is sent, stored or kept (no localStorage, no cookies, no network).
-import { track } from './track.js';
+import { track } from './track.js?v=a3f2170b';
 
 const root = document.querySelector('[data-apply]');
 
@@ -257,9 +257,10 @@ if (root) {
     else setTimeout(() => { if (order[idx] === t.name) goNext(); }, 420);
   });
 
+  // Enter and the 1-9 shortcuts work only while focus is inside the form, never from the page body (WCAG 2.1.4, F-37).
   document.addEventListener('keydown', (e) => {
     const t = e.target;
-    const inside = t === document.body || form.contains(t);
+    const inside = form.contains(t);
     if (!inside || e.altKey || (e.metaKey && e.key !== 'Enter') || (e.ctrlKey && e.key !== 'Enter')) return;
     const key = order[idx];
 
