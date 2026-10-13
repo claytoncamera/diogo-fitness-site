@@ -1,6 +1,7 @@
 // The Apply flow: one question at a time, ending as a message the visitor sends to Diogo themselves.
 // Everything happens in the browser. Nothing is sent, stored or kept (no localStorage, no cookies, no network).
-import { track } from './track.js?v=a3f2170b';
+import { track } from './track.js?v=08f7402c';
+import { currentLabel, viaLine } from './source.js?v=08f7402c';
 
 const root = document.querySelector('[data-apply]');
 
@@ -47,6 +48,7 @@ if (root) {
     if (days) lines.push(`Days I could realistically train: ${days}`);
     if (val('different')) lines.push(`What would make this time different: ${val('different')}`);
     if (val('extra')) lines.push(`Also: ${val('extra')}`);
+    lines.push('', viaLine(currentLabel())); // F-58
     return lines.join('\n');
   };
 

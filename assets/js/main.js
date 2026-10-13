@@ -1,5 +1,6 @@
 // Site behaviour. Progressive enhancement only: every page works with this script blocked.
-import { track } from './track.js?v=a3f2170b';
+import { track } from './track.js?v=08f7402c';
+import { carryLabel } from './source.js?v=08f7402c';
 
 const $ = (sel, root = document) => root.querySelector(sel);
 const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
@@ -12,6 +13,9 @@ document.addEventListener('click', (e) => {
   const el = e.target.closest('[data-track]');
   if (el) track(el.dataset.track, { loc: el.dataset.loc || '', page: document.body.dataset.page || '' });
 });
+
+/* ---- Source label (F-58), see source.js ---- */
+carryLabel();
 
 /* ---- Header: solid once scrolled ----------------------------------------- */
 const header = $('[data-site-header]');
