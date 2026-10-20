@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://diogofit.com/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/diogo-hero.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/coaching/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-19</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/apply/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
@@ -39,12 +39,12 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-19</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/faq/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
@@ -58,26 +58,131 @@
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://diogofit.com/coaching/beginners/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/coaching/build-muscle/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/coaching/busy-week/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/coaching/fat-loss/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/california/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/florida/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/florida/boca-raton/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/florida/fort-lauderdale/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/florida/hollywood/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/florida/miami/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/florida/west-palm-beach/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/georgia/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/illinois/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/michigan/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/new-jersey/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/new-york/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/north-carolina/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/ohio/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/pennsylvania/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/texas/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://diogofit.com/learn/why-you-keep-starting-over/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <image:image><image:loc>https://diogofit.com/img/beach-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/why-you-keep-starting-over.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/what-is-online-fitness-coaching/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <image:image><image:loc>https://diogofit.com/img/coaching-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/what-is-online-fitness-coaching.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/how-to-choose-an-online-fitness-coach/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <image:image><image:loc>https://diogofit.com/img/doorbag-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/how-to-choose-an-online-fitness-coach.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/consistency-vs-motivation/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/consistency-vs-motivation.jpg</image:loc></image:image>
   </url>
@@ -89,7 +194,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/body-recomposition/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/body-recomposition.jpg</image:loc></image:image>
   </url>
@@ -107,32 +212,74 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/how-often-to-train/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-19</lastmod>
     <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/how-often-to-train.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/progressive-overload/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/progressive-overload.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/why-you-cant-lose-fat/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <image:image><image:loc>https://diogofit.com/img/scale-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/why-you-cant-lose-fat.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/walking-for-fat-loss/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <image:image><image:loc>https://diogofit.com/img/walk-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/walking-for-fat-loss.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/reps-in-reserve/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/reps-in-reserve.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/getting-back-into-training/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/og/getting-back-into-training.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/is-online-fitness-coaching-worth-it/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/coaching-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/og/is-online-fitness-coaching-worth-it.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/online-coach-vs-gym-trainer/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/og/online-coach-vs-gym-trainer.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/gym-anxiety/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/og/gym-anxiety.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/how-to-start-lifting-weights/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/og/how-to-start-lifting-weights.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/first-month-of-online-coaching/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/coaching-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/og/first-month-of-online-coaching.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/how-active-is-your-state/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/walk-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/og/how-active-is-your-state.jpg</image:loc></image:image>
   </url>
 </urlset>

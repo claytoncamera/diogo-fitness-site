@@ -440,6 +440,15 @@ code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:0.88em;ba
 .page-hero--about h1{max-width:none;font-size:clamp(2.9rem,1rem + 5.6vw,5.8rem)}
 .page-hero--about h1 em{display:block}
 .sources{font-size:var(--fs-small);overflow-wrap:anywhere}
+.page-place .place{padding-block:clamp(2.5rem,6vw,5rem)}
+.page-place .place .prose > section + section{margin-top:2.2em}
+.page-place .place .prose h1{font-size:clamp(2rem,1.3rem + 3vw,3.4rem);line-height:1.05;letter-spacing:-0.02em;margin-bottom:0.6em}
+.page-place .place .prose h2{font-size:clamp(1.35rem,1.1rem + 1vw,1.8rem);margin-top:1.6em}
+.page-place .place .prose .lead{font-size:var(--fs-lead)}
+.page-place .place .prose span[data-fact]{font-weight:600}
+.page-place .place .prose .place__qsource,.page-place .place .prose .place__sources{font-size:var(--fs-small);opacity:0.85}
+.page-place .place .prose .place__sources ul{padding-left:1.2em}
+.page-place .place .prose .place__notices{margin-top:0.8em;font-size:var(--fs-tiny)}
 [hidden]{display:none !important}
 .lbl--l{display:none}
 @media (max-width: 900px){.lbl--s{display:none}.lbl--l{display:inline}}
