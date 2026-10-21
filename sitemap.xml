@@ -39,7 +39,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
@@ -364,7 +364,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/why-you-keep-starting-over/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <image:image><image:loc>https://diogofit.com/img/beach-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/why-you-keep-starting-over.jpg</image:loc></image:image>
   </url>
@@ -412,7 +412,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/how-often-to-train/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/how-often-to-train.jpg</image:loc></image:image>
   </url>
@@ -466,7 +466,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/how-to-start-lifting-weights/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/how-to-start-lifting-weights.jpg</image:loc></image:image>
   </url>
@@ -486,5 +486,10 @@
     <loc>https://diogofit.com/learn/dumbbell-workout-plan/</loc>
     <lastmod>2026-10-20</lastmod>
     <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/college-workout-routine/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
   </url>
 </urlset>
