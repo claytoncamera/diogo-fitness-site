@@ -73,6 +73,15 @@ export function carryLabel(label = currentLabel()) {
     if (a.hasAttribute('download')) continue;
     const raw = a.getAttribute('href').trim();
     if (raw.startsWith('#')) continue; // a jump inside this page resolves against the current address as it is
+    if (a.hasAttribute('data-mail-via') && /^mailto:/i.test(raw)) {
+      // The no-Instagram email link (apply page): its body carries the same Via line as the drafted message (F-58), so an
+      // email sent from it is credited to the site like a DM. RFC 6068 wants %20, not +, for spaces.
+      const [addr, query = ''] = raw.slice(7).split('?');
+      const q = new URLSearchParams(query);
+      q.set('body', `\n\n${viaLine(label)}`);
+      a.setAttribute('href', `mailto:${addr}?${q.toString().replace(/\+/g, '%20')}`);
+      continue;
+    }
     let u;
     try {
       u = new URL(raw, document.baseURI || location.href);

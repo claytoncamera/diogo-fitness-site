@@ -1,7 +1,7 @@
 // The Apply flow: one question at a time, ending as a message the visitor sends to Diogo themselves.
 // Everything happens in the browser. Nothing is sent, stored or kept (no localStorage, no cookies, no network).
-import { track } from './track.js?v=a5fa2226';
-import { currentLabel, viaLine } from './source.js?v=a5fa2226';
+import { track } from './track.js?v=1ce8924d';
+import { currentLabel, viaLine } from './source.js?v=1ce8924d';
 
 const root = document.querySelector('[data-apply]');
 
@@ -231,6 +231,13 @@ if (root) {
     });
   }));
   $('[data-apply-send]').addEventListener('click', () => send(true));
+  // No-Instagram route: the same drafted message as a prefilled email (a mailto: navigation; nothing is sent by this page).
+  $$('[data-apply-mail]').forEach((b) => b.addEventListener('click', () => {
+    if (!message) message = build();
+    track('email_click', { chars: message.length });
+    const body = message.startsWith(`${keyword}\n`) ? message.slice(keyword.length).replace(/^\n+/, '') : message; // no DM keyword in an email
+    window.location.href = `mailto:${b.dataset.mail}?subject=${encodeURIComponent('Coaching application')}&body=${encodeURIComponent(body)}`;
+  }));
 
   form.addEventListener('submit', (e) => e.preventDefault());
 

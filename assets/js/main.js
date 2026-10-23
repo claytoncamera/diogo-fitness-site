@@ -1,6 +1,6 @@
 // Site behaviour. Progressive enhancement only: every page works with this script blocked.
-import { track } from './track.js?v=a5fa2226';
-import { carryLabel } from './source.js?v=a5fa2226';
+import { track } from './track.js?v=1ce8924d';
+import { carryLabel } from './source.js?v=1ce8924d';
 
 const $ = (sel, root = document) => root.querySelector(sel);
 const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
