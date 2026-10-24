@@ -440,6 +440,8 @@ code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:0.88em;ba
 .page-hero--about h1{max-width:none;font-size:clamp(2.9rem,1rem + 5.6vw,5.8rem)}
 .page-hero--about h1 em{display:block}
 .sources{font-size:var(--fs-small);overflow-wrap:anywhere}
+.intro__accounts{margin-top:1.2rem;font-size:0.95rem;color:var(--text-muted)}
+.intro__accounts a{text-decoration:underline;text-underline-offset:0.15em}
 .page-place .place{padding-block:clamp(2.5rem,6vw,5rem)}
 .page-place .place .prose > section + section{margin-top:2.2em}
 .page-place .place .prose h1{font-size:clamp(2rem,1.3rem + 3vw,3.4rem);line-height:1.05;letter-spacing:-0.02em;margin-bottom:0.6em}
