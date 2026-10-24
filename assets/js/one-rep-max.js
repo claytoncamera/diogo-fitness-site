@@ -59,6 +59,9 @@ function init(root) {
   if (!fields) return;
   const $ = (sel) => root.querySelector(sel);
   const set = (sel, text) => { const el = $(sel); if (el) el.textContent = text; };
+  // The percentage table and the RPE table are their own sections below the box, not inside it, so their cells are looked up
+  // on the whole page. Each data-orm-pct, data-orm-rpe and data-orm-rpe-reps value appears once on the page.
+  const setOnPage = (sel, text) => { const el = document.querySelector(sel); if (el) el.textContent = text; };
   const field = (name) => fields.querySelector(`[name="${name}"]`);
   const live = $('[data-orm-live]');
   let timer = 0;
@@ -88,9 +91,9 @@ function init(root) {
     set('[data-orm-brzycki]', fmt(r.brzycki, r.unit));
     const warn = $('[data-orm-warn]');
     if (warn) warn.hidden = !r.loose;
-    r.percents.forEach((p) => set(`[data-orm-pct="${p.pct}"]`, fmt(p.load, r.unit)));
-    set('[data-orm-rpe-reps]', `${r.reps} rep${r.reps === 1 ? '' : 's'}`);
-    r.atRpe.forEach((x) => set(`[data-orm-rpe="${x.rpe}"]`, fmt(x.load, r.unit)));
+    r.percents.forEach((p) => setOnPage(`[data-orm-pct="${p.pct}"]`, fmt(p.load, r.unit)));
+    setOnPage('[data-orm-rpe-reps]', `${r.reps} rep${r.reps === 1 ? '' : 's'}`);
+    r.atRpe.forEach((x) => setOnPage(`[data-orm-rpe="${x.rpe}"]`, fmt(x.load, r.unit)));
     const say = `Estimated one-rep max ${fmt(r.average, r.unit)}: Epley ${fmt(r.epley, r.unit)}, Brzycki ${fmt(r.brzycki, r.unit)}.${r.loose ? ' Above 10 reps, the estimate gets loose.' : ''}`;
     if (live) timer = setTimeout(() => { live.textContent = say; }, announce ? 0 : 700);
   };

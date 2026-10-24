@@ -699,3 +699,4 @@ html:not(.js) .cal__replay,html:not(.js) .week__picker{display:none}
 .pc__bar{display:flex;align-items:center;height:7rem}
 .pc__bar::before,.pc__bar::after{content:"";flex:1 1 2rem;max-width:3rem;height:0.6rem;background:var(--line-strong)}
 .pc__bar i{flex:0 1 1.1rem;height:calc(var(--h) * 1%);margin:0 1px;border-radius:3px;background:var(--ink-700)}
+.hrz__z2 td{background:var(--bone-200);font-weight:650}

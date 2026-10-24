@@ -418,6 +418,10 @@ Online fitness coaching for people in Wyoming: short drives, a garage program, a
 URL: https://diogofit.com/privacy/
 What this site does and doesn’t collect, in plain English: no accounts, no ad cookies, and what happens to what you send when you apply.
 
+### Heart Rate Zone Calculator: Find Your Zone 2
+URL: https://diogofit.com/tools/heart-rate-zone-calculator/
+Free heart rate zone calculator: max heart rate from two formulas, five zones in beats a minute, zone 2 by max and by heart rate reserve, and the talk test.
+
 ### One-Rep Max Calculator (1RM) with RPE and RIR
 URL: https://diogofit.com/tools/one-rep-max-calculator/
 Free one-rep max calculator with RPE and reps in reserve: Epley and Brzycki estimates, a 60 to 95% load table, and how accurate the formulas are.
