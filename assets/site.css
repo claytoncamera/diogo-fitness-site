@@ -695,3 +695,7 @@ html:not(.js) .cal__replay,html:not(.js) .week__picker{display:none}
 .orm__error:empty{display:none}
 .orm__error{color:var(--coral-600);font-weight:600}
 .orm.is-invalid .orm__out{opacity:0.45}
+.pc__plates{display:grid;grid-template-columns:repeat(auto-fill,minmax(8.5rem,1fr));gap:0.6rem 1rem}
+.pc__bar{display:flex;align-items:center;height:7rem}
+.pc__bar::before,.pc__bar::after{content:"";flex:1 1 2rem;max-width:3rem;height:0.6rem;background:var(--line-strong)}
+.pc__bar i{flex:0 1 1.1rem;height:calc(var(--h) * 1%);margin:0 1px;border-radius:3px;background:var(--ink-700)}

@@ -422,6 +422,14 @@ What this site does and doesn’t collect, in plain English: no accounts, no ad 
 URL: https://diogofit.com/tools/one-rep-max-calculator/
 Free one-rep max calculator with RPE and reps in reserve: Epley and Brzycki estimates, a 60 to 95% load table, and how accurate the formulas are.
 
+### Plate Calculator: Barbell Plates per Side
+URL: https://diogofit.com/tools/plate-calculator/
+Free barbell plate calculator in lb or kg: enter a weight, your bar and your plates, and get the plates per side, the nearest loadable weight and a bar diagram.
+
+### Warm-Up Set Calculator for Lifting
+URL: https://diogofit.com/tools/warm-up-set-calculator/
+Free warm-up set calculator: enter your working weight and reps, and get warm-up sets rounded to weights you can load, plates per side, and the research behind it.
+
 ### Online Fitness Coach for the Miami–Fort Lauderdale–West Palm Beach Area
 URL: https://diogofit.com/online-coaching/florida/miami-metro/
 Online fitness coaching for the Miami–Fort Lauderdale–West Palm Beach area: the metro’s activity survey, its climate and commute, and the city pages inside it.
@@ -581,6 +589,34 @@ Online fitness coaching for the Pittsburgh area: the metro’s activity survey, 
 ### Online Fitness Coach for the Louisville/Jefferson County Area
 URL: https://diogofit.com/online-coaching/kentucky/louisville-metro/
 Online fitness coaching for the Louisville area in Kentucky and Indiana: the metro’s activity survey, its seasons and commute, and how the plan fits a week here.
+
+### Online Fitness Coach for the Palm Bay–Melbourne–Titusville Area
+URL: https://diogofit.com/online-coaching/florida/palm-bay-metro/
+Online fitness coaching for the Palm Bay–Melbourne–Titusville area: what the weekly call needs and when outdoor training works on the Brevard coast.
+
+### Online Fitness Coach for the North Port–Bradenton–Sarasota Area
+URL: https://diogofit.com/online-coaching/florida/north-port-metro/
+Online fitness coaching for the North Port–Bradenton–Sarasota area: a plan for a long run of hot days, a use for the work-from-home days, and the weekly call.
+
+### Online Fitness Coach for the Pensacola–Ferry Pass–Brent Area
+URL: https://diogofit.com/online-coaching/florida/pensacola-metro/
+Online fitness coaching for the Pensacola area, on Central time: a plan with a wet-day backup and a weekly call set in your time zone.
+
+### Online Fitness Coach for the Ocala Area
+URL: https://diogofit.com/online-coaching/florida/ocala-metro/
+Online fitness coaching for the Ocala area: a plan for an on-site workweek, more than a hundred hot days a year and cool winter mornings, with a weekly call.
+
+### Online Fitness Coach for the Tallahassee Area
+URL: https://diogofit.com/online-coaching/florida/tallahassee-metro/
+Online fitness coaching for the Tallahassee area’s four counties: the CDC’s metro survey, area-wide daily-life figures and how the plan fits a week here.
+
+### Online Fitness Coach for the Gainesville Area
+URL: https://diogofit.com/online-coaching/florida/gainesville-metro/
+Online fitness coaching for the Gainesville area’s three counties: the CDC’s metro survey, a plan for the drive in from outside the city, and the weekly call.
+
+### Online Fitness Coach for the Naples–Marco Island Area
+URL: https://diogofit.com/online-coaching/florida/naples-metro/
+Online fitness coaching for the Naples–Marco Island area: a plan for a mild winter and a long hot season, a program that can run from home, and the weekly call.
 
 ## Articles
 
@@ -1027,3 +1063,28 @@ Short answer: Pick the seated leg curl if you have the choice. Knees lined up wi
 URL: https://diogofit.com/learn/hack-squat/
 How to use the hack squat machine: the setup, where to put your feet, how deep to go, the hack squat vs the leg press and the squat, and the common faults.
 Short answer: Back flat on the pad, shoulders under the pads, feet about shoulder-width in the middle of the platform. Lower until your thighs are at least parallel to the platform, then press up through your whole foot. In 10 men, the hack squat allowed a heavier max than the back squat but asked less of the trunk muscles.
+
+### Seated Cable Row: Form, Grip and Faults
+URL: https://diogofit.com/learn/seated-cable-row/
+Seated cable row form: the setup, the pull to your stomach, neutral vs wide grip, leaning and momentum, single-arm and machine versions, and alternatives.
+Short answer: Feet on the platform, knees slightly bent, sit tall. Pull the handle to your stomach with your elbows close, then let your arms go long without rounding forward. A 2026 review linked a narrower grip and elbows kept closer to the body with more lat activity. Keep your torso nearly still: lean back a little, no more.
+
+### Chest Fly: Dumbbell, Cable and Machine Form
+URL: https://diogofit.com/learn/chest-fly/
+How to do a chest fly with dumbbells, cables or a machine: the arc, the stretch, fly vs bench press in the research, common faults, and how many sets.
+Short answer: Arms out wide with a slight, fixed bend at the elbow, bring your hands together in a wide arc in front of your chest, then open until you feel a stretch, no deeper. Keep it after your presses. A fly machine alone grew the chest in 15 untrained men over 12 weeks.
+
+### Hamstring Workout: Gym, Home, No Equipment
+URL: https://diogofit.com/learn/hamstring-workout/
+A hamstring workout for the gym and for home with dumbbells, bands or no equipment: why you need a hinge and a curl, seated vs lying curls, sets and reps.
+Short answer: Train both jobs of the hamstrings: a hinge such as the Romanian deadlift, which extends the hip, and a curl, which bends the knee. In 42 young men, a hip-bent curl and the Nordic curl grew different hamstring muscles most. Three sets of each, once or twice a week; at home, single-leg hinges, slider curls and Nordic curls.
+
+### Ankle Mobility: Knee-to-Wall Test, Drills
+URL: https://diogofit.com/learn/ankle-mobility/
+Ankle mobility for lifters: why ankle range matters in the squat, the knee-to-wall test, calf stretches and drills, raised heels, and what the evidence shows.
+Short answer: Test it first: foot a few inches from a wall, push your knee toward the wall with your heel down, and measure the farthest spot that still works. In 20 healthy adults, that range was the only measure linked with how deep they squatted. Calf stretching adds a few degrees; raised heels are the quick workaround.
+
+### Zone 2 Cardio: Heart Rate and the Talk Test
+URL: https://diogofit.com/learn/zone-2-cardio/
+What zone 2 cardio is (heart rate, the talk test, lactate), how to find your zone 2 without a lab, how much a week beside lifting, and examples to start with.
+Short answer: Zone 2 is steady cardio just below your first threshold, the point where your breathing starts to pick up: an expert panel put it immediately below the first lactate or ventilatory threshold. Without a lab, you can still talk in full sentences, but it isn't effortless. Beside lifting, aim for the WHO's 150 to 300 moderate minutes weekly.

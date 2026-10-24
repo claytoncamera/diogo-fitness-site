@@ -533,6 +533,16 @@
     <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://diogofit.com/tools/plate-calculator/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/tools/warm-up-set-calculator/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://diogofit.com/online-coaching/florida/miami-metro/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
@@ -729,6 +739,41 @@
   </url>
   <url>
     <loc>https://diogofit.com/online-coaching/kentucky/louisville-metro/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/florida/palm-bay-metro/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/florida/north-port-metro/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/florida/pensacola-metro/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/florida/ocala-metro/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/florida/tallahassee-metro/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/florida/gainesville-metro/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/online-coaching/florida/naples-metro/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
@@ -1191,5 +1236,30 @@
     <loc>https://diogofit.com/learn/hack-squat/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/seated-cable-row/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/chest-fly/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/hamstring-workout/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/ankle-mobility/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/zone-2-cardio/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/walk-1200.jpg</image:loc></image:image>
   </url>
 </urlset>
