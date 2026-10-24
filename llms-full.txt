@@ -1,6 +1,6 @@
 # Diogo Fitness
 
-> Diogo Fitness is one-to-one online fitness coaching from Diogo Camera, based in South Florida, for clients anywhere in the world.
+> Diogo Fitness (Diogo Fit) is one-to-one online fitness coaching from Diogo Camera, based in South Florida, for clients anywhere in the world.
 
 Coaching is online and sold only through a conversation: there are no prices on this site. Apply at https://diogofit.com/apply/.
 
@@ -60,7 +60,7 @@ Coaching is fully online: workouts in Trainerize, two weigh-ins a week and a wee
 
 ### Diogo Fitness | Online Fitness Coach Diogo Camera
 URL: https://diogofit.com/
-Online fitness coaching with Diogo Camera, a South Florida fitness coach with clients worldwide. Personalized workouts, practical nutrition and weekly check-ins.
+Diogo Fitness (Diogo Fit) is one-to-one online fitness coaching from Diogo Camera, based in South Florida, for clients anywhere in the world.
 
 ### The Journey: Follow Diogo in Public
 URL: https://diogofit.com/journey/
