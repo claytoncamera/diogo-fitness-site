@@ -4,15 +4,29 @@
 
 Coaching is online and sold only through a conversation: there are no prices on this site. Apply at https://diogofit.com/apply/.
 
+## Start here
+
+- How it runs: a program in the Trainerize app, two weigh-ins a week, progress photos every two weeks, a weekly call, and messages in between. Online, for clients anywhere.
+- [How one-to-one coaching with Diogo works](https://diogofit.com/coaching/)
+- [What online fitness coaching is](https://diogofit.com/learn/what-is-online-fitness-coaching/)
+- [How to choose an online fitness coach](https://diogofit.com/learn/how-to-choose-an-online-fitness-coach/)
+- [Who Diogo Camera is](https://diogofit.com/about/)
+- [Questions and answers](https://diogofit.com/faq/)
+- [Apply](https://diogofit.com/apply/)
+
 ## Pages
 
 - [Diogo Camera, Online Fitness Coach](https://diogofit.com/about/): Diogo Camera is an online fitness coach based in South Florida. He used to build his days around comfort. Now he helps people build theirs around structure.
 - [Apply for Online Coaching](https://diogofit.com/apply/): Apply for online fitness coaching with Diogo: answer a few short questions and send him the message on Instagram, or use the full application form.
-- [Online Fitness Coaching With Diogo Camera](https://diogofit.com/coaching/): Online fitness coaching built around your week, wherever you live: workouts in Trainerize, two weigh-ins a week, a weekly call and direct access to Diogo.
+- [1-on-1 Online Fitness Coaching With Diogo Camera](https://diogofit.com/coaching/): Online fitness coaching built around your week, wherever you live: workouts in Trainerize, two weigh-ins a week, a weekly call and direct access to Diogo.
 - [Online Fitness Coaching for Beginners](https://diogofit.com/coaching/beginners/): Online fitness coaching for beginners: a program that tells you what to do and in what order, technique taught as you go, and short first weeks you can finish.
 - [Online Coaching to Build Muscle](https://diogofit.com/coaching/build-muscle/): Online coaching to build muscle: enough weekly work, progression you can see in the logbook, and a coach who adjusts the program every week.
-- [Online Fitness Coaching for Busy People](https://diogofit.com/coaching/busy-week/): Online fitness coaching built for a week that never holds still: two or three sessions you can keep, a floor for bad weeks, and a coach who adjusts the plan.
+- [Online Fitness Coaching for Busy People and Professionals](https://diogofit.com/coaching/busy-week/): Online fitness coaching for busy people and working professionals: two or three sessions you can keep, a floor for bad weeks, and a coach who adjusts the plan to your week.
 - [Online Fat Loss Coaching That Fits Your Life](https://diogofit.com/coaching/fat-loss/): Online fat loss coaching without extreme diets: lifting to keep muscle, steps and habits you can repeat, and numbers someone reads every week.
+- [Online Fitness Coaching for Men](https://diogofit.com/coaching/men/): Online fitness coaching programs for men: a plan with structure, built around your work week and your equipment, with a coach who reads your logbook every week.
+- [Online Fitness Coaching After 40](https://diogofit.com/coaching/over-40/): Online fitness coaching after 40: strength training with a proper warm-up, exercise swaps when a movement doesn’t sit right, and recovery built into the week, written around your equipment and schedule.
+- [Online Strength Coaching](https://diogofit.com/coaching/strength/): Online strength coaching: heavy sets, enough rest between them, small steady increases, and a coach who reads your logbook and adjusts the plan every week.
+- [Online Fitness Coaching for Women](https://diogofit.com/coaching/women/): Online fitness coaching for women: strength training that works in much the same way it does for men, a plan built around your equipment and your week, and a coach to answer to.
 - [Health, Results and Coaching Disclaimer](https://diogofit.com/disclaimer/): What coaching with Diogo is and isn’t: not medical advice, not treatment, and no guaranteed results.
 - [Online Coaching FAQ: How It Works](https://diogofit.com/faq/): Coaching is fully online: workouts in Trainerize, two weigh-ins a week and a weekly check-in call. Honest answers on applying, training and eating.
 - [Diogo Fitness | Online Fitness Coach Diogo Camera](https://diogofit.com/): Online fitness coaching with Diogo Camera, a South Florida fitness coach with clients worldwide. Personalized workouts, practical nutrition and weekly check-ins.
@@ -156,7 +170,7 @@ Coaching is online and sold only through a conversation: there are no prices on 
 - [What Is RIR (Reps in Reserve)?](https://diogofit.com/learn/reps-in-reserve/): Reps in reserve (RIR) is how many more good reps you could have done before failure. For most working sets, aim for about 1 to 3 in reserve.
 - [How to Get Back Into the Gym After a Long Break](https://diogofit.com/learn/getting-back-into-training/): After months off you keep more than you think, mostly strength. Start lighter than your old numbers, train two or three times a week and build back over six weeks.
 - [Is an Online Fitness Coach Worth It?](https://diogofit.com/learn/is-online-fitness-coaching-worth-it/): An honest answer from a coach: what an online fitness coach adds, what the research shows, and who should wait before hiring one.
-- [Online Fitness Coach vs Personal Trainer](https://diogofit.com/learn/online-coach-vs-gym-trainer/): A personal trainer works beside you in sessions. An online coach plans your whole week. How to choose, and when a trainer is the better call.
+- [Online Coaching vs Personal Trainer: Side by Side](https://diogofit.com/learn/online-coach-vs-gym-trainer/): Online coaching vs a personal trainer, side by side: who writes the plan, form feedback, accountability, flexibility, and when each one wins. Honest about thin evidence.
 - [Gym Anxiety? How to Get Through Your First Day](https://diogofit.com/learn/gym-anxiety/): Nervous about your first day at the gym? Decide the workout first, keep it short and easy, know the etiquette basics and have a plan for when you feel watched.
 - [How to Start Lifting Weights: First 4 Weeks](https://diogofit.com/learn/how-to-start-lifting-weights/): A beginner's first four weeks of lifting: six movements, two or three short sessions a week, weights that feel too easy, and exactly when to add more.
 - [Your First Month of Online Coaching](https://diogofit.com/learn/first-month-of-online-coaching/): The first month of online fitness coaching, week by week: the questions, the first plan, the first weigh-ins, the first call, and what usually feels hard.
@@ -181,3 +195,4 @@ Coaching is online and sold only through a conversation: there are no prices on 
 
 - [Sitemap](https://diogofit.com/sitemap.xml)
 - [Articles RSS](https://diogofit.com/learn/feed.xml)
+- [Every page with its short answer](https://diogofit.com/llms-full.txt)
