@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/coaching/</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
@@ -39,7 +39,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
@@ -59,7 +59,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/coaching/beginners/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/online-coaching/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
@@ -828,9 +828,19 @@
     <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://diogofit.com/learn/how-active-is-your-metro/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://diogofit.com/learn/how-to-warm-up-before-lifting/</loc>
     <lastmod>2026-10-23</lastmod>
     <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/summer-heat-by-metro/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/sunrise-1200.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/cardio-and-lifting/</loc>
@@ -838,7 +848,17 @@
     <image:image><image:loc>https://diogofit.com/img/beach-1200.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://diogofit.com/learn/winter-cold-by-metro/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://diogofit.com/learn/bodyweight-workout/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/doorbag-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/commute-by-state/</loc>
     <lastmod>2026-10-23</lastmod>
     <image:image><image:loc>https://diogofit.com/img/doorbag-1200.jpg</image:loc></image:image>
   </url>
