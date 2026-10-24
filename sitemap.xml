@@ -884,7 +884,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/hotel-workout/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/doorbag-1200.jpg</image:loc></image:image>
   </url>
   <url>
@@ -1011,5 +1011,30 @@
     <loc>https://diogofit.com/learn/how-much-weight-to-lift/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/hip-thrust/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/goblet-squat/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/dumbbell-row/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/lat-pulldown-form/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/leg-press/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
   </url>
 </urlset>
