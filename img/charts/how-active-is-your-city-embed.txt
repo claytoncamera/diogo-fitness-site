@@ -1,0 +1,4 @@
+Embed code for the chart on https://diogofit.com/learn/how-active-is-your-city/ (free to reuse with this link back; the data are the CDC's):
+
+<a href="https://diogofit.com/learn/how-active-is-your-city/"><img src="https://diogofit.com/img/charts/how-active-is-your-city.png" alt="Bar chart: adults reporting no leisure-time physical activity, age-adjusted in 27 cities, from CDC PLACES 2025. One bar per city, sorted by the published estimate, with the 95% confidence interval drawn as a thin line." width="1200" height="948"></a>
+<p>Chart: Diogo Fitness, from CDC PLACES 2025 data. Table, sources and CSV: https://diogofit.com/learn/how-active-is-your-city/</p>

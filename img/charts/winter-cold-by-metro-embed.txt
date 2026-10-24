@@ -1,0 +1,4 @@
+Embed code for the chart on https://diogofit.com/learn/winter-cold-by-metro/ (free to reuse with this link back; the data are NOAA's):
+
+<a href="https://diogofit.com/learn/winter-cold-by-metro/"><img src="https://diogofit.com/img/charts/winter-cold-by-metro.png" alt="Bar chart: average january low temperature in 46 metro areas, from NOAA normals 1991–2020. One bar per metro area, sorted by the published estimate." width="1200" height="1404"></a>
+<p>Chart: Diogo Fitness, from NOAA normals 1991–2020 data. Table, sources and CSV: https://diogofit.com/learn/winter-cold-by-metro/</p>

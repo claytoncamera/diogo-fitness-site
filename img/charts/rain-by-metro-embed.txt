@@ -1,0 +1,4 @@
+Embed code for the chart on https://diogofit.com/learn/rain-by-metro/ (free to reuse with this link back; the data are NOAA's):
+
+<a href="https://diogofit.com/learn/rain-by-metro/"><img src="https://diogofit.com/img/charts/rain-by-metro.png" alt="Bar chart: average annual precipitation in 39 metro areas, from NOAA normals 1991–2020. One bar per metro area, sorted by the published estimate." width="1200" height="1236"></a>
+<p>Chart: Diogo Fitness, from NOAA normals 1991–2020 data. Table, sources and CSV: https://diogofit.com/learn/rain-by-metro/</p>

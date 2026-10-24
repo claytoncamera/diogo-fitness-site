@@ -13,7 +13,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/apply/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
@@ -34,7 +34,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/journey/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
@@ -44,7 +44,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/faq/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
@@ -74,7 +74,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/coaching/fat-loss/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
@@ -900,7 +900,9 @@
     <loc>https://diogofit.com/learn/how-active-is-your-state/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/walk-1200.jpg</image:loc></image:image>
-    <image:image><image:loc>https://diogofit.com/img/og/how-active-is-your-state.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/how-active-is-your-state-card.png</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/how-active-is-your-state.svg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/how-active-is-your-state.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/dumbbell-workout-plan/</loc>
@@ -941,6 +943,9 @@
     <loc>https://diogofit.com/learn/how-active-is-your-metro/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/how-active-is-your-metro-card.png</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/how-active-is-your-metro.svg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/how-active-is-your-metro.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/how-to-warm-up-before-lifting/</loc>
@@ -951,6 +956,9 @@
     <loc>https://diogofit.com/learn/summer-heat-by-metro/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/sunrise-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/summer-heat-by-metro-card.png</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/summer-heat-by-metro.svg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/summer-heat-by-metro.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/cardio-and-lifting/</loc>
@@ -961,6 +969,9 @@
     <loc>https://diogofit.com/learn/winter-cold-by-metro/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/winter-cold-by-metro-card.png</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/winter-cold-by-metro.svg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/winter-cold-by-metro.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/bodyweight-workout/</loc>
@@ -971,6 +982,9 @@
     <loc>https://diogofit.com/learn/commute-by-state/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/doorbag-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/commute-by-state-card.png</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/commute-by-state.svg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/commute-by-state.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/hotel-workout/</loc>
@@ -981,6 +995,9 @@
     <loc>https://diogofit.com/learn/rain-by-metro/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/rain-by-metro-card.png</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/rain-by-metro.svg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/rain-by-metro.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/how-many-sets-per-week/</loc>
@@ -991,6 +1008,9 @@
     <loc>https://diogofit.com/learn/commute-by-metro/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/doorbag-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/commute-by-metro-card.png</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/commute-by-metro.svg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/commute-by-metro.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/how-many-reps/</loc>
@@ -1001,6 +1021,9 @@
     <loc>https://diogofit.com/learn/how-active-is-your-city/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/how-active-is-your-city-card.png</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/how-active-is-your-city.svg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/how-active-is-your-city.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/rest-between-sets/</loc>

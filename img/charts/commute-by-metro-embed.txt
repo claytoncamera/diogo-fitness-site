@@ -1,0 +1,4 @@
+Embed code for the chart on https://diogofit.com/learn/commute-by-metro/ (free to reuse with this link back; the data are the Census Bureau's):
+
+<a href="https://diogofit.com/learn/commute-by-metro/"><img src="https://diogofit.com/img/charts/commute-by-metro.png" alt="Bar chart: average one-way trip to work in 40 metro areas, from Census ACS 2020–2024. One bar per metro area, sorted by the published estimate, with the 90% margin of error drawn as a thin line." width="1200" height="1260"></a>
+<p>Chart: Diogo Fitness, from Census ACS 2020–2024 data. Table, sources and CSV: https://diogofit.com/learn/commute-by-metro/</p>
