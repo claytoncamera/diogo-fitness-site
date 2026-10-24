@@ -1,26 +1,49 @@
 Metro area,"NOAA station (ID), distance",Days a year at or above 90 F,Average July high
-"Atlanta-Sandy Springs-Roswell, GA","Atlanta Hartsfield International Airport (USW00013874), 14.9 km",47.1,90.1 F
-"Austin-Round Rock-San Marcos, TX","Austin-Camp Mabry (USW00013958), 2.5 km",122.8,96.6 F
-"Baltimore-Columbia-Towson, MD","Baltimore Wash International Airport (USW00093721), 16.1 km",33.9,88.8 F
-"Boston-Cambridge-Newton, MA-NH","Boston Logan International Airport (USW00014739), 3.1 km",14.1,82.1 F
-"Charlotte-Concord-Gastonia, NC-SC","Charlotte Douglas Airport (USW00013881), 11.4 km",49.2,90.3 F
-"Chicago-Naperville-Elgin, IL-IN","Chicago Midway Airport 3sw (USC00111577), 13.5 km",20.9,85.2 F
-"Dallas-Fort Worth-Arlington, TX","Dallas Love Fld (USW00013960), 10.6 km",107.5,96.9 F
-"Denver-Aurora-Centennial, CO","Denver-Stapleton (USW00023062), 1.0 km",42.2,90.2 F
-"Detroit-Warren-Dearborn, MI","Dearborn #2 (USC00202016), 7.1 km",17.3†,84.1 F†
-"Houston-Pasadena-The Woodlands, TX","Houston Hobby Airport (USW00012918), 19.4 km",100.5,92.9 F
-"Los Angeles-Long Beach-Anaheim, CA","U C L A (USC00049152), 6.3 km",10.4,76.9 F
-"Miami-Fort Lauderdale-West Palm Beach, FL","Miami International Airport (USW00012839), 10.9 km",91.4,90.6 F
-"Minneapolis-St. Paul-Bloomington, MN-WI","U Of Mn St Paul (USC00218450), 7.6 km",10.5,81.4 F
-"New York-Newark-Jersey City, NY-NJ","New York Cntrl Pk Twr (USW00094728), 13.2 km",17.4,84.9 F
-"Orlando-Kissimmee-Sanford, FL","Orlando International Airport (USW00012815), 4.3 km",109.9,92.0 F
-"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Philadelphia International Airport (USW00013739), 17.8 km",29.7,87.8 F
-"Phoenix-Mesa-Chandler, AZ","Phoenix Sky Harbor International Airport (USW00023183), 17.9 km",173.4,106.5 F
-"Riverside-San Bernardino-Ontario, CA","Riverside Fire Stn 3 (USC00047470), 1.5 km",110.0†,95.3 F†
-"San Antonio-New Braunfels, TX","San Antonio Incarnate Word (USC00417947), 5.1 km",111.9†,94.0 F†
-"San Diego-Chula Vista-Carlsbad, CA","San Diego Montgomery Fld (USW00003131), 2.4 km",16.0†,79.8 F†
-"San Francisco-Oakland-Fremont, CA",No NOAA normals station within 25 km of San Francisco's Census point,—,—
-"Seattle-Tacoma-Bellevue, WA","Seattle Sand Pt Wsfo (USW00094290), 10.4 km",2.1,76.5 F
+"Atlanta–Sandy Springs–Roswell, GA","Atlanta Hartsfield International Airport (USW00013874), 14.9 km",47.1,90.1 F
+"Austin–Round Rock–San Marcos, TX","Austin-Camp Mabry (USW00013958), 2.5 km",122.8,96.6 F
+"Baltimore–Columbia–Towson, MD","Baltimore Wash International Airport (USW00093721), 16.1 km",33.9,88.8 F
+"Birmingham, AL","Birmingham Airport (USW00013876), 6.4 km",65.0,91.0 F
+"Boston–Cambridge–Newton, MA-NH","Boston Logan International Airport (USW00014739), 3.1 km",14.1,82.1 F
+"Charlotte–Concord–Gastonia, NC-SC","Charlotte Douglas Airport (USW00013881), 11.4 km",49.2,90.3 F
+"Chicago–Naperville–Elgin, IL-IN","Chicago Midway Airport 3sw (USC00111577), 13.5 km",20.9,85.2 F
+"Cincinnati, OH-KY-IN","Cincinnati Lunken Airport (USW00093812), 8.5 km",26.7,86.6 F
+"Cleveland, OH","Cleveland (USW00014820), 16.7 km",12.4,83.7 F
+"Columbus, OH","Columbus Port Columbus International Airport (USW00014821), 8.9 km",20.7,85.4 F
+"Dallas–Fort Worth–Arlington, TX","Dallas Love Fld (USW00013960), 10.6 km",107.5,96.9 F
+"Denver–Aurora–Centennial, CO","Denver-Stapleton (USW00023062), 1.0 km",42.2,90.2 F
+"Detroit–Warren–Dearborn, MI","Dearborn #2 (USC00202016), 7.1 km",17.3†,84.1 F†
+"Grand Rapids–Wyoming–Kentwood, MI","Grand Rapids (USW00094860), 11.7 km",9.9,83.1 F
+"Hartford–West Hartford–East Hartford, CT","Hartford Brainard Fld (USW00014752), 4.2 km",17.0,84.6 F
+"Houston–Pasadena–The Woodlands, TX","Houston Hobby Airport (USW00012918), 19.4 km",100.5,92.9 F
+"Indianapolis–Carmel–Greenwood, IN","Indianapolis (USW00093819), 13.8 km",19.9,85.2 F
+"Jacksonville, FL","Jacksonville (USW00013889), 17.0 km",80.1,91.9 F
+"Kansas City, MO-KS","Kansas City Downtown Airport (USW00013988), 4.0 km",47.3,90.2 F
+"Los Angeles–Long Beach–Anaheim, CA","U C L A (USC00049152), 6.3 km",10.4,76.9 F
+"Louisville/Jefferson County, KY-IN","Louisville International Airport (USW00093821), 8.2 km",42.7,89.0 F
+"Memphis, TN-MS-AR","Memphis International Airport (USW00013893), 6.1 km",72.1,91.9 F
+"Miami–Fort Lauderdale–West Palm Beach, FL","Miami International Airport (USW00012839), 10.9 km",91.4,90.6 F
+"Milwaukee–Waukesha, WI","Milwaukee Mitchell Airport (USW00014839), 13.1 km",9.1,81.9 F
+"Minneapolis–St. Paul–Bloomington, MN-WI","U Of Mn St Paul (USC00218450), 7.6 km",10.5,81.4 F
+"Nashville–Davidson–Murfreesboro–Franklin, TN","Nashville International Airport (USW00013897), 10.4 km",54.1,90.9 F
+"New York–Newark–Jersey City, NY-NJ","New York Cntrl Pk Twr (USW00094728), 13.2 km",17.4,84.9 F
+"Oklahoma City, OK","Oklahoma City Will Rogers Airport (USW00013967), 11.7 km",73.4,93.1 F
+"Orlando–Kissimmee–Sanford, FL","Orlando International Airport (USW00012815), 4.3 km",109.9,92.0 F
+"Philadelphia–Camden–Wilmington, PA-NJ-DE-MD","Philadelphia International Airport (USW00013739), 17.8 km",29.7,87.8 F
+"Phoenix–Mesa–Chandler, AZ","Phoenix Sky Harbor International Airport (USW00023183), 17.9 km",173.4,106.5 F
+"Pittsburgh, PA","Pittsburgh International Airport (USW00094823), 20.8 km",10.1,82.9 F
+"Portland–Vancouver–Hillsboro, OR-WA","Portland International Airport (USW00024229), 7.1 km",14.6,81.9 F
+"Providence–Warwick, RI-MA","Providence T F Green Airport (USW00014765), 11.3 km",11.9,83.6 F
+"Raleigh–Cary, NC","Raleigh State Univ (USC00317079), 7.0 km",47.3,90.6 F
+"Richmond, VA","Richmond International Airport (USW00013740), 14.0 km",44.9,89.5 F
+"Riverside–San Bernardino–Ontario, CA","Riverside Fire Stn 3 (USC00047470), 1.5 km",110.0†,95.3 F†
+"Sacramento–Roseville–Folsom, CA","Sacramento 5 Ese (USW00023271), 4.7 km",89.9,94.4 F
+"Salt Lake City–Murray, UT","Salt Lake City International Airport (USW00024127), 3.6 km",62.2,94.0 F
+"San Antonio–New Braunfels, TX","San Antonio Incarnate Word (USC00417947), 5.1 km",111.9†,94.0 F†
+"San Diego–Chula Vista–Carlsbad, CA","San Diego Montgomery Fld (USW00003131), 2.4 km",16.0†,79.8 F†
+"San Francisco–Oakland–Fremont, CA",No NOAA normals station within 25 km of San Francisco's Census point,—,—
+"San Jose–Sunnyvale–Santa Clara, CA","None used: the one qualifying station within 25 km, Mt Hamilton (USC00045933), is at 1,282 m and doesn't describe the valley",—,—
+"Seattle–Tacoma–Bellevue, WA","Seattle Sand Pt Wsfo (USW00094290), 10.4 km",2.1,76.5 F
 "St. Louis, MO-IL","St Louis Lambert International Airport (USW00013994), 17.1 km",47.1,89.6 F
-"Tampa-St. Petersburg-Clearwater, FL","Tampa International Airport (USW00012842), 6.5 km",94.3,91.0 F
-"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington Reagan Airport (USW00013743), 6.4 km",40.0,89.6 F
+"Tampa–St. Petersburg–Clearwater, FL","Tampa International Airport (USW00012842), 6.5 km",94.3,91.0 F
+"Virginia Beach–Chesapeake–Norfolk, VA-NC","Norfolk International Airport (USW00013737), 20.1 km",36.2,89.4 F
+"Washington–Arlington–Alexandria, DC-VA-MD-WV","Washington Reagan Airport (USW00013743), 6.4 km",40.0,89.6 F

@@ -684,10 +684,10 @@ URL: https://diogofit.com/learn/deload-week/
 A deload week is a planned lighter week of lifting. What it is, how often lifters take one, how to cut sets or weight, and how it differs from a week off.
 Short answer: A deload week is a planned lighter week: the same days and exercises, with fewer sets, lighter weights or sets stopped further from failure. Coaches commonly program one every four to six weeks, but that's practice, not proof: the research on deloading is still limited. Take one when it's planned or when progress stalls.
 
-### How Active Is Your Metro? CDC Data, 25 Metros
+### How Active Is Your Metro? CDC Data, 48 Metros
 URL: https://diogofit.com/learn/how-active-is-your-metro/
-25 large U.S. metros in one table: adults reporting no physical activity in the past month and adults lifting twice a week, from the CDC's metro-area survey.
-Short answer: In the CDC's metro-area survey, the share of adults reporting no physical activity in the past month runs from 14.9% to 29.1% across the 17 of these 25 metros with a 2024 figure, and the share doing muscle-strengthening exercises twice a week from 35.9% to 46.7% (2023). Eight of the 25 have no recent CDC figure.
+48 large U.S. metros in one table: adults reporting no physical activity in the past month and adults lifting twice a week, from the CDC's metro-area survey.
+Short answer: In the CDC's metro-area survey, the share of adults reporting no physical activity in the past month runs from 14.4% to 29.1% across the 40 of these 48 metros with a 2023 or 2024 figure, and the share doing muscle-strengthening exercises twice a week from 35.3% to 46.7% (2023). Eight of the 48 have no recent CDC figure.
 Data (CSV): https://diogofit.com/learn/how-active-is-your-metro/how-active-is-your-metro.csv
 
 ### How to Warm Up Before Lifting: Warm-Up Sets
@@ -697,8 +697,8 @@ Short answer: Spend a few minutes moving easily, then do two to four warm-up set
 
 ### Summer Heat by Metro: 90-Degree Days, July Highs
 URL: https://diogofit.com/learn/summer-heat-by-metro/
-NOAA's 1991–2020 normals at weather stations in 25 big U.S. metros: days a year at or above 90 F, the average July high, and when to move outdoor training.
-Short answer: NOAA's 1991–2020 normals put the days a year at or above 90 F between 2.1 (Seattle) and 173.4 (Phoenix) at principal-city weather stations in 24 large U.S. metros. Where the count is high, move hard outdoor work to the early morning or evening in those months and keep lifting indoors exactly as planned.
+NOAA's 1991–2020 normals at weather stations in 48 big U.S. metros: days a year at or above 90 F, the average July high, and when to move outdoor training.
+Short answer: NOAA's 1991–2020 normals put the days a year at or above 90 F between 2.1 (Seattle) and 173.4 (Phoenix) at principal-city weather stations in 46 large U.S. metros. Where the count is high, move hard outdoor work to the early morning or evening in those months and keep lifting indoors exactly as planned.
 Data (CSV): https://diogofit.com/learn/summer-heat-by-metro/summer-heat-by-metro.csv
 
 ### Cardio Before or After Weights? Order and Timing
@@ -708,8 +708,8 @@ Short answer: Lift first, then do cardio, if strength is your priority: in studi
 
 ### Winter Cold by Metro: Average January Lows
 URL: https://diogofit.com/learn/winter-cold-by-metro/
-NOAA's 1991–2020 average January low at weather stations in 25 big U.S. metros, and what cold, dark months change in a training week: the walk, not the lifting.
-Short answer: NOAA's 1991–2020 normals put the average January low between 5.5 F (Minneapolis-St. Paul) and 61.0 F (Miami) at principal-city weather stations in 24 large U.S. metros, and 11 of the 24 average below freezing. In those months, move the daily walk indoors and keep the lifting plan exactly as it is.
+NOAA's 1991–2020 average January low at weather stations in 48 big U.S. metros, and what cold, dark months change in a training week: the walk, not the lifting.
+Short answer: NOAA's 1991–2020 normals put the average January low between 5.5 F (Minneapolis–St. Paul) and 61.0 F (Miami) at principal-city weather stations in 46 large U.S. metros, and 27 of the 46 average below freezing. In those months, move the daily walk indoors and keep the lifting plan exactly as it is.
 Data (CSV): https://diogofit.com/learn/winter-cold-by-metro/winter-cold-by-metro.csv
 
 ### Bodyweight Workout at Home: A No-Equipment Plan
@@ -727,3 +727,131 @@ Data (CSV): https://diogofit.com/learn/commute-by-state/commute-by-state.csv
 URL: https://diogofit.com/learn/hotel-workout/
 A full-body hotel workout for the room (no equipment) or the hotel gym (dumbbells), how to keep a travel week on track, and what a week off really costs.
 Short answer: A hotel workout needs a squat, a push, a pull and a hinge, plus a core move. In the room, use your bodyweight and take each set close to failure; in the hotel gym, add the dumbbells. Two short sessions hold a travel week together, and in one study, two weeks off barely moved squat or bench press strength.
+
+### Average Annual Rainfall by Metro: NOAA Normals
+URL: https://diogofit.com/learn/rain-by-metro/
+NOAA's 1991–2020 average annual precipitation at a named weather station in 40 U.S. metros, and what a wet day changes in a training week: the walk, not the lifting.
+Short answer: NOAA's 1991–2020 normals put average annual precipitation between 7.2 inches (Phoenix) and 67.4 inches (Miami) at principal-city weather stations in 39 U.S. metros, and half of them get 41.8 inches or less. On a wet day, move the walk indoors or under cover and keep the lifting plan exactly as it is.
+Data (CSV): https://diogofit.com/learn/rain-by-metro/rain-by-metro.csv
+
+### How Many Sets per Week per Muscle?
+URL: https://diogofit.com/learn/how-many-sets-per-week/
+How many sets per muscle per week: 6 to 10 hard sets is plenty when you're new, 10 or more builds more muscle, and returns shrink past about 20.
+Short answer: Count the hard sets each muscle gets across the week. If you're new, 6 to 10 is plenty. The American College of Sports Medicine's 2026 review ties 10 or more to more muscle growth, with diminishing returns past about 18 to 20. Start where you can recover, and add a set or two when progress stalls.
+
+### Commute Times and Working From Home by Metro
+URL: https://diogofit.com/learn/commute-by-metro/
+The Census Bureau's average trip to work and work-from-home share for 40 U.S. metro areas, with margins of error, and where training fits around each.
+Short answer: By the Census Bureau's 2020–2024 American Community Survey, the average trip to work across these 40 metro areas runs from 22.0 minutes (Grand Rapids) to 33.2 minutes (Riverside–San Bernardino), and the share of workers who work from home from 9.9% (Memphis) to 26.8% (Austin). A long commute moves training before work, near work or into shorter sessions; working from home turns the old commute into a training slot.
+Data (CSV): https://diogofit.com/learn/commute-by-metro/commute-by-metro.csv
+
+### How Many Reps to Build Muscle vs Strength?
+URL: https://diogofit.com/learn/how-many-reps/
+How many reps per set: about 6 to 15 is the efficient middle for muscle, heavier sets of 1 to 6 build more strength, and there is no magic hypertrophy range.
+Short answer: For muscle, a wide range of reps works when the sets are hard: about 6 to 15 is the efficient middle, and light sets of 15 to 40 work too when taken to failure. For strength, heavier sets of about 1 to 6 reps do more. There is no single hypertrophy range.
+
+### How Active Is Your City? CDC Data for 27 Cities
+URL: https://diogofit.com/learn/how-active-is-your-city/
+The CDC's PLACES estimates for 27 U.S. cities: adults with no leisure-time physical activity and adults reporting short sleep, with 95% ranges and how to read them.
+Short answer: In the CDC's PLACES 2025 estimates (age-adjusted and model-based), the share of adults with no leisure-time physical activity runs from 13.0% (Centennial, Colorado) to 33.0% (San Bernardino, California) across these 27 cities, and the share who report short sleep, under seven hours, from 29.4% to 43.6%. Each end overlaps its neighbors, so no single city is clearly first or last.
+Data (CSV): https://diogofit.com/learn/how-active-is-your-city/how-active-is-your-city.csv
+
+### How Long to Rest Between Sets?
+URL: https://diogofit.com/learn/rest-between-sets/
+How long to rest between sets: at least a minute for muscle growth, two to five for heavy compound lifts, less for small exercises, and how to time it.
+Short answer: Rest at least a minute between sets for muscle growth: a 2024 meta-analysis found a small benefit past 60 seconds and no clear gain past 90. Give heavy compound lifts two to five minutes, smaller exercises one to two, and pair exercises for different muscles when time is short.
+
+### Supersets and Drop Sets, Explained
+URL: https://diogofit.com/learn/supersets/
+What supersets and drop sets are, the three ways to pair exercises, what the research says about time and gains, and when to leave them out of your workout.
+Short answer: A superset is two exercises done back to back, then a rest. In a 2025 meta-analysis, supersets kept about the same reps and total load as regular sets in a shorter session, with similar long-term gains in the few studies that tested them, though they felt harder. Pair different muscles, and keep heavy free-weight lifts out.
+
+### Compound vs Isolation Exercises, Explained
+URL: https://diogofit.com/learn/compound-exercises/
+What compound exercises are, the main movement patterns, how many to include, compound vs isolation exercises, and whether machines or free weights matter.
+Short answer: Compound exercises move more than one joint and work several muscles at once, like squats, deadlifts, presses, rows and pulldowns. Build each session on at least a lower-body exercise, an upper-body push and an upper-body pull, do them early, and add isolation exercises for muscles you want more work for.
+
+### How to Squat: Form, Depth and Common Faults
+URL: https://diogofit.com/learn/squat-form/
+How to squat with good form: the setup step by step, how deep to go, whether your knees can pass your toes, the bar and dumbbell versions, and the faults.
+Short answer: Feet about shoulder-width apart, toes turned out a little, brace, then sit down between your heels with your knees following your toes, as deep as you can hold that position, and stand back up. Depth matters: a 2021 meta-analysis found full range of motion built more strength and leg muscle than partial reps.
+
+### How to Deadlift: Form, Trap Bar and RDL
+URL: https://diogofit.com/learn/deadlift-form/
+How to deadlift with good form: learn the hip hinge first, then the conventional deadlift, the trap bar deadlift and the Romanian deadlift, and which to use.
+Short answer: Learn the hip hinge first: push your hips back with your knees slightly bent and your back straight, then stand up by driving your hips forward. Then pick a version: the conventional deadlift from the floor, the trap bar, which often allows heavier loads, or the Romanian deadlift for the hamstrings.
+
+### Bench Press Form, and How to Add Weight
+URL: https://diogofit.com/learn/bench-press-form/
+Bench press form step by step: the setup, how wide to grip, whether to arch, the rep itself, and how to increase your bench press without rushing it.
+Short answer: Lie with your eyes under the bar, feet flat and shoulder blades pulled back. Grip the bar wider than your shoulders: in two studies, medium and wide grips moved more weight than a shoulder-width or narrower one. Lower the bar under control to touch your chest, press it back up, and add weight in small steps.
+
+### How to Do a Pull-Up, Even From Zero
+URL: https://diogofit.com/learn/how-to-do-a-pull-up/
+How to do a pull-up with good form, and how to get your first one with negatives, bands, the assisted machine and the lat pulldown. Then how to add reps.
+Short answer: Hang with straight arms, pull your shoulder blades down, and pull until your chin clears the bar, then lower all the way. If you can't do one yet, train the parts: slow negatives, band- or machine-assisted pull-ups and lat pulldowns. As each gets easier, take a little less help.
+
+### Muscle Soreness (DOMS): How Long It Lasts
+URL: https://diogofit.com/learn/muscle-soreness/
+What delayed-onset muscle soreness (DOMS) is, how long it usually lasts, whether to work out when you're sore, and when soreness is a reason to see a doctor.
+Short answer: Delayed-onset muscle soreness (DOMS) usually appears 12 to 24 hours after exercise your muscles aren't used to, peaks one to three days after, and is gone within five to seven. You can usually still train: go lighter on the sore muscles for a day or two, or train others. Sharp pain or dark urine is different: see a doctor.
+
+### Leg Day Workout: Gym and Dumbbell Versions
+URL: https://diogofit.com/learn/leg-day-workout/
+A leg day workout for the gym and a dumbbell version: the exercises for quads, hamstrings, glutes and calves, the sets and reps, and how often to train legs.
+Short answer: Cover four areas: a squat or leg press, a hinge such as the Romanian deadlift, a single-leg exercise like a lunge, then a seated leg curl and a standing calf raise. Don't count on squats for the hamstrings: in one nine-week trial, squats grew the thighs and glutes, but the hamstrings showed little to no growth.
+
+### Back Workout: Pulldowns, Rows and a Hinge
+URL: https://diogofit.com/learn/back-workout/
+Build a back workout from three slots: a vertical pull, a horizontal pull and a hinge. Pick one from each, for the gym, machines and cables, or home.
+Short answer: Pick one exercise from each of three slots: a vertical pull (a pull-up or lat pulldown), a horizontal pull (a row) and a hinge (a Romanian deadlift or back extension). The 2026 ACSM position stand's authors suggest considering vertical and horizontal directions for the upper body, so do both. Three hard sets of each makes a session.
+
+### Chest Workout: Press, Incline and Fly
+URL: https://diogofit.com/learn/chest-workout/
+A chest workout built on a flat press, a low incline press and a fly, about ten hard sets a week, with a gym and a home version and the studies behind it.
+Short answer: Build a chest workout on three exercises: a flat press, an incline press at about 30 degrees and a fly. Then count hard sets across the week: the American College of Sports Medicine's 2026 overview ties ten or more sets per muscle group a week to more muscle growth. At home, push-ups and dumbbells fill the same slots.
+
+### Shoulder Workout: Front, Side and Rear Delts
+URL: https://diogofit.com/learn/shoulder-workout/
+A shoulder workout for all three heads of the deltoid: the overhead press, lateral raises for the side, rows and reverse flies for the rear, gym or home.
+Short answer: Train the three heads of the shoulder with three kinds of exercise: an overhead press for the front, lateral raises for the side, and rows, pull-ups or reverse flies for the rear. Pressing alone leaves the side short: in one ten-week bench press trial, the side of the shoulder lagged every other muscle measured.
+
+### How to Do Push-Ups Correctly, Step by Step
+URL: https://diogofit.com/learn/how-to-do-push-ups/
+How to do push-ups with good form, how to start on an incline when the floor is too hard, how many to do, and the harder versions once twenty get easy.
+Short answer: Hands a little wider than your shoulders, body straight from head to heels: lower your chest close to the floor and press back up. Too hard from the floor? Put your hands on a counter or a bench, or drop to your knees; both take weight off your arms. Work lower over time, then raise your feet.
+
+### Arm Workout: Curls, Triceps and Weekly Sets
+URL: https://diogofit.com/learn/arm-workout/
+An arm workout that counts what presses and rows already give your biceps and triceps, then adds a curl and an overhead triceps extension. Gym or home.
+Short answer: Count what your week already gives your arms. In a 2026 meta-regression, the counting method with the strongest evidence scored a set that trains a muscle only indirectly as half a set, so presses count toward your triceps and rows toward your biceps. Then add a curl and an overhead triceps extension after the compound lifts.
+
+### Core Workout for Lifters: 4 Exercises
+URL: https://diogofit.com/learn/core-workout/
+A core workout for people who lift: what squats and deadlifts already train, what they miss, and four exercises to add after your main lifts, gym or home.
+Short answer: Heavy squats and deadlifts work the muscles along your spine harder than planks, side planks or ball exercises, but in the same studies they worked the abs and obliques no harder. So end your sessions with a short core block: a plank, a Pallof press, a carry and a crunch, two or three sets each.
+
+### Cool-Down After a Workout: Do You Need One?
+URL: https://diogofit.com/learn/cool-down/
+Do you need a cool-down after lifting? What studies of cool-downs and stretching after exercise found, what they didn't, and a short one if you like it.
+Short answer: You don't need one. A 2018 review found an easy cool-down largely ineffective for next-day performance, soreness and most markers of recovery, and stretching after exercise hasn't cut soreness by a meaningful amount. If you like one, keep it short and easy: early evidence suggests it doesn't hold back what you gain from training.
+
+### Mobility Routine for Lifters, in 10 Minutes
+URL: https://diogofit.com/learn/mobility-routine/
+A ten-minute mobility routine for lifters (ankles, hips, upper back, shoulders), mobility vs flexibility in plain words, and what changes range over weeks.
+Short answer: Flexibility is how far your soft tissues let a joint move, one trainable part of its range; mobility, as lifters use the word, is range you can reach and control in a lift. Lifting with weights improved range of motion about as much as stretching in a 2023 meta-analysis. For more range, add a ten-minute routine.
+
+### Dumbbell vs Barbell, Lift by Lift
+URL: https://diogofit.com/learn/dumbbell-vs-barbell/
+Dumbbell vs barbell for the bench, incline, shoulder press, row, RDL, curl and shrug: what the studies measured, what they found, and what they didn't test.
+Short answer: A barbell usually lets you lift more weight; dumbbells let each side work on its own and make one-arm and one-leg versions easy. A 2025 meta-analysis found one-limb and two-limb training built similar muscle, while strength rose most in the version trained. So choose lift by lift, by what you most want to get strong at.
+
+### Workout Log: What to Track and a Layout
+URL: https://diogofit.com/learn/workout-log/
+What a workout log needs: exercise, weight, reps per set, reps in reserve and a note. A layout to copy on paper or in a notes app, and how to read it.
+Short answer: A workout log needs five columns: the exercise, the weight, the reps in each set, how many reps you had left, and a short note. Before each session, read last week's line and beat it by a rep or a little weight. In a 2016 meta-analysis, monitoring progress helped more when it was physically recorded.
+
+### How Much Weight Should I Lift?
+URL: https://diogofit.com/learn/how-much-weight-to-lift/
+How much weight to lift: pick the reps first, then a weight that leaves two or three in reserve. Why charts miss, how beginners start, when to add weight.
+Short answer: Choose the reps first, then a weight you can lift for that many with about two or three still in reserve. New lifters: guess lighter and leave three or four. When you can do one or two reps more than your target, add 2 to 10% to the weight.

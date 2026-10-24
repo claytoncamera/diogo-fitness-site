@@ -8,13 +8,112 @@
   <atom:link href="https://diogofit.com/learn/feed.xml" rel="self" type="application/rss+xml"/>
   <image><url>https://diogofit.com/apple-touch-icon.png</url><title>Diogo Fitness: Learn</title><link>https://diogofit.com/learn/</link></image>
   <item>
-    <title>Winter cold by metro: January lows in 25 big metros</title>
+    <title>Workout log: five columns that make overload work</title>
+    <link>https://diogofit.com/learn/workout-log/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/workout-log/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>What a workout log needs: exercise, weight, reps per set, reps in reserve and a note. A layout to copy on paper or in a notes app, and how to read it.</description>
+  </item>
+  <item>
+    <title>Rain by metro: average annual precipitation in 40 metros</title>
+    <link>https://diogofit.com/learn/rain-by-metro/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/rain-by-metro/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>NOAA's 1991–2020 average annual precipitation at a named weather station in 40 U.S. metros, and what a wet day changes in a training week: the walk, not the lifting.</description>
+  </item>
+  <item>
+    <title>How much weight to lift: let the reps decide</title>
+    <link>https://diogofit.com/learn/how-much-weight-to-lift/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/how-much-weight-to-lift/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>How much weight to lift: pick the reps first, then a weight that leaves two or three in reserve. Why charts miss, how beginners start, when to add weight.</description>
+  </item>
+  <item>
+    <title>How active is your city? CDC estimates for 27 U.S. cities</title>
+    <link>https://diogofit.com/learn/how-active-is-your-city/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/how-active-is-your-city/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>The CDC's PLACES estimates for 27 U.S. cities: adults with no leisure-time physical activity and adults reporting short sleep, with 95% ranges and how to read them.</description>
+  </item>
+  <item>
+    <title>Commute times by metro, and how to train around yours</title>
+    <link>https://diogofit.com/learn/commute-by-metro/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/commute-by-metro/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>The Census Bureau's average trip to work and work-from-home share for 40 U.S. metro areas, with margins of error, and where training fits around each.</description>
+  </item>
+  <item>
+    <title>A mobility routine for lifters: ten minutes for the range your lifts use</title>
+    <link>https://diogofit.com/learn/mobility-routine/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/mobility-routine/</guid>
+    <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>A ten-minute mobility routine for lifters (ankles, hips, upper back, shoulders), mobility vs flexibility in plain words, and what changes range over weeks.</description>
+  </item>
+  <item>
+    <title>Dumbbell vs barbell: what each does better, lift by lift</title>
+    <link>https://diogofit.com/learn/dumbbell-vs-barbell/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/dumbbell-vs-barbell/</guid>
+    <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>Dumbbell vs barbell for the bench, incline, shoulder press, row, RDL, curl and shrug: what the studies measured, what they found, and what they didn't test.</description>
+  </item>
+  <item>
+    <title>Core workout: what your squats already cover, and what to add</title>
+    <link>https://diogofit.com/learn/core-workout/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/core-workout/</guid>
+    <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>A core workout for people who lift: what squats and deadlifts already train, what they miss, and four exercises to add after your main lifts, gym or home.</description>
+  </item>
+  <item>
+    <title>Cool-down after a workout: what it does, and what it doesn't</title>
+    <link>https://diogofit.com/learn/cool-down/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/cool-down/</guid>
+    <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>Do you need a cool-down after lifting? What studies of cool-downs and stretching after exercise found, what they didn't, and a short one if you like it.</description>
+  </item>
+  <item>
+    <title>Arm workout: count what the compounds already did</title>
+    <link>https://diogofit.com/learn/arm-workout/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/arm-workout/</guid>
+    <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>An arm workout that counts what presses and rows already give your biceps and triceps, then adds a curl and an overhead triceps extension. Gym or home.</description>
+  </item>
+  <item>
+    <title>Winter cold by metro: January lows in 48 big metros</title>
     <link>https://diogofit.com/learn/winter-cold-by-metro/</link>
     <guid isPermaLink="true">https://diogofit.com/learn/winter-cold-by-metro/</guid>
     <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
     <dc:creator>Diogo Camera</dc:creator>
     <category>Training</category>
-    <description>NOAA's 1991–2020 average January low at weather stations in 25 big U.S. metros, and what cold, dark months change in a training week: the walk, not the lifting.</description>
+    <description>NOAA's 1991–2020 average January low at weather stations in 48 big U.S. metros, and what cold, dark months change in a training week: the walk, not the lifting.</description>
+  </item>
+  <item>
+    <title>Supersets: two exercises, one rest</title>
+    <link>https://diogofit.com/learn/supersets/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/supersets/</guid>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>What supersets and drop sets are, the three ways to pair exercises, what the research says about time and gains, and when to leave them out of your workout.</description>
   </item>
   <item>
     <title>Summer heat by metro: 90-degree days and July highs</title>
@@ -23,7 +122,52 @@
     <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
     <dc:creator>Diogo Camera</dc:creator>
     <category>Training</category>
-    <description>NOAA's 1991–2020 normals at weather stations in 25 big U.S. metros: days a year at or above 90 F, the average July high, and when to move outdoor training.</description>
+    <description>NOAA's 1991–2020 normals at weather stations in 48 big U.S. metros: days a year at or above 90 F, the average July high, and when to move outdoor training.</description>
+  </item>
+  <item>
+    <title>Squat form: setup, depth and the common faults</title>
+    <link>https://diogofit.com/learn/squat-form/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/squat-form/</guid>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>How to squat with good form: the setup step by step, how deep to go, whether your knees can pass your toes, the bar and dumbbell versions, and the faults.</description>
+  </item>
+  <item>
+    <title>Shoulder workout: three heads, three jobs</title>
+    <link>https://diogofit.com/learn/shoulder-workout/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/shoulder-workout/</guid>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>A shoulder workout for all three heads of the deltoid: the overhead press, lateral raises for the side, rows and reverse flies for the rear, gym or home.</description>
+  </item>
+  <item>
+    <title>How long to rest between sets: usually one to three minutes</title>
+    <link>https://diogofit.com/learn/rest-between-sets/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/rest-between-sets/</guid>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>How long to rest between sets: at least a minute for muscle growth, two to five for heavy compound lifts, less for small exercises, and how to time it.</description>
+  </item>
+  <item>
+    <title>Muscle soreness: how long it lasts, and whether to train through it</title>
+    <link>https://diogofit.com/learn/muscle-soreness/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/muscle-soreness/</guid>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>What delayed-onset muscle soreness (DOMS) is, how long it usually lasts, whether to work out when you're sore, and when soreness is a reason to see a doctor.</description>
+  </item>
+  <item>
+    <title>Leg day workout: a gym session and a dumbbell version</title>
+    <link>https://diogofit.com/learn/leg-day-workout/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/leg-day-workout/</guid>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>A leg day workout for the gym and a dumbbell version: the exercises for quads, hamstrings, glutes and calves, the sets and reps, and how often to train legs.</description>
   </item>
   <item>
     <title>How to warm up before lifting: the sets before your sets</title>
@@ -35,13 +179,49 @@
     <description>How to warm up before lifting: easy movement, then warm-up sets of your first lift. How many sets, at what weights, and dynamic vs static stretching.</description>
   </item>
   <item>
-    <title>How active is your metro? The CDC's numbers for 25 big metros</title>
+    <title>How to do push-ups: from an incline to the floor, and past it</title>
+    <link>https://diogofit.com/learn/how-to-do-push-ups/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/how-to-do-push-ups/</guid>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>How to do push-ups with good form, how to start on an incline when the floor is too hard, how many to do, and the harder versions once twenty get easy.</description>
+  </item>
+  <item>
+    <title>How to do a pull-up: from zero to one, then more</title>
+    <link>https://diogofit.com/learn/how-to-do-a-pull-up/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/how-to-do-a-pull-up/</guid>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>How to do a pull-up with good form, and how to get your first one with negatives, bands, the assisted machine and the lat pulldown. Then how to add reps.</description>
+  </item>
+  <item>
+    <title>How many sets per week? Count hard sets per muscle</title>
+    <link>https://diogofit.com/learn/how-many-sets-per-week/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/how-many-sets-per-week/</guid>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>How many sets per muscle per week: 6 to 10 hard sets is plenty when you're new, 10 or more builds more muscle, and returns shrink past about 20.</description>
+  </item>
+  <item>
+    <title>How many reps per set? A wide range builds muscle</title>
+    <link>https://diogofit.com/learn/how-many-reps/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/how-many-reps/</guid>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>How many reps per set: about 6 to 15 is the efficient middle for muscle, heavier sets of 1 to 6 build more strength, and there is no magic hypertrophy range.</description>
+  </item>
+  <item>
+    <title>How active is your metro? The CDC's numbers for 48 big metros</title>
     <link>https://diogofit.com/learn/how-active-is-your-metro/</link>
     <guid isPermaLink="true">https://diogofit.com/learn/how-active-is-your-metro/</guid>
     <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
     <dc:creator>Diogo Camera</dc:creator>
     <category>Training</category>
-    <description>25 large U.S. metros in one table: adults reporting no physical activity in the past month and adults lifting twice a week, from the CDC's metro-area survey.</description>
+    <description>48 large U.S. metros in one table: adults reporting no physical activity in the past month and adults lifting twice a week, from the CDC's metro-area survey.</description>
   </item>
   <item>
     <title>Hotel workout: one session for the room or the hotel gym</title>
@@ -62,6 +242,24 @@
     <description>A deload week is a planned lighter week of lifting. What it is, how often lifters take one, how to cut sets or weight, and how it differs from a week off.</description>
   </item>
   <item>
+    <title>Deadlift form: learn the hinge, then pick your bar</title>
+    <link>https://diogofit.com/learn/deadlift-form/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/deadlift-form/</guid>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>How to deadlift with good form: learn the hip hinge first, then the conventional deadlift, the trap bar deadlift and the Romanian deadlift, and which to use.</description>
+  </item>
+  <item>
+    <title>Compound exercises: build the week on a few big lifts</title>
+    <link>https://diogofit.com/learn/compound-exercises/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/compound-exercises/</guid>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>What compound exercises are, the main movement patterns, how many to include, compound vs isolation exercises, and whether machines or free weights matter.</description>
+  </item>
+  <item>
     <title>Commute times by state, and how to train around yours</title>
     <link>https://diogofit.com/learn/commute-by-state/</link>
     <guid isPermaLink="true">https://diogofit.com/learn/commute-by-state/</guid>
@@ -69,6 +267,15 @@
     <dc:creator>Diogo Camera</dc:creator>
     <category>Training</category>
     <description>The Census Bureau's average trip to work and work-from-home share for all 50 states and DC, with margins of error, and where training fits around each.</description>
+  </item>
+  <item>
+    <title>Chest workout: three exercises, counted by the week</title>
+    <link>https://diogofit.com/learn/chest-workout/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/chest-workout/</guid>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>A chest workout built on a flat press, a low incline press and a fly, about ten hard sets a week, with a gym and a home version and the studies behind it.</description>
   </item>
   <item>
     <title>Cardio and lifting: order, timing and how much</title>
@@ -87,6 +294,24 @@
     <dc:creator>Diogo Camera</dc:creator>
     <category>Training</category>
     <description>A no-equipment bodyweight workout for beginners at home: a squat, hinge, push, pull and core move, an easier and harder version of each, and how to progress.</description>
+  </item>
+  <item>
+    <title>Bench press form: set up first, then add weight slowly</title>
+    <link>https://diogofit.com/learn/bench-press-form/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/bench-press-form/</guid>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>Bench press form step by step: the setup, how wide to grip, whether to arch, the rep itself, and how to increase your bench press without rushing it.</description>
+  </item>
+  <item>
+    <title>Back workout: pick a vertical pull, a row and a hinge</title>
+    <link>https://diogofit.com/learn/back-workout/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/back-workout/</guid>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>Build a back workout from three slots: a vertical pull, a horizontal pull and a hinge. Pick one from each, for the gym, machines and cables, or home.</description>
   </item>
   <item>
     <title>Which workout split? Count your days first</title>
