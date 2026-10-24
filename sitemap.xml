@@ -49,7 +49,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/disclaimer/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
@@ -94,6 +94,11 @@
   </url>
   <url>
     <loc>https://diogofit.com/coaching/women/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/editorial-policy/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
@@ -491,6 +496,11 @@
     <loc>https://diogofit.com/online-coaching/wyoming/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/tools/one-rep-max-calculator/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/online-coaching/florida/miami-metro/</loc>
@@ -918,6 +928,11 @@
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://diogofit.com/learn/data/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://diogofit.com/learn/supersets/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/doorbag-1200.jpg</image:loc></image:image>
@@ -1036,5 +1051,65 @@
     <loc>https://diogofit.com/learn/leg-press/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/barbell-row-form/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/workout-plans/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/glossary/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/romanian-deadlift/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/overhead-press-form/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/calf-workout/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/how-to-do-a-plank/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/doorbag-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/kettlebell-workout/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/resistance-band-workout/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/doorbag-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/cable-workout/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/forearm-workout/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/time-under-tension/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
   </url>
 </urlset>

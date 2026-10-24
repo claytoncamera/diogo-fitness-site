@@ -8,6 +8,15 @@
   <atom:link href="https://diogofit.com/learn/feed.xml" rel="self" type="application/rss+xml"/>
   <image><url>https://diogofit.com/apple-touch-icon.png</url><title>Diogo Fitness: Learn</title><link>https://diogofit.com/learn/</link></image>
   <item>
+    <title>Free workout plans: pick the one that fits your week</title>
+    <link>https://diogofit.com/learn/workout-plans/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/workout-plans/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Guide</category>
+    <description>Free workout plans for the gym, dumbbells at home or no equipment, sorted by days a week. What a plan needs, which one fits your week, and the body-part days.</description>
+  </item>
+  <item>
     <title>Workout log: five columns that make overload work</title>
     <link>https://diogofit.com/learn/workout-log/</link>
     <guid isPermaLink="true">https://diogofit.com/learn/workout-log/</guid>
@@ -17,6 +26,33 @@
     <description>What a workout log needs: exercise, weight, reps per set, reps in reserve and a note. A layout to copy on paper or in a notes app, and how to read it.</description>
   </item>
   <item>
+    <title>Time under tension: what tempo does, and what it doesn't</title>
+    <link>https://diogofit.com/learn/time-under-tension/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/time-under-tension/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>What time under tension and lifting tempo mean, what the research shows for muscle growth and strength, eccentrics and negatives, and when to slow down.</description>
+  </item>
+  <item>
+    <title>Romanian deadlift: the hinge as its own lift</title>
+    <link>https://diogofit.com/learn/romanian-deadlift/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/romanian-deadlift/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>How to do a Romanian deadlift with a barbell, dumbbells or a kettlebell: how low to go, the muscles worked, how it differs from the deadlift, and the faults.</description>
+  </item>
+  <item>
+    <title>Resistance band workout: a full-body plan at home</title>
+    <link>https://diogofit.com/learn/resistance-band-workout/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/resistance-band-workout/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>A full-body resistance band workout for home: the plan, legs, glutes and arms with a band, what bands do and don't do, and how to keep progressing with them.</description>
+  </item>
+  <item>
     <title>Rain by metro: average annual precipitation in 40 metros</title>
     <link>https://diogofit.com/learn/rain-by-metro/</link>
     <guid isPermaLink="true">https://diogofit.com/learn/rain-by-metro/</guid>
@@ -24,6 +60,15 @@
     <dc:creator>Diogo Camera</dc:creator>
     <category>Training</category>
     <description>NOAA's 1991–2020 average annual precipitation at a named weather station in 40 U.S. metros, and what a wet day changes in a training week: the walk, not the lifting.</description>
+  </item>
+  <item>
+    <title>Overhead press form: brace, press, then get your head through</title>
+    <link>https://diogofit.com/learn/overhead-press-form/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/overhead-press-form/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>Overhead press form step by step with a barbell, dumbbells, seated or on a machine: grip, bar path, how to stop leaning back, and where it fits a shoulder day.</description>
   </item>
   <item>
     <title>Leg press: foot placement, depth, and how it compares with the squat</title>
@@ -42,6 +87,24 @@
     <dc:creator>Diogo Camera</dc:creator>
     <category>Training</category>
     <description>Lat pulldown form: the setup, how wide to grip, the pull to your chest, leaning back and momentum, close-grip and standing versions, and the pull-up link.</description>
+  </item>
+  <item>
+    <title>A kettlebell workout: one bell, two or three days a week</title>
+    <link>https://diogofit.com/learn/kettlebell-workout/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/kettlebell-workout/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>A full-body kettlebell workout plan for one bell: goblet squat, swing, press, row and carry, sets and reps, how to progress with one weight, and who it suits.</description>
+  </item>
+  <item>
+    <title>How to do a plank: a straight line, held only as long as it stays straight</title>
+    <link>https://diogofit.com/learn/how-to-do-a-plank/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/how-to-do-a-plank/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>How to do a plank correctly: setup and bracing cues, common faults, easier versions for beginners, harder ones, and what the research says about how long to hold.</description>
   </item>
   <item>
     <title>How much weight to lift: let the reps decide</title>
@@ -80,6 +143,24 @@
     <description>How to do a goblet squat with a dumbbell or kettlebell: the setup, how deep to go, the bench or box version, the common faults, and when to move to a barbell.</description>
   </item>
   <item>
+    <title>Training terms, in plain words</title>
+    <link>https://diogofit.com/learn/glossary/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/glossary/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Guide</category>
+    <description>A training glossary in plain words: 47 gym and lifting terms, from reps in reserve and RPE to deloads, supersets and progressive overload, each linked.</description>
+  </item>
+  <item>
+    <title>Forearm workout: grip and forearms for people who lift</title>
+    <link>https://diogofit.com/learn/forearm-workout/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/forearm-workout/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>A forearm workout for lifters: wrist curls, reverse curls, hammer curls, holds and carries, how much direct work you need after rows and deadlifts, and straps.</description>
+  </item>
+  <item>
     <title>Dumbbell row: on a bench, standing, or with no bench at all</title>
     <link>https://diogofit.com/learn/dumbbell-row/</link>
     <guid isPermaLink="true">https://diogofit.com/learn/dumbbell-row/</guid>
@@ -89,6 +170,15 @@
     <description>How to do a dumbbell row: one-arm on a bench, standing, chest-supported and without a bench. The muscles it works, the common faults, and where it fits.</description>
   </item>
   <item>
+    <title>Data tables: activity, climate and commute by state, metro and city</title>
+    <link>https://diogofit.com/learn/data/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/data/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Guide</category>
+    <description>Eight CDC, NOAA and Census Bureau data tables for U.S. states, metros and cities: what each holds, its source and vintage, its CSV and how to cite it.</description>
+  </item>
+  <item>
     <title>Commute times by metro, and how to train around yours</title>
     <link>https://diogofit.com/learn/commute-by-metro/</link>
     <guid isPermaLink="true">https://diogofit.com/learn/commute-by-metro/</guid>
@@ -96,6 +186,33 @@
     <dc:creator>Diogo Camera</dc:creator>
     <category>Training</category>
     <description>The Census Bureau's average trip to work and work-from-home share for 40 U.S. metro areas, with margins of error, and where training fits around each.</description>
+  </item>
+  <item>
+    <title>Calf workout: stand for the gastrocnemius, sit for the soleus</title>
+    <link>https://diogofit.com/learn/calf-workout/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/calf-workout/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>A calf workout for the gym, dumbbells or no equipment: standing vs seated raises and what each targets, range of motion, foot position, and sets and reps.</description>
+  </item>
+  <item>
+    <title>Cable workout: one full session on a single cable station</title>
+    <link>https://diogofit.com/learn/cable-workout/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/cable-workout/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>A full-body cable workout on one adjustable cable station: what cables do differently, the session, each body part, and when cables beat free weights.</description>
+  </item>
+  <item>
+    <title>Barbell row form: hinge, hold still, pull to your stomach</title>
+    <link>https://diogofit.com/learn/barbell-row-form/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/barbell-row-form/</guid>
+    <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>Barbell row form step by step: the hinge angle, the bar path, overhand or underhand, where to put your hands, Pendlay vs bent-over, and the common faults.</description>
   </item>
   <item>
     <title>A mobility routine for lifters: ten minutes for the range your lifts use</title>

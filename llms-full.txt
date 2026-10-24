@@ -54,6 +54,10 @@ Online fitness coaching for women: strength training that works in much the same
 URL: https://diogofit.com/disclaimer/
 What coaching with Diogo is and isn’t: not medical advice, not treatment, and no guaranteed results.
 
+### How This Site Is Written and Checked
+URL: https://diogofit.com/editorial-policy/
+Who writes Diogo Fitness, where every number comes from, how sources are checked before a page goes live, what the site never says, and how to report a mistake.
+
 ### Online Coaching FAQ: How It Works
 URL: https://diogofit.com/faq/
 Coaching is fully online: workouts in Trainerize, two weigh-ins a week and a weekly check-in call. Honest answers on applying, training and eating.
@@ -389,6 +393,10 @@ Online fitness coaching for people in Wyoming: short drives, a garage program, a
 ### Privacy
 URL: https://diogofit.com/privacy/
 What this site does and doesn’t collect, in plain English: no accounts, no ad cookies, and what happens to what you send when you apply.
+
+### One-Rep Max Calculator (1RM) with RPE and RIR
+URL: https://diogofit.com/tools/one-rep-max-calculator/
+Free one-rep max calculator with RPE and reps in reserve: Epley and Brzycki estimates, a 60 to 95% load table, and how accurate the formulas are.
 
 ### Online Fitness Coach for the Miami–Fort Lauderdale–West Palm Beach Area
 URL: https://diogofit.com/online-coaching/florida/miami-metro/
@@ -761,6 +769,11 @@ URL: https://diogofit.com/learn/rest-between-sets/
 How long to rest between sets: at least a minute for muscle growth, two to five for heavy compound lifts, less for small exercises, and how to time it.
 Short answer: Rest at least a minute between sets for muscle growth: a 2024 meta-analysis found a small benefit past 60 seconds and no clear gain past 90. Give heavy compound lifts two to five minutes, smaller exercises one to two, and pair exercises for different muscles when time is short.
 
+### Data Tables: Activity, Climate, Commute
+URL: https://diogofit.com/learn/data/
+Eight CDC, NOAA and Census Bureau data tables for U.S. states, metros and cities: what each holds, its source and vintage, its CSV and how to cite it.
+Short answer: This site has eight data tables built from public CDC, NOAA and Census Bureau data: physical activity by state, metro and city, summer heat, winter cold and rain by metro, and commute times by state and metro. Each has a CSV download and is free to reuse with credit to the agency and a link back.
+
 ### Supersets and Drop Sets, Explained
 URL: https://diogofit.com/learn/supersets/
 What supersets and drop sets are, the three ways to pair exercises, what the research says about time and gains, and when to leave them out of your workout.
@@ -880,3 +893,63 @@ Short answer: Thighs locked under the pad, hands one to two shoulder-widths apar
 URL: https://diogofit.com/learn/leg-press/
 How to use the leg press: setting the seat, where to put your feet and what it changes, how deep to go, the leg press vs the squat, and the common faults.
 Short answer: Back and hips flat on the pad, feet about hip- to shoulder-width apart in the middle of the platform. Lower until your knees are bent to about a right angle or deeper, without your hips lifting off the seat, then press back up. Feet higher shifts some work to the glutes; lower, to the front of the thigh.
+
+### Barbell Row Form: Grip, Bar Path, Pendlay
+URL: https://diogofit.com/learn/barbell-row-form/
+Barbell row form step by step: the hinge angle, the bar path, overhand or underhand, where to put your hands, Pendlay vs bent-over, and the common faults.
+Short answer: Hinge forward with soft knees until your torso is between about 45 degrees and parallel to the floor, back flat, bar hanging under your shoulders. Pull it in a straight line to your lower ribs or upper stomach, then lower it to straight arms, torso still the whole set. Two or three sets of 6 to 12.
+
+### Free Workout Plans for the Gym or Home
+URL: https://diogofit.com/learn/workout-plans/
+Free workout plans for the gym, dumbbells at home or no equipment, sorted by days a week. What a plan needs, which one fits your week, and the body-part days.
+Short answer: A workout plan needs four things: the movements, the sets, reps and effort, a rule for progressing, and a shorter version for bad weeks. The free plans below all have them, sorted by days a week and equipment. Pick the one that fits the week you actually have, and log it.
+
+### Training Glossary: Gym and Lifting Terms
+URL: https://diogofit.com/learn/glossary/
+A training glossary in plain words: 47 gym and lifting terms, from reps in reserve and RPE to deloads, supersets and progressive overload, each linked.
+Short answer: Three terms do most of the work in a training plan: reps in reserve (how many more good reps you could have done before failure), volume (the hard sets a muscle gets each week) and progressive overload (doing a little more than last time, on purpose). The other 44 are below, A to Z, each with a link.
+
+### Romanian Deadlift: Form, Dumbbell, vs Deadlift
+URL: https://diogofit.com/learn/romanian-deadlift/
+How to do a Romanian deadlift with a barbell, dumbbells or a kettlebell: how low to go, the muscles worked, how it differs from the deadlift, and the faults.
+Short answer: Stand tall with the weight in front of your thighs, knees slightly bent. Push your hips back and let the weight slide down your legs until the backs of your thighs are fully stretched, usually around your knees to mid-shin. Drive your hips forward to stand up. Three sets of 8 to 12, with a barbell, dumbbells or a kettlebell.
+
+### Overhead Press Form: Barbell, Dumbbell, Seated
+URL: https://diogofit.com/learn/overhead-press-form/
+Overhead press form step by step with a barbell, dumbbells, seated or on a machine: grip, bar path, how to stop leaning back, and where it fits a shoulder day.
+Short answer: Grip the bar just outside your shoulders, forearms upright, bar on the front of your shoulders. Brace your midsection and squeeze your glutes. Press straight up, moving your head back just enough for the bar to pass your face, then bring your head through so the bar finishes over it. Lower to your shoulders. Three sets of 6 to 12.
+
+### Calf Workout: Gym, Dumbbells, At Home
+URL: https://diogofit.com/learn/calf-workout/
+A calf workout for the gym, dumbbells or no equipment: standing vs seated raises and what each targets, range of motion, foot position, and sets and reps.
+Short answer: Do standing calf raises with straight knees to train both calf muscles, and add seated raises for extra work on the deeper soleus. Lower all the way into a stretch, pause, then rise as high as you can. Three or four sets of 10 to 20, twice a week, on a machine, with a dumbbell, or on a step.
+
+### How to Do a Plank Correctly, and How Long
+URL: https://diogofit.com/learn/how-to-do-a-plank/
+How to do a plank correctly: setup and bracing cues, common faults, easier versions for beginners, harder ones, and what the research says about how long to hold.
+Short answer: Forearms on the floor with your elbows under your shoulders, legs straight, up on your toes. Squeeze your glutes, brace your midsection and tuck your hips slightly so your body makes one straight line. Hold only as long as the line holds. When a hold in good position gets easy, move to a harder version rather than holding longer.
+
+### Kettlebell Workout Plan: One Bell, Full Body
+URL: https://diogofit.com/learn/kettlebell-workout/
+A full-body kettlebell workout plan for one bell: goblet squat, swing, press, row and carry, sets and reps, how to progress with one weight, and who it suits.
+Short answer: Pick one kettlebell you can goblet squat for ten clean reps. Two or three days a week, do five movements: a goblet squat, a swing taught as a hip hinge, a one-arm press, a one-arm row and a carry. Two or three sets of each, stopping with two or three reps left, and add reps before you add weight.
+
+### Resistance Band Workout Plan at Home
+URL: https://diogofit.com/learn/resistance-band-workout/
+A full-body resistance band workout for home: the plan, legs, glutes and arms with a band, what bands do and don't do, and how to keep progressing with them.
+Short answer: Two or three days a week, do six band movements: a squat, a hinge, a push, a row, a pulldown and a press, plus one core move. Do two or three sets of 12 to 20 reps, stopping one to three reps short of failure. Progress by adding reps, standing farther from the anchor, then moving to a thicker band.
+
+### Cable Workout: A Full Session on One Station
+URL: https://diogofit.com/learn/cable-workout/
+A full-body cable workout on one adjustable cable station: what cables do differently, the session, each body part, and when cables beat free weights.
+Short answer: On one adjustable cable station, do eight exercises: a pull-through, a one-arm chest press, a kneeling one-arm pulldown, a row, a lateral raise, an overhead triceps extension, a curl and a Pallof press. Two or three sets of 10 to 15, stopping one or two reps short. Cables build muscle about as well as free weights.
+
+### Forearm Workout and Grip for Lifters
+URL: https://diogofit.com/learn/forearm-workout/
+A forearm workout for lifters: wrist curls, reverse curls, hammer curls, holds and carries, how much direct work you need after rows and deadlifts, and straps.
+Short answer: Your rows, pulldowns and deadlifts already train your grip. Add two or three hard sets a week each of a wrist curl and a reverse or hammer curl, 12 to 20 reps, plus a heavy hold or carry. If your grip gives out before your back on heavy deadlifts, straps help those sets.
+
+### Time Under Tension and Tempo: What It Does
+URL: https://diogofit.com/learn/time-under-tension/
+What time under tension and lifting tempo mean, what the research shows for muscle growth and strength, eccentrics and negatives, and when to slow down.
+Short answer: Time under tension is how long a set keeps a muscle working; tempo is the speed of each rep. In the trials, reps lasting from half a second to eight seconds built similar muscle when sets were taken to failure, and very slow reps looked worse. Lower under control, lift with intent, and judge sets by reps left.

@@ -685,3 +685,13 @@ html:not(.js) .cal__replay,html:not(.js) .week__picker{display:none}
 .placecta__go{display:flex;flex-wrap:wrap;align-items:center;gap:0.75rem}
 .placecta__dm{font-weight:600;font-size:0.9rem}
 @media (max-width: 480px){.placecta{grid-template-columns:40px 1fr}.placecta img{width:40px;height:40px}}
+.orm__form,.orm__out{display:grid;gap:0.9rem}
+.orm__out{gap:0.35rem;margin-top:1.2rem;padding-top:1rem;border-top:1px solid var(--line)}
+.orm__field{display:grid;gap:0.3rem;font-weight:600}
+.orm__input{width:100%;min-height:48px;padding:0.5rem 0.75rem;border:1px solid var(--line-strong);border-radius:var(--r-sm);background:#fff}
+.orm__unit{display:flex;flex-wrap:wrap;gap:0.4rem 1.2rem;margin:0;padding:0;border:0;font-weight:600}
+.orm__unit label{display:inline-flex;align-items:center;gap:0.4rem;min-height:44px;font-weight:400}
+.orm__big{font-family:var(--font-display);font-size:clamp(2rem,1.4rem + 2.4vw,3rem);line-height:1.1}
+.orm__error:empty{display:none}
+.orm__error{color:var(--coral-600);font-weight:600}
+.orm.is-invalid .orm__out{opacity:0.45}
