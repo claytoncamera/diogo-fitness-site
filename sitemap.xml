@@ -89,7 +89,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/coaching/over-40/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
@@ -860,7 +860,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/calories-and-protein/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <image:image><image:loc>https://diogofit.com/img/meal-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/calories-and-protein.jpg</image:loc></image:image>
   </url>
@@ -884,7 +884,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/why-you-cant-lose-fat/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <image:image><image:loc>https://diogofit.com/img/scale-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/why-you-cant-lose-fat.jpg</image:loc></image:image>
   </url>
@@ -1398,7 +1398,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/strength-training-over-40/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/strength-training-over-40.jpg</image:loc></image:image>
   </url>
@@ -1478,12 +1478,22 @@
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://diogofit.com/learn/do-i-need-a-fitness-coach/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/coaching-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://diogofit.com/learn/dumbbell-pullover/</loc>
     <lastmod>2026-10-26</lastmod>
     <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/group-fitness-vs-personal-training/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/coaching-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/cant-afford-a-personal-trainer/</loc>
     <lastmod>2026-10-26</lastmod>
     <image:image><image:loc>https://diogofit.com/img/coaching-1200.jpg</image:loc></image:image>
   </url>
@@ -1501,6 +1511,11 @@
     <loc>https://diogofit.com/learn/landmine-press/</loc>
     <lastmod>2026-10-26</lastmod>
     <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/workout-for-people-who-hate-working-out/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/doorbag-1200.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/youtube-workouts-vs-coaching/</loc>
