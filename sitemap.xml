@@ -1147,12 +1147,12 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/dumbbell-row/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/lat-pulldown-form/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
   </url>
   <url>
@@ -1232,7 +1232,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/step-ups/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
   </url>
   <url>
@@ -1339,7 +1339,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/unilateral-exercises/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
   </url>
   <url>
@@ -1411,5 +1411,30 @@
     <loc>https://diogofit.com/learn/back-extension/</loc>
     <lastmod>2026-10-26</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/dumbbell-pullover/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/straight-arm-pulldown/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/landmine-press/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/pistol-squat/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/trap-workout/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
   </url>
 </urlset>
