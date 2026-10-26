@@ -1285,6 +1285,11 @@ URL: https://diogofit.com/learn/group-fitness-vs-personal-training/
 Group fitness classes vs personal training or 1-on-1 coaching: who writes the plan, attention per person, accountability, cost in words, who each suits.
 Short answer: A group fitness class gives you a set time, an instructor at the front and other people in the room, with one workout for everyone. One-to-one coaching gives you a plan written for you and a person who reads your numbers and changes it. Pick a class if showing up is the hard part and you like training with others. Pick a coach if the plan has to be written for you, or you stop when nobody is watching your week.
 
+### HIIT vs Steady-State Cardio: What Trials Found | Diogo
+URL: https://diogofit.com/learn/hiit-vs-steady-state-cardio/
+HIIT or steady-state cardio? What the meta-analyses found for body fat, aerobic fitness and endurance, which one people keep doing, and a week with both.
+Short answer: Both work. In 31 studies, interval training and steady cardio reduced body fat by similar, modest amounts. In 28 studies of healthy adults, both raised aerobic fitness, intervals by a possibly small margin more. Intervals save time and feel harder; steady cardio is easier to keep up. Pick the one you'll do.
+
 ### Can't Afford a Personal Trainer? What to Do Instead
 URL: https://diogofit.com/learn/cant-afford-a-personal-trainer/
 Can't afford a personal trainer? Four honest options, three of them free: a real plan, a log, a witness, and when coaching makes sense. What each covers and what it doesn't. No price list.
@@ -1294,6 +1299,11 @@ Short answer: If you can't afford a personal trainer, you can still train well: 
 URL: https://diogofit.com/learn/gym-membership-vs-personal-trainer/
 Gym membership vs a personal trainer or online coach: what a membership alone gives you, how often new members stop going, what each adds, who needs which.
 Short answer: A gym membership gives you the equipment and the door. It doesn't bring a plan, or anyone who notices when you stop going. A trainer at the gym adds live coaching in the session; an online coach adds a plan for the whole week and someone reading your numbers. If you know what to do and you go, the membership alone is enough. If your last membership went unused by month three, what's missing is a plan and a person, not a better gym.
+
+### Rowing Machine Workout for Beginners
+URL: https://diogofit.com/learn/rowing-machine-workout/
+How to use a rowing machine: the stroke in order (legs, back, arms), the damper and stroke rate, what rowing trains, the mistakes, and a four-week plan.
+Short answer: Row in order: push with the legs, swing the back, then pull with the arms; return arms, back, legs. In 60 young rowers, the front of the thigh best explained the leg drive's power, the hamstrings and lower back the trunk swing, and the elbow extensors the arm pull. Start with 10 to 15 easy minutes, damper 3 to 5.
 
 ### Straight-Arm Pulldown: Form and Muscles
 URL: https://diogofit.com/learn/straight-arm-pulldown/
@@ -1305,6 +1315,11 @@ URL: https://diogofit.com/learn/landmine-press/
 How to do a landmine press: the anchor, standing or kneeling, one arm or two, what the angle means for chest and shoulders, the faults, and the sets.
 Short answer: Wedge one end of a barbell into a corner or an anchor, hold the other end at your shoulder, and press it up and forward until your arm is straight, then lower it. PubMed lists no study of its muscle activity; in a bench-angle study, the more upright the press, the more the front of the shoulder worked.
 
+### StairMaster Workout for Beginners: Plan and Tips | Diogo
+URL: https://diogofit.com/learn/stairmaster-workout/
+How to use a StairMaster or stair climber: the level, hands off the rails, what trials found for fitness and weight, the mistakes, three beginner workouts.
+Short answer: Stand tall, hands off the rails or resting lightly, and step at a level where you can still speak a few words. In 22 moderately active women training three days a week for 12 weeks, a stair climber improved aerobic fitness about as much as a treadmill or an elliptical. Start with 10 minutes; build to 20 to 30.
+
 ### Workout for People Who Hate Working Out
 URL: https://diogofit.com/learn/workout-for-people-who-hate-working-out/
 Hate working out? What the research says about the smallest amount of lifting that still counts, which of the free plans to pick, what to drop, and how to keep going without liking it.
@@ -1315,10 +1330,20 @@ URL: https://diogofit.com/learn/youtube-workouts-vs-coaching/
 Are YouTube workouts effective? What a trial of free workout videos found, where free videos and programs stop, what a coach adds, and how to decide.
 Short answer: Yes, YouTube workouts can be effective: in a 12-week trial, young adults sent weekly workout videos did more moderate-to-vigorous activity and more strength work than a group sent health-education videos. What free videos don't do is write the plan around your week, progress it, or notice when you stop. If you follow a video and keep following it, you don't need a coach. If you've saved twenty videos and done four, the videos aren't the problem.
 
+### Jump Rope Workout for Beginners: Plan and Benefits | Diogo
+URL: https://diogofit.com/learn/jump-rope-workout/
+A jump rope workout for beginners: how hard skipping is, what weeks of it did in trials, the landing forces, rope length, the mistakes, and a four-week plan.
+Short answer: Jump rope is vigorous cardio: in 19 men and 11 women skipping for five minutes, oxygen use averaged 41 to 42.5 mL/kg/min and heart rate about 176, and skipping faster didn't change that. Start with rounds of 30 seconds on, 30 off, ten times, three days a week, and add time before speed.
+
 ### Pistol Squat: Form, Progression, Muscles
 URL: https://diogofit.com/learn/pistol-squat/
 How to do a pistol squat: the steps, five progressions from a box to the full rep, what it trains, why ankle range matters, the faults, and the sets.
 Short answer: Stand on one leg, the other held straight out in front, and squat down as low as you can with your heel flat, then stand back up. Build to it with box and assisted versions. PubMed lists no study of it by name; in 11 lifters, a loaded single-leg squat worked the side glute hardest of three.
+
+### 12-3-30 Workout: Calories, Results, How to Start | Diogo
+URL: https://diogofit.com/learn/12-3-30-workout/
+The 12-3-30 treadmill workout: 12% incline, 3 mph, 30 minutes. Where it came from, the lab study that measured it, what it trains, and how to work up to it.
+Short answer: The 12-3-30 workout is 30 minutes of treadmill walking at a 12% incline and 3 miles an hour: a mile and a half, roughly 950 feet of climb. In the one lab study to measure it, 14 recreationally active adults used about 308 kilocalories on average, and a run matched for energy took about 24 minutes.
 
 ### Trap Workout: Shrugs, Rows, Raises, Sets
 URL: https://diogofit.com/learn/trap-workout/
