@@ -847,6 +847,11 @@ URL: https://diogofit.com/learn/hotel-workout/
 A full-body hotel workout in two versions: the room with no equipment, or the hotel gym with dumbbells. Print the PDF and keep a travel week on track.
 Short answer: A hotel workout needs a squat, a push, a pull and a hinge, plus a core move. In the room, use your bodyweight and take each set close to failure; in the hotel gym, add the dumbbells. Two short sessions hold a travel week together, and in one study, two weeks off barely moved squat or bench press strength.
 
+### Workout Plan for New Dads: 3 Short Sessions a Week (+ PDF)
+URL: https://diogofit.com/learn/workout-plan-for-new-dads/
+A workout plan for new dads: three full-body sessions of 30 to 45 minutes at home or in the gym, a one-session floor for the bad weeks, and a rule for short nights. Printable PDF.
+Short answer: Train three times a week for thirty to forty-five minutes, full body, at home or in the gym, and treat one session a week as the floor you don't go under. On a short night, lift last session's weights with one set fewer. Keep each set two or three reps short of failure, add a little whenever the top of the rep range feels easy, and write every session down.
+
 ### Average Annual Rainfall by Metro: NOAA Normals
 URL: https://diogofit.com/learn/rain-by-metro/
 NOAA's 1991–2020 average annual precipitation at a named weather station in 40 U.S. metros, and what a wet day changes in a training week: the walk, not the lifting.
@@ -858,6 +863,11 @@ URL: https://diogofit.com/learn/how-many-sets-per-week/
 How many sets per muscle per week: 6 to 10 hard sets is plenty when you're new, 10 or more builds more muscle, and returns shrink past about 20.
 Short answer: Count the hard sets each muscle gets across the week. If you're new, 6 to 10 is plenty. The American College of Sports Medicine's 2026 review ties 10 or more to more muscle growth, with diminishing returns past about 18 to 20. Start where you can recover, and add a set or two when progress stalls.
 
+### Wedding Workout Plan: A 12-Week Structure for Any Date (+ PDF)
+URL: https://diogofit.com/learn/wedding-workout-plan/
+A wedding workout plan built around the date: what to do with a year, six months, three months or six weeks, the 12-week structure, and what not to do in the last month. Printable PDF.
+Short answer: Train three days a week, full body, in twelve-week blocks that repeat until the wedding: weeks one to four to learn the movements, five to eight to add weight, nine to eleven to keep adding, and a lighter wedding week. With more than twelve weeks, run the block again. With less, run the weeks you have and shorten or skip the learning phase. In the last month, change nothing: no new exercises, no new program.
+
 ### Commute Times and Working From Home by Metro
 URL: https://diogofit.com/learn/commute-by-metro/
 The Census Bureau's average trip to work and work-from-home share for 40 U.S. metro areas, with margins of error, and where training fits around each.
@@ -868,6 +878,11 @@ Data (CSV): https://diogofit.com/learn/commute-by-metro/commute-by-metro.csv
 URL: https://diogofit.com/learn/how-many-reps/
 How many reps per set: about 6 to 15 is the efficient middle for muscle, heavier sets of 1 to 6 build more strength, and there is no magic hypertrophy range.
 Short answer: For muscle, a wide range of reps works when the sets are hard: about 6 to 15 is the efficient middle, and light sets of 15 to 40 work too when taken to failure. For strength, heavier sets of about 1 to 6 reps do more. There is no single hypertrophy range.
+
+### Workout Plan for Shift Workers: Days, Nights and 12-Hour Rotas (+ PDF)
+URL: https://diogofit.com/learn/workout-plan-for-shift-workers/
+A workout plan for shift workers: two or three full-body sessions anchored to the shift instead of the clock, a schedule for day, night and 12-hour rotas, and a floor for long runs. Printable PDF.
+Short answer: Train two or three times per rota week, full body, and anchor each session to a shift instead of a clock: after you wake and before you leave for a day or night shift, or on your days off after a run of twelve-hour shifts. Plan the sessions the day the rota comes out. On a long run, one hard session at your usual weights is the floor. Which hour you train makes little difference to strength or muscle in the research, so train in the one you can keep.
 
 ### How Active Is Your City? CDC Data for 27 Cities
 URL: https://diogofit.com/learn/how-active-is-your-city/
@@ -1012,7 +1027,7 @@ Short answer: Hinge forward with soft knees until your torso is between about 45
 
 ### Free Workout Plans for the Gym or Home
 URL: https://diogofit.com/learn/workout-plans/
-Free workout plans for the gym, dumbbells at home or no equipment, sorted by days a week. What a plan needs, which one fits your week, and the body-part days.
+Free workout plans for the gym, dumbbells at home or no equipment, sorted by days a week, plus plans for a newborn, a rota and a wedding date. What a plan needs, which one fits your week, and the body-part days.
 Short answer: A workout plan needs four things: the movements, the sets, reps and effort, a rule for progressing, and a shorter version for bad weeks. The free plans below all have them, sorted by days a week and equipment. Pick the one that fits the week you actually have, and log it.
 
 ### Training Glossary: Gym and Lifting Terms
