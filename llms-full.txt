@@ -651,18 +651,18 @@ Short answer: Motivation comes and goes, so don't build your training on it. Pla
 URL: https://diogofit.com/learn/how-long-to-see-results/
 For most people: strength usually improves first, measurable muscle around weeks 4 to 8, and visible fat loss often takes 8 to 12 weeks or more.
 
-### Can You Lose Fat and Build Muscle at Once?
+### Body Recomposition: Lose Fat and Gain Muscle?
 URL: https://diogofit.com/learn/body-recomposition/
-Losing fat and building muscle at the same time is realistic for more people than you'd think. What body recomposition takes: protein, lifting, a small deficit and time.
+Body recomposition means losing fat and building muscle at the same time. Who it works best for, the four things it takes, and how to know it's working.
 
 ### How Much Protein and How Many Calories?
 URL: https://diogofit.com/learn/calories-and-protein/
 If you lift, aim for 0.7 to 1 gram of protein per pound of bodyweight a day. For calories, estimate your maintenance, pick a direction and adjust.
 Short answer: If you lift, aim for 0.7 to 1 gram of protein per pound of bodyweight a day. For calories, estimate your maintenance, pick a direction and adjust as you go.
 
-### What Is the 80/20 Rule for Eating?
+### 80/20 Rule Diet: What It Means and How to Do It
 URL: https://diogofit.com/learn/eighty-twenty-eating/
-About 80% of what you eat is filling, protein-rich, mostly unprocessed food. The other 20% is food you simply enjoy. Calories and protein still count.
+The 80/20 rule: about 80% of what you eat is filling, protein-rich, mostly unprocessed food; the other 20% is food you enjoy. A guideline, not a rule. How to do it.
 Short answer: The 80/20 approach means most of what you eat is filling, protein-rich, mostly unprocessed food, and the rest is food you simply enjoy. It's a guideline, not a rule: calories and protein still count.
 
 ### How Many Times a Week Should You Work Out?
@@ -670,9 +670,9 @@ URL: https://diogofit.com/learn/how-often-to-train/
 Once a week beats none. General fitness and fat loss are happy on two or three days a week. Pick the schedule you can repeat, then make it count.
 Short answer: Training once a week beats not training at all, and general fitness and fat loss are happy on two or three days a week. Pick the schedule you can repeat, then make the sessions count.
 
-### Progressive Overload, Explained Simply
+### Progressive Overload: Meaning and How to Do It
 URL: https://diogofit.com/learn/progressive-overload/
-Progressive overload means asking a little more of your muscles over time: more weight, reps or sets. How to apply it, how fast to add weight and what to do when you stall.
+Progressive overload means asking a little more of your muscles over time: more weight, reps or sets. Five ways to progress, and what to do when you stall.
 
 ### Why Am I Not Losing Weight? 6 Common Reasons
 URL: https://diogofit.com/learn/why-you-cant-lose-fat/
@@ -684,9 +684,9 @@ URL: https://diogofit.com/learn/walking-for-fat-loss/
 Don't jump to a big number. Start from the steps you already average, add a bit and hold it until it feels routine. Then raise it.
 Short answer: Don't jump to a big step count. Start from the steps you already average each day, add a bit and hold it until it feels routine, then raise it.
 
-### What Is RIR (Reps in Reserve)?
+### RIR Meaning: Reps in Reserve and How to Use It
 URL: https://diogofit.com/learn/reps-in-reserve/
-Reps in reserve (RIR) is how many more good reps you could have done before failure. For most working sets, aim for about 1 to 3 in reserve.
+RIR stands for reps in reserve: how many more good reps you could do before failure. Aim for about 1 to 3 in reserve on most working sets. How to count them.
 Short answer: Reps in reserve (RIR) is how many more good reps you could have done before failure. For most working sets, aim for about 1 to 3 reps in reserve.
 
 ### How to Get Back Into the Gym After a Long Break
@@ -711,7 +711,7 @@ Short answer: You can feel nervous and still go. Decide your workout before you 
 
 ### How to Start Lifting Weights: First 4 Weeks
 URL: https://diogofit.com/learn/how-to-start-lifting-weights/
-A beginner's first four weeks of lifting: six movements, two or three short sessions a week, weights that feel too easy, and exactly when to add more.
+How to start lifting weights as a beginner: six movements, two or three short sessions a week, weights that feel too easy, and exactly when to add more.
 Short answer: Start with two or three full-body sessions a week built from six movements: a squat, a hinge, a push, a pull, a carry or core move, and a machine you like. Two sets each, three or four reps in reserve, and add a little when the top of the range feels easy.
 
 ### Your First Month of Online Coaching
@@ -735,9 +735,9 @@ URL: https://diogofit.com/learn/college-workout-routine/
 A college workout routine built around your classes: three full-body sessions a week, a two-day version for exam weeks, and a plan for the whole semester.
 Short answer: Lift three days a week, with a day between sessions, around your class schedule: six full-body movements, two to three sets of eight to twelve reps, stopping each set with two or three reps left. In exam weeks, drop to two shorter sessions and hold your weights. Add a little whenever the top of the rep range feels easy.
 
-### Workout Split: Full Body vs Upper/Lower vs PPL
+### PPL vs Full Body vs Upper/Lower: Which Split?
 URL: https://diogofit.com/learn/workout-split/
-Full body, upper/lower or push/pull/legs? Pick the workout split that fits the days you can train, then match your weekly sets. What the research says.
+PPL vs full body? With weekly sets matched, studies find similar gains. Pick the split that fits your days: full body for 2 to 3, upper/lower for 4, PPL for 5 or 6.
 Short answer: Count the days you can train, then pick the split that fits them: full body for two or three days, upper/lower for four, push/pull/legs for five or six. When weekly volume is matched, studies find split and full-body routines build similar strength and muscle, so choose the one you'll repeat and count your sets.
 
 ### How Many Rest Days a Week Do You Need?
@@ -799,9 +799,9 @@ The Census Bureau's average trip to work and work-from-home share for all 50 sta
 Short answer: By the Census Bureau's 2020–2024 American Community Survey, the average trip to work runs from under 18 minutes (South Dakota and North Dakota) to 32.6 minutes (New York), and the share of workers who work from home from 5.9% (Mississippi) to 33.0% (District of Columbia). A long commute moves training before work, near work or into shorter sessions; working from home turns the old commute into a training slot.
 Data (CSV): https://diogofit.com/learn/commute-by-state/commute-by-state.csv
 
-### Hotel Workout: No Equipment or Hotel Gym
+### Hotel Workout: No Equipment or Hotel Gym (+ PDF)
 URL: https://diogofit.com/learn/hotel-workout/
-A full-body hotel workout for the room (no equipment) or the hotel gym (dumbbells), how to keep a travel week on track, and what a week off really costs.
+A full-body hotel workout in two versions: the room with no equipment, or the hotel gym with dumbbells. Print the PDF and keep a travel week on track.
 Short answer: A hotel workout needs a squat, a push, a pull and a hinge, plus a core move. In the room, use your bodyweight and take each set close to failure; in the hotel gym, add the dumbbells. Two short sessions hold a travel week together, and in one study, two weeks off barely moved squat or bench press strength.
 
 ### Average Annual Rainfall by Metro: NOAA Normals
