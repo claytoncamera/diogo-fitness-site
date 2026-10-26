@@ -1325,6 +1325,31 @@ URL: https://diogofit.com/learn/trap-workout/
 A trap workout for the upper, middle and lower traps: dumbbell and barbell shrugs, rows, raises and the deadlift, what the studies measured, and the sets.
 Short answer: Train the upper traps with shrugs, dumbbells at your sides or a barbell in front, lifting your shoulders straight up toward your ears. Add a row and a raise for the middle and lower traps. In 30 healthy people, a one-arm shrug produced the most upper-trap activity of ten exercises.
 
+### Nordic Curl: Form, Progressions, At Home
+URL: https://diogofit.com/learn/nordic-curl/
+How to do a Nordic curl: the setup, anchoring your heels at home or in a gym, easier versions to build up with, what training studies measured, and the sets.
+Short answer: Kneel with your heels held down, body straight, and lower yourself forward as slowly as you can, catching yourself with your hands. In a 12-week trial of 42 healthy young men, the 14 who did Nordic curls grew their hamstrings by 11%, and grew the knee-bending muscles that don't extend the hip more than a machine curl did.
+
+### Cable Crunch: Form, Weight, Alternatives
+URL: https://diogofit.com/learn/cable-crunch/
+How to do a cable crunch: the kneeling setup, curling your trunk without your hips doing the work, how much weight, the machine and home versions, and sets.
+Short answer: Kneel facing a high pulley, rope beside your head, and curl your ribs toward your hips without sitting your hips back; then come up slowly. No study of the cable version by name turned up in a PubMed search for this page, but in 14 people the crunch was among the exercises with the most front-ab activity.
+
+### Ab Wheel Rollout: Form, Muscles Worked
+URL: https://diogofit.com/learn/ab-wheel/
+How to do an ab wheel rollout: the kneeling setup, how far to roll, what the roll-out studies measured, easier and harder versions, alternatives and sets.
+Short answer: Kneel holding the wheel under your shoulders, brace, and roll it forward as far as you can without your lower back sagging, then pull it back with your midsection. In 22 healthy young adults, a wheeled roll-out device produced the most ab activity and the least hip-flexor activity of four exercises tested, the crunch among them.
+
+### Inverted Row: Form, Muscles Worked, At Home
+URL: https://diogofit.com/learn/inverted-row/
+How to do an inverted row: the bar or strap setup, how body angle sets the difficulty, grip and elbows, what it trains, vs the pull-up, and the sets.
+Short answer: Hang under a bar set about hip height, hands a little wider than your shoulders, body straight from heels to head, and pull your chest to the bar, then lower under control. In 13 men and 13 women, the lats, biceps, lower trapezius and rear shoulder all reached very high activity, above 61% of a maximal contraction.
+
+### Periodization Training: Models, Mesocycles
+URL: https://diogofit.com/learn/periodization/
+What periodization means in strength training: mesocycles, the linear, undulating and block models, linear progression, cluster sets, and the evidence.
+Short answer: Periodization is planning changes to your training, such as load, volume and frequency, across a program divided into blocks called mesocycles. In a 2022 meta-analysis of 35 studies with training volume matched, periodized programs built slightly more one-rep-max strength than non-periodized ones, with no difference in muscle growth.
+
 ### Concentration Curl: Form, vs Preacher Curl
 URL: https://diogofit.com/learn/concentration-curl/
 How to do a concentration curl: the seated setup, where the rep gets hard, how it compares with the preacher curl and the standing curl, faults and sets.
