@@ -1,7 +1,7 @@
 // The Apply flow: one question at a time, ending as a message the visitor sends to Diogo themselves.
 // Everything happens in the browser. Nothing is sent, stored or kept (no localStorage, no cookies, no network).
-import { track } from './track.js?v=bcc1e9a7';
-import { currentLabel, viaLine } from './source.js?v=bcc1e9a7';
+import { track } from './track.js?v=eeeaed82';
+import { currentLabel, viaLine } from './source.js?v=eeeaed82';
 
 const root = document.querySelector('[data-apply]');
 

@@ -108,6 +108,16 @@
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://diogofit.com/learn/exercises/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/free/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://diogofit.com/online-coaching/alabama/</loc>
     <lastmod>2026-10-24</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>

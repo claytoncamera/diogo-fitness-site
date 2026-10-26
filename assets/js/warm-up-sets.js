@@ -3,7 +3,7 @@
 // (tools/check.mjs holds this file to the same rule as apply.js). The page renders a worked example as plain HTML, so it
 // reads the same without this script; the script only rebuilds the ramp from the visitor's numbers. The math is exported so
 // tools/warm-up-sets.test.mjs can check it in Node (seo-geo/factsheets/X-04-warm-up-set-calculator.md, section B).
-import { plan, sideText, num, BARS, MAX } from './plate-calculator.js?v=bcc1e9a7';
+import { plan, sideText, num, BARS, MAX } from './plate-calculator.js?v=eeeaed82';
 
 // The ramp for each kind of working set, as [percent of the working weight, reps]: the table on
 // /learn/how-to-warm-up-before-lifting/ (heavy: about 8 at 40 to 50%, 5 at 60%, 3 at 75%, then 1 or 2 at 85%; moderate:
