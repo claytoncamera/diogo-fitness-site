@@ -18,6 +18,10 @@ Apply for online fitness coaching with Diogo: answer a few short questions and s
 URL: https://diogofit.com/coaching/
 One-to-one online personal training and coaching, wherever you live: workouts in Trainerize, two weigh-ins a week, a weekly call and direct access to Diogo.
 
+### Online Fitness Coaching for Accountability
+URL: https://diogofit.com/coaching/accountability/
+Online accountability coaching for people who keep starting over: two weigh-ins a week, progress photos every two weeks and a weekly call with Diogo.
+
 ### Online Personal Training for Beginners
 URL: https://diogofit.com/coaching/beginners/
 Online personal training for beginners: a program that tells you what to do and in what order, technique taught as you go, and short first weeks you can finish.
@@ -1152,3 +1156,58 @@ Short answer: Hold parallel bars with straight arms, lower until your upper arms
 URL: https://diogofit.com/learn/mind-muscle-connection/
 What the mind-muscle connection means, what the trials show for muscle activity, growth and strength, when it helps and when it doesn't, and how to practise it.
 Short answer: The mind-muscle connection means focusing on the muscle you're training rather than on moving the weight. At light and moderate loads it raises that muscle's activity, and in one eight-week trial in untrained men it grew the elbow flexors (the biceps and its neighbours) more. For a single all-out effort, focusing on the movement works better.
+
+### Online Coach vs Fitness App vs AI Trainer
+URL: https://diogofit.com/learn/online-coach-vs-fitness-app-vs-ai/
+Online coach, fitness app or AI chatbot? What each one gives you, what it costs in time and money, who it suits and where it falls short.
+Short answer: A fitness app gives you a plan, a place to log it and reminders. An AI chatbot writes a draft plan from whatever you tell it. An online coach writes the plan around your week, reads your numbers and changes it with you. Pick by what's missing: a plan, or someone who notices when you stop.
+
+### Rear Delt Fly: Dumbbell, Cable and Machine
+URL: https://diogofit.com/learn/rear-delt-fly/
+How to do a rear delt fly with dumbbells, cables or the reverse pec deck: the arm path, palms in or down, what it trains in the studies, faults and sets.
+Short answer: Hinge forward with dumbbells, or sit facing a reverse pec deck, elbows slightly bent. Sweep your arms out and back until they line up with your body, then lower slowly. In 12 men with strength-training experience, the machine produced more rear-delt activity than a seated row or an inclined lat pulldown. Two or three sets of 12 to 16.
+
+### Tricep Pushdown: Form, Rope vs Bar, Sets
+URL: https://diogofit.com/learn/tricep-pushdown/
+How to do a tricep pushdown: rope or bar, where your elbows go, what it does for the long head next to an overhead extension, strict reps, faults and sets.
+Short answer: Clip a rope or bar to a high cable, pin your elbows to your sides, and press down until your arms are straight, then let your forearms rise to a right angle. In 21 adults over 12 weeks, that arm-at-the-side position grew the long head 19.6%, and the same extension overhead grew it 28.5%.
+
+### Preacher Curl: Form, Setup, vs Incline Curl
+URL: https://diogofit.com/learn/preacher-curl/
+How to do a preacher curl: setting the pad, how far to lower, what the trials found against the incline curl, the bar, dumbbell and cable versions, and sets.
+Short answer: Sit so your armpits rest on the top edge of the pad and the backs of your upper arms lie flat on it. Curl up, then lower until your arms are almost straight. In 21 untrained adults over 12 weeks, total elbow-flexor growth didn't differ significantly between preacher and incline curls: 19.2% and 17.6%.
+
+### Chest Press Machine: Setup, Form, vs Bench
+URL: https://diogofit.com/learn/chest-press-machine/
+How to use the chest press machine: seat height and handle position, the press, machine vs bench press in the studies, when a beginner starts here, and faults.
+Short answer: Set the seat so the handles line up with the middle of your chest, keep your back against the pad, and press until your arms are straight, then return the handles to chest level under control. A 2023 meta-analysis found no significant difference in muscle growth between free-weight and machine training in the five studies that measured it.
+
+### Sumo Squat: Form, Muscles Worked, Versions
+URL: https://diogofit.com/learn/sumo-squat/
+How to do a sumo squat: stance width and toe angle, the dumbbell, kettlebell and barbell versions, what a wide stance changes for the glutes and inner thighs.
+Short answer: Stand with your feet well outside your shoulders and your toes turned out, holding a dumbbell or kettlebell between your legs. Sit straight down between your heels, knees following your toes, then stand. In nine male lifters, stance width changed inner-thigh and glute activity but didn't isolate any part of the quadriceps.
+
+### Arnold Press: Form, Muscles Worked, Mistakes
+URL: https://diogofit.com/learn/arnold-press/
+How to do the Arnold press: the palms-in start, the turn, seated or standing, what a shoulder press trains, what is untested, the common faults and the sets.
+Short answer: Sit tall, dumbbells in front of your shoulders, palms facing you. Press up while turning your palms forward to straight arms, and reverse the turn on the way down. No study has tested the Arnold press itself; in 13 men experienced in strength training, a seated barbell shoulder press produced the highest front-shoulder muscle activity of four exercises tested.
+
+### Upright Row: Form, Grip, Muscles Worked
+URL: https://diogofit.com/learn/upright-row/
+How to do an upright row: grip width, how high to pull, what it trains in the shoulders and traps, the barbell, dumbbell and cable versions, and the sets.
+Short answer: Stand tall holding a bar or dumbbells in front of your thighs, hands about shoulder width or wider. Pull straight up your body, elbows leading, until your elbows reach about shoulder height, then lower. In 16 weight-trained men, the widest grip tested produced more shoulder and trapezius activity and less biceps activity.
+
+### Box Squat: Form, Height, vs Regular Squat
+URL: https://diogofit.com/learn/box-squat/
+How to do a box squat: setting the box height, touch-and-go or sit and pause, what the studies found it changes against a regular squat, faults and sets.
+Short answer: Set a box or bench behind you at the depth you want, usually thighs about parallel to the floor. Squat back and down to it, pause without relaxing, then stand. In eight resistance-trained men doing single reps, a box squat and a regular squat showed similar peak force and power, and muscle activity was generally higher in the regular squat.
+
+### Zercher Squat: Form, Setup, vs Front Squat
+URL: https://diogofit.com/learn/zercher-squat/
+How to do a Zercher squat: the rack height, the hold, keeping the arms comfortable, what a front-loaded squat changes, how it compares, and the sets.
+Short answer: Set the bar in a rack at about the height of your lower ribs, cradle it in the crooks of your elbows with your hands together, and squat straight down with your torso upright. No study has tested the Zercher squat itself; in 26 healthy men, a front squat produced more trunk muscle activity than a back squat.
+
+### Back Extension: Form, Muscles, Versions
+URL: https://diogofit.com/learn/back-extension/
+How to do a back extension on a 45-degree bench: the hip hinge, the glute version, hand and knee positions, the reverse hyper, what training does, and sets.
+Short answer: Set the pad just below your hip bones, hook your heels, and hinge forward from the hips, back held still. Rise until your body forms one line, then lower. Told to hinge at the hips, spine held still, 16 adults with strength-training experience had larger turning forces at the back and hips than when told to curl the spine.
