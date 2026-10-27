@@ -1,4 +1,4 @@
-import { currentLabel } from './source.js?v=312fd902';
+import { currentLabel } from './source.js?v=ed9efef5';
 
 // Analytics: one tiny seam. Works with Plausible, GA4 or nothing.
 // Lives in its own module on purpose: the lazy modules import it, and importing main.js from them would

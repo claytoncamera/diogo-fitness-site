@@ -30,9 +30,9 @@ Online personal training for beginners: a program that tells you what to do and 
 URL: https://diogofit.com/coaching/build-muscle/
 Online coaching to build muscle: enough weekly work, progression you can see in the logbook, and a coach who adjusts the program every week.
 
-### Online Fitness Coaching for Busy People and Professionals
+### Online Fitness Coaching for Busy Professionals
 URL: https://diogofit.com/coaching/busy-week/
-Online fitness coaching for busy people and working professionals: two or three sessions you can keep, a floor for bad weeks, and a coach who adjusts the plan to your week.
+Online fitness coaching for busy people and professionals: two or three sessions you can keep, a floor for bad weeks, and a coach who adjusts the plan.
 
 ### Online Weight Loss & Fat Loss Coaching
 URL: https://diogofit.com/coaching/fat-loss/
@@ -44,7 +44,7 @@ Online personal training for men: a plan with structure, built around your work 
 
 ### Online Personal Training After 40
 URL: https://diogofit.com/coaching/over-40/
-Online personal training after 40: strength training with a proper warm-up, exercise swaps when a movement doesn’t sit right, and recovery built into the week, written around your equipment and schedule.
+Online personal training after 40: strength training with a proper warm-up, exercise swaps when a movement doesn’t sit right, and recovery built into the week.
 
 ### Online Strength Coaching & Training
 URL: https://diogofit.com/coaching/strength/
@@ -52,7 +52,7 @@ Online strength coaching: heavy sets, enough rest between them, small steady inc
 
 ### Online Personal Training & Coaching for Women
 URL: https://diogofit.com/coaching/women/
-Online personal training for women: strength training that works in much the same way it does for men, a plan built around your equipment and your week, and a coach to answer to.
+Online personal training and coaching for women: strength training, a plan built around your equipment and your week, and a coach to answer to.
 
 ### Health, Results and Coaching Disclaimer
 URL: https://diogofit.com/disclaimer/
@@ -482,43 +482,43 @@ A free workout plan quiz: six questions about your week, your equipment and your
 URL: https://diogofit.com/online-coaching/florida/miami-metro/
 Online fitness coaching in South Florida, from a coach based here: the Miami–Fort Lauderdale metro’s activity survey, climate and commute, and its city pages.
 
-### Online Fitness Coach for the Orlando–Kissimmee–Sanford Area
+### Online Fitness Coach for the Orlando Area
 URL: https://diogofit.com/online-coaching/florida/orlando-metro/
 Online fitness coaching for the Orlando–Kissimmee–Sanford area: the metro’s activity survey, its climate and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the Tampa–St. Petersburg–Clearwater Area
+### Online Fitness Coach for the Tampa Area
 URL: https://diogofit.com/online-coaching/florida/tampa-metro/
 Online fitness coaching for the Tampa–St. Petersburg–Clearwater area: the metro’s activity survey, its climate and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the Atlanta–Sandy Springs–Roswell Area
+### Online Fitness Coach for the Atlanta Area
 URL: https://diogofit.com/online-coaching/georgia/atlanta-metro/
 Online fitness coaching for the Atlanta–Sandy Springs–Roswell area: the metro’s activity survey, its commute and climate, and how the plan fits a week here.
 
-### Online Fitness Coach for the Houston–Pasadena–The Woodlands Area
+### Online Fitness Coach for the Houston Area
 URL: https://diogofit.com/online-coaching/texas/houston-metro/
 Online fitness coaching for the Houston–Pasadena–The Woodlands area: the metro’s activity survey, its climate and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the Phoenix–Mesa–Chandler Area
+### Online Fitness Coach for the Phoenix Area
 URL: https://diogofit.com/online-coaching/arizona/phoenix-metro/
 Online fitness coaching for the Phoenix–Mesa–Chandler area: the metro’s activity survey, its desert climate and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the Chicago–Naperville–Elgin Area
+### Online Fitness Coach for the Chicago Area
 URL: https://diogofit.com/online-coaching/illinois/chicago-metro/
 Online fitness coaching for the Chicago–Naperville–Elgin area: the metro’s activity survey, its commute and winter, and how the plan fits a week here.
 
-### Online Fitness Coach for the Los Angeles–Long Beach–Anaheim Area
+### Online Fitness Coach for the Los Angeles Area
 URL: https://diogofit.com/online-coaching/california/los-angeles-metro/
 Online fitness coaching for the Los Angeles–Long Beach–Anaheim area: the metro’s activity survey, its mild climate and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the Denver–Aurora–Centennial Area
+### Online Fitness Coach for the Denver Area
 URL: https://diogofit.com/online-coaching/colorado/denver-metro/
 Online fitness coaching for the Denver–Aurora–Centennial area: the metro’s activity survey, its climate and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the Charlotte–Concord–Gastonia Area
+### Online Fitness Coach for the Charlotte Area
 URL: https://diogofit.com/online-coaching/north-carolina/charlotte-metro/
 Online fitness coaching for the Charlotte–Concord–Gastonia area: the metro’s activity survey, its climate and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the Minneapolis–St. Paul–Bloomington Area
+### Online Fitness Coach for the Minneapolis Area
 URL: https://diogofit.com/online-coaching/minnesota/minneapolis-metro/
 Online fitness coaching for the Minneapolis–St. Paul–Bloomington area: the metro’s activity survey, its winter and commute, and how the plan fits a week here.
 
@@ -526,27 +526,27 @@ Online fitness coaching for the Minneapolis–St. Paul–Bloomington area: the m
 URL: https://diogofit.com/online-coaching/missouri/st-louis-metro/
 Online fitness coaching for the St. Louis area: the metro’s activity survey, its climate and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the San Antonio–New Braunfels Area
+### Online Fitness Coach for the San Antonio Area
 URL: https://diogofit.com/online-coaching/texas/san-antonio-metro/
 Online fitness coaching for the San Antonio–New Braunfels area: the metro’s activity survey, its heat and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the Austin–Round Rock–San Marcos Area
+### Online Fitness Coach for the Austin Area
 URL: https://diogofit.com/online-coaching/texas/austin-metro/
 Online fitness coaching for the Austin–Round Rock–San Marcos area: the metro’s activity survey, its heat and work-from-home week, and how the plan fits it.
 
-### Online Fitness Coach for the Baltimore–Columbia–Towson Area
+### Online Fitness Coach for the Baltimore Area
 URL: https://diogofit.com/online-coaching/maryland/baltimore-metro/
 Online fitness coaching for the Baltimore–Columbia–Towson area: the metro’s activity survey, its climate and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the Riverside–San Bernardino–Ontario Area
+### Online Fitness Coach for the Riverside Area
 URL: https://diogofit.com/online-coaching/california/riverside-metro/
 Online fitness coaching for the Riverside–San Bernardino–Ontario area: the metro’s activity survey, its commute and heat, and how the plan fits a week here.
 
-### Online Fitness Coach for the Portland–Vancouver–Hillsboro Area
+### Online Fitness Coach for the Portland Area
 URL: https://diogofit.com/online-coaching/oregon/portland-metro/
 Online fitness coaching for the Portland–Vancouver–Hillsboro area: the metro’s activity survey, its wet winters and work-from-home week, and how the plan fits it.
 
-### Online Fitness Coach for the Sacramento–Roseville–Folsom Area
+### Online Fitness Coach for the Sacramento Area
 URL: https://diogofit.com/online-coaching/california/sacramento-metro/
 Online fitness coaching for the Sacramento–Roseville–Folsom area: the metro’s activity survey, its valley heat and commute, and how the plan fits a week here.
 
@@ -558,19 +558,19 @@ Online fitness coaching for the Kansas City area: the metro’s activity survey,
 URL: https://diogofit.com/online-coaching/ohio/columbus-metro/
 Online fitness coaching for the Columbus area: the metro’s activity survey, its winters and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the Indianapolis–Carmel–Greenwood Area
+### Online Fitness Coach for the Indianapolis Area
 URL: https://diogofit.com/online-coaching/indiana/indianapolis-metro/
 Online fitness coaching for the Indianapolis–Carmel–Greenwood area: the metro’s activity survey, its winters and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the Nashville–Davidson–Murfreesboro–Franklin Area
+### Online Fitness Coach for the Nashville Area
 URL: https://diogofit.com/online-coaching/tennessee/nashville-metro/
 Online fitness coaching for the Nashville–Davidson–Murfreesboro–Franklin area: the metro’s activity survey, its seasons and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the Raleigh–Cary Area
+### Online Fitness Coach for the Raleigh Area
 URL: https://diogofit.com/online-coaching/north-carolina/raleigh-metro/
 Online fitness coaching for the Raleigh–Cary area: the metro’s activity survey, its work-from-home week, and how the plan fits it.
 
-### Online Fitness Coach for the Salt Lake City–Murray Area
+### Online Fitness Coach for the Salt Lake City Area
 URL: https://diogofit.com/online-coaching/utah/salt-lake-city-metro/
 Online fitness coaching for the Salt Lake City–Murray area: the metro’s activity survey, its seasons and commute, and how the plan fits a week here.
 
@@ -578,11 +578,11 @@ Online fitness coaching for the Salt Lake City–Murray area: the metro’s acti
 URL: https://diogofit.com/online-coaching/florida/jacksonville-metro/
 Online fitness coaching for the Jacksonville area: the metro’s activity survey, its heat and rain, and how the plan fits a week here.
 
-### Online Fitness Coach for the Virginia Beach–Chesapeake–Norfolk Area
+### Online Fitness Coach for the Virginia Beach Area
 URL: https://diogofit.com/online-coaching/virginia/virginia-beach-metro/
 Online fitness coaching for the Virginia Beach–Chesapeake–Norfolk area: the metro’s activity survey, its coastal seasons and workweek, and how the plan fits it.
 
-### Online Fitness Coach for the Milwaukee–Waukesha Area
+### Online Fitness Coach for the Milwaukee Area
 URL: https://diogofit.com/online-coaching/wisconsin/milwaukee-metro/
 Online fitness coaching for the Milwaukee–Waukesha area: the metro’s activity survey, its winters and commute, and how the plan fits a week here.
 
@@ -598,11 +598,11 @@ Online fitness coaching for the Richmond area: the metro’s activity survey, it
 URL: https://diogofit.com/online-coaching/alabama/birmingham-metro/
 Online fitness coaching for the Birmingham area: the metro’s activity survey, its summer heat and rain, and how the plan fits a week here.
 
-### Online Fitness Coach for the Grand Rapids–Wyoming–Kentwood Area
+### Online Fitness Coach for the Grand Rapids Area
 URL: https://diogofit.com/online-coaching/michigan/grand-rapids-metro/
 Online fitness coaching for the Grand Rapids–Wyoming–Kentwood area: the metro’s activity survey, its winters and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the Hartford–West Hartford–East Hartford Area
+### Online Fitness Coach for the Hartford Area
 URL: https://diogofit.com/online-coaching/connecticut/hartford-metro/
 Online fitness coaching for the Hartford–West Hartford–East Hartford area: the metro’s activity survey, its winters and median age, and how the plan fits a week here.
 
@@ -610,7 +610,7 @@ Online fitness coaching for the Hartford–West Hartford–East Hartford area: t
 URL: https://diogofit.com/online-coaching/ohio/cincinnati-metro/
 Online fitness coaching for the Cincinnati area in Ohio, Kentucky and Indiana: the metro’s activity survey, its winters and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the San Jose–Sunnyvale–Santa Clara Area
+### Online Fitness Coach for the San Jose Area
 URL: https://diogofit.com/online-coaching/california/san-jose-metro/
 Online fitness coaching for the San Jose–Sunnyvale–Santa Clara area: the metro’s activity survey and its work-from-home week, and how the plan fits it.
 
@@ -618,11 +618,11 @@ Online fitness coaching for the San Jose–Sunnyvale–Santa Clara area: the met
 URL: https://diogofit.com/online-coaching/tennessee/memphis-metro/
 Online fitness coaching for the Memphis area in Tennessee, Mississippi and Arkansas: the metro’s activity survey, its summer heat and workweek, and how the plan fits it.
 
-### Online Fitness Coach for the Providence–Warwick Area
+### Online Fitness Coach for the Providence Area
 URL: https://diogofit.com/online-coaching/rhode-island/providence-metro/
 Online fitness coaching for the Providence–Warwick area in Rhode Island and Massachusetts: the metro’s activity survey, its winters and median age, and how the plan fits a week here.
 
-### Online Fitness Coach for the Washington–Arlington–Alexandria Area
+### Online Fitness Coach for the Washington Area
 URL: https://diogofit.com/online-coaching/district-of-columbia/washington-metro/
 Online fitness coaching for the Washington–Arlington–Alexandria area in DC, Virginia, Maryland and West Virginia: the metro’s activity survey, its commute and workweek, and how the plan fits it.
 
@@ -638,15 +638,15 @@ Online fitness coaching for the Pittsburgh area: the metro’s activity survey, 
 URL: https://diogofit.com/online-coaching/kentucky/louisville-metro/
 Online fitness coaching for the Louisville area in Kentucky and Indiana: the metro’s activity survey, its seasons and commute, and how the plan fits a week here.
 
-### Online Fitness Coach for the Palm Bay–Melbourne–Titusville Area
+### Online Fitness Coach for the Palm Bay Area
 URL: https://diogofit.com/online-coaching/florida/palm-bay-metro/
 Online fitness coaching for the Palm Bay–Melbourne–Titusville area: what the weekly call needs and when outdoor training works on the Brevard coast.
 
-### Online Fitness Coach for the North Port–Bradenton–Sarasota Area
+### Online Fitness Coach for the North Port Area
 URL: https://diogofit.com/online-coaching/florida/north-port-metro/
 Online fitness coaching for the North Port–Bradenton–Sarasota area: a plan for a long run of hot days, a use for the work-from-home days, and the weekly call.
 
-### Online Fitness Coach for the Pensacola–Ferry Pass–Brent Area
+### Online Fitness Coach for the Pensacola Area
 URL: https://diogofit.com/online-coaching/florida/pensacola-metro/
 Online fitness coaching for the Pensacola area, on Central time: a plan with a wet-day backup and a weekly call set in your time zone.
 
@@ -662,7 +662,7 @@ Online fitness coaching for the Tallahassee area’s four counties: the CDC’s 
 URL: https://diogofit.com/online-coaching/florida/gainesville-metro/
 Online fitness coaching for the Gainesville area’s three counties: the CDC’s metro survey, a plan for the drive in from outside the city, and the weekly call.
 
-### Online Fitness Coach for the Naples–Marco Island Area
+### Online Fitness Coach for the Naples Area
 URL: https://diogofit.com/online-coaching/florida/naples-metro/
 Online fitness coaching for the Naples–Marco Island area: a plan for a mild winter and a long hot season, a program that can run from home, and the weekly call.
 
@@ -680,7 +680,7 @@ Short answer: Online fitness coaching is a service where a real coach builds you
 
 ### How to Find an Online Fitness Coach (7 Checks)
 URL: https://diogofit.com/learn/how-to-choose-an-online-fitness-coach/
-Seven things to check before you hire an online fitness coach: whether they ask about your life first, how they track progress, how often you'll talk and what they promise.
+Seven things to check before you hire an online fitness coach: do they ask about your life first, how they track progress, how often you talk, what they promise.
 
 ### How to Stay Consistent With Working Out
 URL: https://diogofit.com/learn/consistency-vs-motivation/
@@ -741,7 +741,7 @@ Short answer: It can be, if what's missing is structure, feedback and someone wh
 
 ### Online Coaching vs Personal Trainer: Side by Side
 URL: https://diogofit.com/learn/online-coach-vs-gym-trainer/
-Online coaching vs a personal trainer, side by side: who writes the plan, form feedback, accountability, flexibility, and when each one wins. Honest about thin evidence.
+Online coaching vs a personal trainer, side by side: who writes the plan, form feedback, accountability, flexibility, and when each one wins.
 Short answer: Choose a personal trainer if you want someone beside you to correct your form during scheduled sessions. Choose an online coach if you can train on your own but need a plan, check-ins and structure for the whole week.
 
 ### Gym Anxiety? How to Get Through Your First Day
@@ -1284,7 +1284,7 @@ Short answer: Set the pad just below your hip bones, hook your heels, and hinge 
 
 ### Do I Need a Fitness Coach or a Personal Trainer?
 URL: https://diogofit.com/learn/do-i-need-a-fitness-coach/
-Most people don't need a fitness coach to get in shape. How to tell whether a free plan, an app, a trainer at your gym or an online coach is the right amount of help for you.
+Most people don't need a fitness coach to get in shape. How to tell whether a free plan, an app, a trainer at your gym or an online coach is right for you.
 Short answer: No, most people don't need a fitness coach to get in shape: the guidelines are public and a good plan is free. You may need one if you know what to do and keep not doing it, if your week never fits the plan, or if nobody notices when you stop. If you've never lifted and feel unsafe in a gym, a few sessions with a trainer at your gym may be the better first step.
 
 ### Dumbbell Pullover: Form, Chest or Lats?
@@ -1302,9 +1302,9 @@ URL: https://diogofit.com/learn/hiit-vs-steady-state-cardio/
 HIIT or steady-state cardio? What the meta-analyses found for body fat, aerobic fitness and endurance, which one people keep doing, and a week with both.
 Short answer: Both work. In 31 studies, interval training and steady cardio reduced body fat by similar, modest amounts. In 28 studies of healthy adults, both raised aerobic fitness, intervals by a possibly small margin more. Intervals save time and feel harder; steady cardio is easier to keep up. Pick the one you'll do.
 
-### Can't Afford a Personal Trainer? What to Do Instead
+### Can't Afford a Personal Trainer? Do This
 URL: https://diogofit.com/learn/cant-afford-a-personal-trainer/
-Can't afford a personal trainer? Four honest options, three of them free: a real plan, a log, a witness, and when coaching makes sense. What each covers and what it doesn't. No price list.
+Can't afford a personal trainer? Four honest options, three of them free: a real plan, a log, a witness, and when coaching makes sense.
 Short answer: If you can't afford a personal trainer, you can still train well: pick one free plan, keep a log, and tell someone your numbers each week. That covers the plan and most of the tracking. What it doesn't cover is someone who changes the plan when your week breaks and notices when you stop, which is the part people end up paying for in restarts.
 
 ### Gym Membership vs Personal Trainer or Coach
