@@ -1544,7 +1544,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/stairmaster-workout/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
   </url>
   <url>
@@ -1569,7 +1569,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/12-3-30-workout/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/walk-1200.jpg</image:loc></image:image>
   </url>
   <url>
@@ -1718,8 +1718,23 @@
     <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://diogofit.com/learn/how-to-build-muscle/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/treadmill-workout/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://diogofit.com/learn/workout-plan-for-remote-workers/</loc>
     <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/walk-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/elliptical-workout/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
   </url>
 </urlset>
