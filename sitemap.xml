@@ -74,7 +74,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/coaching/busy-week/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/og.jpg</image:loc></image:image>
   </url>
   <url>
@@ -593,6 +593,11 @@
     <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://diogofit.com/tools/protein-intake-calculator/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/meal-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://diogofit.com/tools/warm-up-set-calculator/</loc>
     <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
@@ -857,7 +862,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/consistency-vs-motivation/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/consistency-vs-motivation.jpg</image:loc></image:image>
   </url>
@@ -869,13 +874,13 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/body-recomposition/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/body-recomposition.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/learn/calories-and-protein/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/meal-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/og/calories-and-protein.jpg</image:loc></image:image>
   </url>
@@ -966,7 +971,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/full-body-workout-plan/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
   </url>
   <url>
@@ -1050,7 +1055,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/commute-by-state/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/doorbag-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/charts/commute-by-state-card.png</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/charts/commute-by-state.svg</image:loc></image:image>
@@ -1086,7 +1091,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/commute-by-metro/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/doorbag-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/charts/commute-by-metro-card.png</image:loc></image:image>
     <image:image><image:loc>https://diogofit.com/img/charts/commute-by-metro.svg</image:loc></image:image>
@@ -1117,7 +1122,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/data/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
   </url>
   <url>
@@ -1701,5 +1706,20 @@
     <loc>https://diogofit.com/learn/machine-only-workout-plan/</loc>
     <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/30-day-fitness-challenge/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/walk-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/home-gym-workout-plan/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/workout-plan-for-remote-workers/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/walk-1200.jpg</image:loc></image:image>
   </url>
 </urlset>
