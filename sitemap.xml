@@ -1237,7 +1237,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/leg-press/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
   </url>
   <url>
@@ -1287,7 +1287,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/cable-workout/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
   </url>
   <url>
@@ -1459,7 +1459,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/chest-press-machine/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
   </url>
   <url>
@@ -1696,5 +1696,10 @@
     <loc>https://diogofit.com/learn/5x5-workout/</loc>
     <lastmod>2026-10-26</lastmod>
     <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/machine-only-workout-plan/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
   </url>
 </urlset>
