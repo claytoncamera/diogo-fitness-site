@@ -1555,3 +1555,53 @@ Short answer: Set the seat so your knee stays slightly bent at the bottom of eac
 URL: https://diogofit.com/learn/morning-workout-routine/
 A 20-minute morning workout routine with no equipment, a 30-minute gym version, how many mornings a week, and what habit studies say about making it stick.
 Short answer: Warm up for three minutes, then do two or three rounds of squats, push-ups, glute bridges, lunges and a plank: about twenty minutes, no equipment. Do it on at least two fixed mornings a week, the World Health Organization's minimum for muscle-strengthening, and walk on the others. In 111 new gym members, exercising at least four times a week for six weeks was the minimum to build the habit.
+
+### HIIT Workout: 3 Sessions to Run, With Rest Times | Diogo
+URL: https://diogofit.com/learn/hiit-workout/
+A HIIT workout in three versions: no equipment, bike or rower, and weights. What counts as HIIT, how the trials set work and rest, and how often to do it.
+Short answer: HIIT is repeated hard efforts with easier recovery between them. As a starting point: warm up for five minutes, do four to eight efforts of 30 to 60 seconds with longer easy recovery, then cool down. Trials used short sessions too: three 20-second sprints, three times a week, raised peak oxygen uptake 19% in sedentary men over 12 weeks.
+
+### Tabata Workout: What It Is and How to Run One | Diogo
+URL: https://diogofit.com/learn/tabata-workout/
+A Tabata is 20 seconds hard and 10 easy, eight times. What the 1996 study measured, what reviews found since, and a 4-minute and a 27-minute session.
+Short answer: A Tabata is a four-minute interval format: eight rounds of 20 seconds hard and 10 seconds of rest. The 1996 study behind the name used seven to eight exhaustive 20-second bouts at about 170% of maximal oxygen uptake on four days a week, in seven people on a cycle ergometer. Bodyweight versions are variations on it.
+
+### Circuit Training: A Full-Body Circuit to Run | Diogo
+URL: https://diogofit.com/learn/circuit-training/
+What circuit training is, what meta-analyses found for fitness and strength, a six-station full-body circuit for gym or home, and where it fits in a week.
+Short answer: Circuit training is different exercises done one after another with little rest between, then repeated. A 2017 meta-analysis found circuit-based resistance training raised maximal oxygen uptake and bench-press strength in healthy adults. Alternate lower and upper body, keep rest short between stations and longer between rounds, and start with two rounds.
+
+### EMOM Workout: How It Works and 3 to Run | Diogo
+URL: https://diogofit.com/learn/emom-workout/
+What an EMOM workout is, what studies comparing it with AMRAP found for heart rate and fatigue, three sessions to run, and how to keep the rest real.
+Short answer: EMOM means every minute on the minute: start a set at the top of each minute and rest for what's left of it. In a study of 12 athletes, an EMOM had the lowest heart rates of the three timed formats tested. As a practical rule, pick a set that takes 20 to 40 seconds so the rest stays real.
+
+### AMRAP Workout: How to Pace It and 3 to Run | Diogo
+URL: https://diogofit.com/learn/amrap-workout/
+What an AMRAP workout is, what studies comparing it with EMOM found for pacing and fatigue, three sessions to run, how to score one, and how to pace it.
+Short answer: AMRAP means as many rounds as possible: set a clock, usually 10 to 20 minutes, and repeat a short list of moves with fixed reps, counting rounds. In studies that compared formats, athletes paced themselves slower in an AMRAP and ended it more fatigued than in an EMOM. Start slower than you want to.
+
+### 5 Day Workout Split: Bro Split vs Hybrid Week | Diogo
+URL: https://diogofit.com/learn/5-day-workout-split/
+Two 5 day workout splits written out: a bro split with one muscle a day, and an upper/lower plus push/pull/legs week, with the weekly sets each gives.
+Short answer: Two five-day weeks work: a bro split, one muscle group a day, so each is trained once, or upper, lower, push, pull and legs, so each is trained twice. A 2019 meta-analysis of 25 studies found no significant difference between training a muscle more or less often once volume was equated, so pick the week you'll repeat.
+
+### Chest and Tricep Workout: Gym and Dumbbells | Diogo
+URL: https://diogofit.com/learn/chest-and-tricep-workout/
+A chest and tricep workout for the gym and one for dumbbells at home: three chest lifts, then two for triceps, with sets, reps and where it fits a week.
+Short answer: Press first, then do triceps. In 30 trained adults the middle and lower chest were most active on a flat bench and the upper chest at about 30 degrees (muscle activity, not growth), so use a flat press and a low incline. Presses already count for the triceps as half sets, so finish with an overhead extension and a pushdown.
+
+### Back and Bicep Workout: Gym and Dumbbells | Diogo
+URL: https://diogofit.com/learn/back-and-bicep-workout/
+A back and bicep workout for the gym and one for dumbbells at home: a pulldown, rows and a hinge, then two curls, with sets, reps and where it fits a week.
+Short answer: Pull in two directions, then curl. The authors of the ACSM's 2026 position stand suggest considering vertical and horizontal directions for the upper body, so start with a pulldown or pull-up and a row. Rows and pulldowns already count for the biceps as half sets, so end with a curl and a hammer curl.
+
+### Pyramid Sets: Ascending, Descending, How to Load | Diogo
+URL: https://diogofit.com/learn/pyramid-sets/
+What pyramid sets are, the ascending, descending and triangle versions, how to load them, and what the studies measured for strength and muscle growth.
+Short answer: A pyramid changes the weight from set to set: heavier each set (ascending), lighter each set (descending), or up and back down. A 2023 review of 15 studies found pyramid training was not superior to traditional sets for strength gains or muscle growth, so use one for variety or to find the day's weight, not as a shortcut.
+
+### Newbie Gains: What the Research Says | Diogo
+URL: https://diogofit.com/learn/newbie-gains/
+What newbie gains are, why strength comes before muscle size, what studies found about the first weeks of lifting, and how to use them with steady steps.
+Short answer: Newbie gains is the fast early progress of someone new to lifting. In an eight-week study of 15 young adults, nervous-system factors accounted for most of the first strength increase, and muscle growth became the main factor after the first 3 to 5 weeks. No source here gives an end date, so add weight or reps in small steps.
