@@ -484,11 +484,11 @@ Free DOTS calculator: enter your bodyweight and your squat, bench press and dead
 
 ### VO2 Max Calculator: Cooper 12-Minute Run Test
 URL: https://diogofit.com/tools/vo2-max-calculator/
-Free VO2 max calculator for the Cooper test: enter how far you ran in 12 minutes, in meters, km or miles, for an estimated VO2 max, with the equation and its limits.
+Free VO2 max calculator for the Cooper test: enter how far you ran in 12 minutes, in meters, km or miles, for an estimate, with the equation and its limits.
 
 ### Calories Burned Walking Calculator (by Pace)
 URL: https://diogofit.com/tools/walking-calorie-calculator/
-Free calories burned walking calculator: enter your bodyweight, minutes and walking pace, outdoors or on a treadmill, for an estimate from the Compendium's MET values.
+Free calories burned walking calculator: enter bodyweight, minutes and pace, outdoors or on a treadmill, for an estimate from the Compendium's MET values.
 
 ### Warm-Up Set Calculator for Lifting
 URL: https://diogofit.com/tools/warm-up-set-calculator/
@@ -741,8 +741,8 @@ Short answer: If you're eating healthy but not losing weight, I'd check these fi
 
 ### How Many Steps a Day to Lose Weight?
 URL: https://diogofit.com/learn/walking-for-fat-loss/
-Don't jump to a big number. Start from the steps you already average, add a bit and hold it until it feels routine. Then raise it.
-Short answer: Don't jump to a big step count. Start from the steps you already average each day, add a bit and hold it until it feels routine, then raise it.
+How many steps a day for fat loss: start from your own average, add about 2,000 and hold it. Plus what 3,000 extra steps burn, worked out from research.
+Short answer: Don't jump to a big step count. Start from the steps you already average, add about 2,000 a day and hold it until it feels routine, then raise it. In studies of pedometer programs, people added about 2,200 to 2,500 steps a day, and having a step goal was an important predictor of the increase.
 
 ### RIR Meaning: Reps in Reserve and How to Use It
 URL: https://diogofit.com/learn/reps-in-reserve/
@@ -1927,19 +1927,19 @@ URL: https://diogofit.com/learn/how-to-build-endurance/
 How to build endurance and stamina: mostly easy cardio, one or two harder interval sessions, time added gradually, lifting beside it, and a sample week.
 Short answer: Do cardio most days, mostly at an easy pace you could talk through, add one or two harder interval sessions a week, and add time gradually. In 28 controlled trials of healthy adults, steady training raised VO2 max about 4.9 mL/kg/min against no exercise and intervals about 5.5.
 
-### Does Sleep Affect Muscle Growth? What Studies Show
+### Does Sleep Affect Muscle Growth?
 URL: https://diogofit.com/learn/sleep-and-muscle-growth/
-How sleep affects muscle growth and training: how much sleep adults need, what one night or five short nights did to muscle protein building in lab studies, and how sleep loss changed performance.
+How much sleep adults need, what short nights did to muscle protein building in lab studies, and how sleep loss changed training performance.
 Short answer: Adults should sleep seven or more hours a night on a regular basis. In lab studies, one night without sleep lowered muscle protein building the next day by 18%, and five nights of four hours in bed lowered it too. Those studies measured protein building over days, not muscle size over months, but they point the same way: short sleep works against the training.
 
-### Overtraining: What It Is and What Lifters Usually Mean
+### Overtraining vs Overreaching: What It Is
 URL: https://diogofit.com/learn/overtraining/
-What overtraining is, how it differs from overreaching and a normal hard week, what the research on lifters actually found, and how to plan training so you recover between sessions.
+What overtraining syndrome is, how it differs from overreaching, how rarely lifting studies established it, and how to keep training and recovery balanced.
 Short answer: In sports science, overtraining syndrome is a prolonged maladaptation from too much training with too little recovery, and it’s diagnosed only after illness and other causes are ruled out. A short dip after hard training that leads to improvement after recovery is called functional overreaching. In lifting research the full syndrome is rarely established.
 
-### Resting Heart Rate: How to Measure It and How Exercise Changes It
+### Resting Heart Rate: Normal Range, How to Measure
 URL: https://diogofit.com/learn/resting-heart-rate/
-What a normal resting heart rate is for adults, how to measure yours properly, what exercise did to resting heart rate across 191 studies, and how to use it to set cardio zones.
+Normal resting heart rate for adults and athletes, how to measure yours properly, and what exercise did to it across 191 studies.
 Short answer: For adults, a normal resting heart rate is 60 to 100 beats a minute, and for well-trained athletes 40 to 60. Measure it after at least 10 minutes of rest by counting your pulse for a full minute. Across 191 exercise studies, every type of exercise lowered it, with endurance training and yoga lowering it in both men and women.
 
 ### How to Get a V Taper and Wider Shoulders | Diogo
