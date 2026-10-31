@@ -478,6 +478,10 @@ Free barbell plate calculator in lb or kg: enter a weight, your bar and your pla
 URL: https://diogofit.com/tools/protein-intake-calculator/
 Free protein intake calculator for people who lift: enter your bodyweight in lb or kg for a daily protein range in grams and a split across 3 or 4 meals.
 
+### Running Pace Calculator and Race Predictor
+URL: https://diogofit.com/tools/running-pace-calculator/
+Free running pace calculator: work out pace, time or distance in km or miles, get even splits, and a race-time estimate from Riegel's formula, with its limits.
+
 ### DOTS Calculator: Powerlifting Strength Score
 URL: https://diogofit.com/tools/strength-score-calculator/
 Free DOTS calculator: enter your bodyweight and your squat, bench press and deadlift total in kg or lb for your DOTS score, with the formula shown.
@@ -493,6 +497,10 @@ Free calories burned walking calculator: enter bodyweight, minutes and pace, out
 ### Warm-Up Set Calculator for Lifting
 URL: https://diogofit.com/tools/warm-up-set-calculator/
 Free warm-up set calculator: enter your working weight and reps, and get warm-up sets rounded to weights you can load, plates per side, and the research behind it.
+
+### Weekly Sets Per Muscle Group Planner
+URL: https://diogofit.com/tools/weekly-sets-planner/
+Free weekly sets planner: pick your training days and muscles, and see hard sets per muscle per week inside the ranges the research cites, split across the days.
 
 ### Workout Plan Quiz: Which Plan Fits Your Week?
 URL: https://diogofit.com/tools/which-workout-plan/
@@ -2122,3 +2130,9 @@ Short answer: In the three trials, two sessions a day did at least as well as on
 URL: https://diogofit.com/learn/fitness-accountability/
 What fitness accountability means, what research found about tracking, supervision and habit, and how to set up a log, a partner or a coach to keep training.
 Short answer: Accountability is someone or something that notices whether you trained. The evidence is on monitoring: in a 2016 meta-analysis of 138 studies, monitoring progress helped people reach their goals, more so when it was physically recorded and when it was reported or made public. Pick one: a log you keep, a partner who sees it, or a coach who reads it every week.
+
+### Strength Training Statistics by Age and Sex
+URL: https://diogofit.com/learn/strength-training-by-age/
+How many U.S. adults do muscle-strengthening activity 2+ days a week, by age group and sex, from the CDC's 2023 survey of 411,023 adults, with the CSV.
+Short answer: In the CDC's 2023 survey, 41.0% of U.S. adults said they do muscle-strengthening activities on 2 or more days a week: 51.2% of 18- to 24-year-olds, falling to 37.5% at 55 to 64 and 38.1% at 65 and older. Men reported it more than women, 45.1% against 37.0%.
+Data (CSV): https://diogofit.com/learn/strength-training-by-age/strength-training-by-age.csv

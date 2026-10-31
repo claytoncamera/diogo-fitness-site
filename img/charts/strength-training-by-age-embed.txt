@@ -1,0 +1,4 @@
+Embed code for the chart on https://diogofit.com/learn/strength-training-by-age/ (free to reuse with this link back; the data are the CDC's):
+
+<a href="https://diogofit.com/learn/strength-training-by-age/"><img src="https://diogofit.com/img/charts/strength-training-by-age.png" alt="Bar chart: adults doing muscle-strengthening activities 2+ days a week in 9 groups of U.S. adults, from CDC BRFSS 2023. One bar per group, sorted by the published estimate, with the 95% confidence interval drawn as a thin line." width="1200" height="516"></a>
+<p>Chart: Diogo Fitness, from CDC BRFSS 2023 data. Table, sources and CSV: https://diogofit.com/learn/strength-training-by-age/</p>

@@ -603,6 +603,11 @@
     <image:image><image:loc>https://diogofit.com/img/meal-1200.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://diogofit.com/tools/running-pace-calculator/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/walk-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://diogofit.com/tools/strength-score-calculator/</loc>
     <lastmod>2026-10-31</lastmod>
     <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
@@ -621,6 +626,11 @@
     <loc>https://diogofit.com/tools/warm-up-set-calculator/</loc>
     <lastmod>2026-10-31</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/tools/weekly-sets-planner/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/barbell-1200.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://diogofit.com/tools/which-workout-plan/</loc>
@@ -2074,7 +2084,7 @@
   </url>
   <url>
     <loc>https://diogofit.com/learn/treadmill-vs-outdoor-running/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <image:image><image:loc>https://diogofit.com/img/gym-1200.jpg</image:loc></image:image>
   </url>
   <url>
@@ -2336,5 +2346,13 @@
     <loc>https://diogofit.com/learn/fitness-accountability/</loc>
     <lastmod>2026-10-31</lastmod>
     <image:image><image:loc>https://diogofit.com/img/coaching-1200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://diogofit.com/learn/strength-training-by-age/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <image:image><image:loc>https://diogofit.com/img/dumbbell-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/strength-training-by-age-card.png</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/strength-training-by-age.svg</image:loc></image:image>
+    <image:image><image:loc>https://diogofit.com/img/charts/strength-training-by-age.png</image:loc></image:image>
   </url>
 </urlset>
