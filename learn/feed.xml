@@ -8,6 +8,24 @@
   <atom:link href="https://diogofit.com/learn/feed.xml" rel="self" type="application/rss+xml"/>
   <image><url>https://diogofit.com/apple-touch-icon.png</url><title>Diogo Fitness: Learn</title><link>https://diogofit.com/learn/</link></image>
   <item>
+    <title>Thoracic mobility: the upper-back range your overhead lifts use</title>
+    <link>https://diogofit.com/learn/thoracic-mobility/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/thoracic-mobility/</guid>
+    <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>Thoracic mobility for lifters: what your upper back does when your arms go overhead, a simple rotation test, the exercises, and what the studies found.</description>
+  </item>
+  <item>
+    <title>Strength standards from meet results: squat, bench press and deadlift by weight class and age</title>
+    <link>https://diogofit.com/learn/strength-standards/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/strength-standards/</guid>
+    <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>Squat, bench press and deadlift percentiles for 327,938 lifters in tested raw powerlifting meets since 2015, by sex, weight class and age, with the CSV.</description>
+  </item>
+  <item>
     <title>Reps and sets, explained: what 3x10 means, and how to read the rest of a program</title>
     <link>https://diogofit.com/learn/reps-and-sets-explained/</link>
     <guid isPermaLink="true">https://diogofit.com/learn/reps-and-sets-explained/</guid>
@@ -33,6 +51,24 @@
     <dc:creator>Diogo Camera</dc:creator>
     <category>Training</category>
     <description>How to build your own workout plan: count your days, pick a split, cover a squat, hinge, push and pull, set sets, reps and rest, and a rule to progress.</description>
+  </item>
+  <item>
+    <title>Hip flexor exercises: strength for knee drive, at the gym or at home</title>
+    <link>https://diogofit.com/learn/hip-flexor-exercises/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/hip-flexor-exercises/</guid>
+    <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>Hip flexor exercises for strength: knee raises, leg raises and band or cable marches, what muscle-activity studies show, and what training did for sprints.</description>
+  </item>
+  <item>
+    <title>Dynamic stretching: what it is, examples, and when it beats holding a stretch</title>
+    <link>https://diogofit.com/learn/dynamic-stretching/</link>
+    <guid isPermaLink="true">https://diogofit.com/learn/dynamic-stretching/</guid>
+    <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+    <dc:creator>Diogo Camera</dc:creator>
+    <category>Training</category>
+    <description>Dynamic stretching: what it is, examples for the legs and upper body, dynamic vs static stretching, and whether to do it before or after a workout.</description>
   </item>
   <item>
     <title>Workouts for seniors: what the guideline asks for, and a first week</title>
@@ -1823,7 +1859,7 @@
     <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
     <dc:creator>Diogo Camera</dc:creator>
     <category>Guide</category>
-    <description>Eight CDC, NOAA and Census Bureau data tables for U.S. states, metros and cities: what each holds, its source and vintage, its CSV and how to cite it.</description>
+    <description>Nine data tables: CDC, NOAA and Census Bureau figures for U.S. states, metros and cities, and lift percentiles from OpenPowerlifting, each with a CSV.</description>
   </item>
   <item>
     <title>Commute times by metro, and how to train around yours</title>

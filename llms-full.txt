@@ -929,8 +929,8 @@ Short answer: Rest at least a minute between sets for muscle growth: a 2024 meta
 
 ### Data Tables: Activity, Climate, Commute
 URL: https://diogofit.com/learn/data/
-Eight CDC, NOAA and Census Bureau data tables for U.S. states, metros and cities: what each holds, its source and vintage, its CSV and how to cite it.
-Short answer: This site has eight data tables built from public CDC, NOAA and Census Bureau data: physical activity by state, metro and city, summer heat, winter cold and rain by metro, and commute times by state and metro. Each has a CSV download and is free to reuse with credit to the agency and a link back.
+Nine data tables: CDC, NOAA and Census Bureau figures for U.S. states, metros and cities, and lift percentiles from OpenPowerlifting, each with a CSV.
+Short answer: This site has nine data tables. Eight are built from public CDC, NOAA and Census Bureau data: physical activity by state, metro and city, summer heat, winter cold and rain by metro, and commute times by state and metro. The ninth gives lift percentiles from the public-domain OpenPowerlifting meet results. Each has a CSV download and is free to reuse with credit to the data's source and a link back.
 
 ### Supersets and Drop Sets, Explained
 URL: https://diogofit.com/learn/supersets/
@@ -2016,3 +2016,24 @@ Short answer: 3x10 means three sets of ten reps: do ten repetitions in a row, re
 URL: https://diogofit.com/learn/intermediate-lifter/
 What is an intermediate lifter? The ACSM's definition, about six months of steady training, and what its advice changes: days, loads, rest and planning.
 Short answer: An intermediate lifter, in the American College of Sports Medicine's 2009 definition, has about six months of consistent resistance training; a novice has none or hasn't trained for several years. For intermediates the stand moves from two to three days a week to three to four, and widens loads from an 8 to 12 rep maximum to 1 to 12.
+
+### Dynamic Stretching: Examples, vs Static | Diogo
+URL: https://diogofit.com/learn/dynamic-stretching/
+Dynamic stretching: what it is, examples for the legs and upper body, dynamic vs static stretching, and whether to do it before or after a workout.
+Short answer: Dynamic stretching means moving a joint through its range again and again, like leg swings, without holding the end position. Before training it's the better choice: in a 2016 review, dynamic stretching nudged performance up about 1% while static holds lowered it about 4%. For more range over weeks, static holds did better.
+
+### Thoracic Mobility Exercises and a Simple Test | Diogo
+URL: https://diogofit.com/learn/thoracic-mobility/
+Thoracic mobility for lifters: what your upper back does when your arms go overhead, a simple rotation test, the exercises, and what the studies found.
+Short answer: The thoracic spine is your upper and middle back, and it extends and rotates. Raising both arms overhead extended it by about 13 degrees on average in 21 men, with wide differences between them. To train it, use slow rotation and extension drills: two rotation exercises improved thoracic range equally over two weeks in 39 healthy people.
+
+### Hip Flexor Exercises: Gym and Home, for Runners | Diogo
+URL: https://diogofit.com/learn/hip-flexor-exercises/
+Hip flexor exercises for strength: knee raises, leg raises and band or cable marches, what muscle-activity studies show, and what training did for sprints.
+Short answer: Train the hip flexors by lifting your legs against resistance: hanging and lying leg raises, standing knee raises, and cable or band marches. Leg-lifting exercises drove the deep hip flexor above 60% of a maximal contraction in a 2024 review. In one trial in active, untrained adults, eight weeks of hip flexor training cut 40-yard dash times by 3.8%.
+
+### Strength Standards: Squat, Bench, Deadlift by Age | Diogo
+URL: https://diogofit.com/learn/strength-standards/
+Squat, bench press and deadlift percentiles for 327,938 lifters in tested raw powerlifting meets since 2015, by sex, weight class and age, with the CSV.
+Short answer: These are competitors, not the general public: lifters in drug-tested categories at raw powerlifting meets since 2015, from the OpenPowerlifting data. In the men's class with the most lifters, 83 kg, the median squat was 182.5 kg (402 lb). The tables give the squat, bench press and deadlift by sex, weight class and age.
+Data (CSV): https://diogofit.com/learn/strength-standards/strength-standards.csv
