@@ -66,7 +66,7 @@ Who writes Diogo Fitness, where every number comes from, how sources are checked
 URL: https://diogofit.com/faq/
 Coaching is fully online: workouts in Trainerize, two weigh-ins a week and a weekly check-in call. Honest answers on applying, training and eating.
 
-### Online Fitness Coaching | Diogo Fitness (Diogo Fit)
+### Online Fitness Coaching
 URL: https://diogofit.com/
 Diogo Fitness (Diogo Fit) is one-to-one online fitness coaching from Diogo Camera, based in South Florida, for clients anywhere in the world.
 
@@ -1317,7 +1317,7 @@ URL: https://diogofit.com/learn/group-fitness-vs-personal-training/
 Group fitness classes vs personal training or 1-on-1 coaching: who writes the plan, attention per person, accountability, cost in words, who each suits.
 Short answer: A group fitness class gives you a set time, an instructor at the front and other people in the room, with one workout for everyone. One-to-one coaching gives you a plan written for you and a person who reads your numbers and changes it. Pick a class if showing up is the hard part and you like training with others. Pick a coach if the plan has to be written for you, or you stop when nobody is watching your week.
 
-### HIIT vs Steady-State Cardio: What Trials Found | Diogo
+### HIIT vs Steady-State Cardio: What Trials Found
 URL: https://diogofit.com/learn/hiit-vs-steady-state-cardio/
 HIIT or steady-state cardio? What the meta-analyses found for body fat, aerobic fitness and endurance, which one people keep doing, and a week with both.
 Short answer: Both work. In 31 studies, interval training and steady cardio reduced body fat by similar, modest amounts. In 28 studies of healthy adults, both raised aerobic fitness, intervals by a possibly small margin more. Intervals save time and feel harder; steady cardio is easier to keep up. Pick the one you'll do.
@@ -1347,7 +1347,7 @@ URL: https://diogofit.com/learn/landmine-press/
 How to do a landmine press: the anchor, standing or kneeling, one arm or two, what the angle means for chest and shoulders, the faults, and the sets.
 Short answer: Wedge one end of a barbell into a corner or an anchor, hold the other end at your shoulder, and press it up and forward until your arm is straight, then lower it. PubMed lists no study of its muscle activity; in a bench-angle study, the more upright the press, the more the front of the shoulder worked.
 
-### StairMaster Workout for Beginners: Plan and Tips | Diogo
+### StairMaster Workout for Beginners: Plan and Tips
 URL: https://diogofit.com/learn/stairmaster-workout/
 How to use a StairMaster or stair climber: the level, hands off the rails, what trials found for fitness and weight, the mistakes, three beginner workouts.
 Short answer: Stand tall, hands off the rails or resting lightly, and step at a level where you can still speak a few words. In 22 moderately active women training three days a week for 12 weeks, a stair climber improved aerobic fitness about as much as a treadmill or an elliptical. Start with 10 minutes; build to 20 to 30.
@@ -1362,7 +1362,7 @@ URL: https://diogofit.com/learn/youtube-workouts-vs-coaching/
 Are YouTube workouts effective? What a trial of free workout videos found, where free videos and programs stop, what a coach adds, and how to decide.
 Short answer: Yes, YouTube workouts can be effective: in a 12-week trial, young adults sent weekly workout videos did more moderate-to-vigorous activity and more strength work than a group sent health-education videos. What free videos don't do is write the plan around your week, progress it, or notice when you stop. If you follow a video and keep following it, you don't need a coach. If you've saved twenty videos and done four, the videos aren't the problem.
 
-### Jump Rope Workout for Beginners: Plan and Benefits | Diogo
+### Jump Rope Workout for Beginners: Plan and Benefits
 URL: https://diogofit.com/learn/jump-rope-workout/
 A jump rope workout for beginners: how hard skipping is, what weeks of it did in trials, the landing forces, rope length, the mistakes, and a four-week plan.
 Short answer: Jump rope is vigorous cardio: in 19 men and 11 women skipping for five minutes, oxygen use averaged 41 to 42.5 mL/kg/min and heart rate about 176, and skipping faster didn't change that. Start with rounds of 30 seconds on, 30 off, ten times, three days a week, and add time before speed.
@@ -1372,7 +1372,7 @@ URL: https://diogofit.com/learn/pistol-squat/
 How to do a pistol squat: the steps, five progressions from a box to the full rep, what it trains, why ankle range matters, the faults, and the sets.
 Short answer: Stand on one leg, the other held straight out in front, and squat down as low as you can with your heel flat, then stand back up. Build to it with box and assisted versions. PubMed lists no study of it by name; in 11 lifters, a loaded single-leg squat worked the side glute hardest of three.
 
-### 12-3-30 Workout: Calories, Results, How to Start | Diogo
+### 12-3-30 Workout: Calories, Results, How to Start
 URL: https://diogofit.com/learn/12-3-30-workout/
 The 12-3-30 treadmill workout: 12% incline, 3 mph, 30 minutes. Where it came from, the lab study that measured it, what it trains, and how to work up to it.
 Short answer: The 12-3-30 workout is 30 minutes of treadmill walking at a 12% incline and 3 miles an hour: a mile and a half, roughly 950 feet of climb. In the one lab study to measure it, 14 recreationally active adults used about 308 kilocalories on average, and a run matched for energy took about 24 minutes.
@@ -1522,12 +1522,12 @@ URL: https://diogofit.com/learn/home-gym-workout-plan/
 A free home gym workout plan: three full-body days for a rack, barbell and bench or adjustable dumbbells, what to buy first, and how to progress. PDF.
 Short answer: Train three full-body days a week, each with a squat, a hinge, a push, a pull and a core move, heaviest lift first. Do three sets of six to twelve, stopping two or three reps short of failure, and add the smallest weight step once you beat the top of the range. Squat and bench inside the rack with the safety arms set, because nobody is there to spot you.
 
-### How to Build Muscle: What the Research Says | Diogo
+### How to Build Muscle: What the Research Says
 URL: https://diogofit.com/learn/how-to-build-muscle/
 How to build muscle: enough hard sets, close to failure, a little more over time, any rep range, enough protein and sleep, and weeks of patience.
 Short answer: Do enough hard sets for each muscle every week, take them close to failure, add a little weight or a rep over time, eat enough protein and sleep. The American College of Sports Medicine's 2026 overview of 137 systematic reviews tied 10 or more sets per muscle group a week to more growth. Then repeat it for weeks.
 
-### Treadmill Workout for Beginners: 3 Sessions | Diogo
+### Treadmill Workout for Beginners: 3 Sessions
 URL: https://diogofit.com/learn/treadmill-workout/
 A treadmill workout for beginners: the setup, hands off the rails, three sessions (walk, walk-jog, steady), what trials found on weight, and the 1% grade.
 Short answer: Start the belt slowly, keep your hands off the rails, and walk or jog at a pace where you can still speak a sentence. Begin with 20 minutes three times a week and build toward the World Health Organization's floor of 150 moderate minutes a week, or 75 vigorous, counted across everything you do.
@@ -1537,7 +1537,7 @@ URL: https://diogofit.com/learn/workout-plan-for-remote-workers/
 A workout plan for remote workers: three full-body sessions that fit before work, at lunch or after, plus movement breaks for a day at a desk. PDF.
 Short answer: Train three times a week, full body, for thirty to forty minutes, in one fixed slot of the workday: the hour your commute used to take, a long lunch, or straight after you stop work. Block it in your calendar like a meeting. Walk before you start and after you stop, and get up between calls. One session is the floor in a deadline week.
 
-### Elliptical Workout for Beginners: Plan and Tips | Diogo
+### Elliptical Workout for Beginners: Plan and Tips
 URL: https://diogofit.com/learn/elliptical-workout/
 How to use an elliptical: stride, resistance, the handles, what it trains, how it compares with the treadmill, the weight-loss answer, three beginner sessions.
 Short answer: Stand tall, push through your whole foot, and set the resistance so you can still speak a sentence. In 22 moderately active women training three days a week for 12 weeks, an elliptical improved aerobic fitness about as much as treadmill running or a stair climber. Start with 15 minutes; build to 30.
@@ -1547,17 +1547,17 @@ URL: https://diogofit.com/learn/foam-rolling/
 What meta-analyses found foam rolling does for range of motion, soreness and performance, how long to roll each muscle, and where it fits around lifting.
 Short answer: It buys a little range of motion and takes a little edge off soreness. A 2019 meta-analysis of 21 studies found the effects on performance and recovery rather minor and partly negligible, and judged it better supported as a warm-up activity than as a recovery tool. About 90 seconds a muscle is the minimum a 2019 review linked with less soreness.
 
-### Stretching Routine: Full Body, for Flexibility | Diogo
+### Stretching Routine: Full Body, for Flexibility
 URL: https://diogofit.com/learn/stretching-routine/
 A full-body stretching routine for flexibility, how long to hold each stretch and how often (ACSM and the meta-analyses), and when it isn't the right tool.
 Short answer: Hold a stretch for each major muscle group for about 60 seconds in total, on two or more days a week: that's the American College of Sports Medicine's recommendation. In a 2024 meta-analysis of 77 studies, regular stretching increased range of motion with a moderate effect, and static holds did better than bouncing or swinging stretches.
 
-### Upper Body Workout: Gym and Dumbbell Versions | Diogo
+### Upper Body Workout: Gym and Dumbbell Versions
 URL: https://diogofit.com/learn/upper-body-workout/
 One upper body workout for the gym and one for dumbbells at home: two presses, two pulls, raises and arms, with sets, reps, rest and how it fits a week.
 Short answer: Pick four lifts: a flat press, a row, an overhead press and a pulldown or pull-up. The authors of the ACSM's 2026 position stand suggest also considering horizontal and vertical directions for upper-body exercises. Add lateral raises, a curl and a triceps extension. Three sets of 6 to 12 on the big four, twice a week, with a lower day between.
 
-### Low Impact Workout: No-Jump Strength and Cardio | Diogo
+### Low Impact Workout: No-Jump Strength and Cardio
 URL: https://diogofit.com/learn/low-impact-workout/
 What low impact means, a no-jump full-body workout for home, and low-impact cardio on foot, bike, elliptical, rower or stairs, paced by the talk test.
 Short answer: Low impact means no jumping or running: one foot stays on the ground, or both stay on the pedals. Do a no-jump strength session twice a week, and walk, cycle, row or use an elliptical or stair climber at a pace where you can still talk, building toward the WHO's 150 to 300 moderate minutes a week.
@@ -1572,127 +1572,127 @@ URL: https://diogofit.com/learn/morning-workout-routine/
 A 20-minute morning workout routine with no equipment, a 30-minute gym version, how many mornings a week, and what habit studies say about making it stick.
 Short answer: Warm up for three minutes, then do two or three rounds of squats, push-ups, glute bridges, lunges and a plank: about twenty minutes, no equipment. Do it on at least two fixed mornings a week, the World Health Organization's minimum for muscle-strengthening, and walk on the others. In 111 new gym members, exercising at least four times a week for six weeks was the minimum to build the habit.
 
-### HIIT Workout: 3 Sessions to Run, With Rest Times | Diogo
+### HIIT Workout: 3 Sessions to Run, With Rest Times
 URL: https://diogofit.com/learn/hiit-workout/
 A HIIT workout in three versions: no equipment, bike or rower, and weights. What counts as HIIT, how the trials set work and rest, and how often to do it.
 Short answer: HIIT is repeated hard efforts with easier recovery between them. As a starting point: warm up for five minutes, do four to eight efforts of 30 to 60 seconds with longer easy recovery, then cool down. Trials used short sessions too: three 20-second sprints, three times a week, raised peak oxygen uptake 19% in sedentary men over 12 weeks.
 
-### Tabata Workout: What It Is and How to Run One | Diogo
+### Tabata Workout: What It Is and How to Run One
 URL: https://diogofit.com/learn/tabata-workout/
 A Tabata is 20 seconds hard and 10 easy, eight times. What the 1996 study measured, what reviews found since, and a 4-minute and a 27-minute session.
 Short answer: A Tabata is a four-minute interval format: eight rounds of 20 seconds hard and 10 seconds of rest. The 1996 study behind the name used seven to eight exhaustive 20-second bouts at about 170% of maximal oxygen uptake on four days a week, in seven people on a cycle ergometer. Bodyweight versions are variations on it.
 
-### Circuit Training: A Full-Body Circuit to Run | Diogo
+### Circuit Training: A Full-Body Circuit to Run
 URL: https://diogofit.com/learn/circuit-training/
 What circuit training is, what meta-analyses found for fitness and strength, a six-station full-body circuit for gym or home, and where it fits in a week.
 Short answer: Circuit training is different exercises done one after another with little rest between, then repeated. A 2017 meta-analysis found circuit-based resistance training raised maximal oxygen uptake and bench-press strength in healthy adults. Alternate lower and upper body, keep rest short between stations and longer between rounds, and start with two rounds.
 
-### EMOM Workout: How It Works and 3 to Run | Diogo
+### EMOM Workout: How It Works and 3 to Run
 URL: https://diogofit.com/learn/emom-workout/
 What an EMOM workout is, what studies comparing it with AMRAP found for heart rate and fatigue, three sessions to run, and how to keep the rest real.
 Short answer: EMOM means every minute on the minute: start a set at the top of each minute and rest for what's left of it. In a study of 12 athletes, an EMOM had the lowest heart rates of the three timed formats tested. As a practical rule, pick a set that takes 20 to 40 seconds so the rest stays real.
 
-### AMRAP Workout: How to Pace It and 3 to Run | Diogo
+### AMRAP Workout: How to Pace It and 3 to Run
 URL: https://diogofit.com/learn/amrap-workout/
 What an AMRAP workout is, what studies comparing it with EMOM found for pacing and fatigue, three sessions to run, how to score one, and how to pace it.
 Short answer: AMRAP means as many rounds as possible: set a clock, usually 10 to 20 minutes, and repeat a short list of moves with fixed reps, counting rounds. In studies that compared formats, athletes paced themselves slower in an AMRAP and ended it more fatigued than in an EMOM. Start slower than you want to.
 
-### 5 Day Workout Split: Bro Split vs Hybrid Week | Diogo
+### 5 Day Workout Split: Bro Split vs Hybrid Week
 URL: https://diogofit.com/learn/5-day-workout-split/
 Two 5 day workout splits written out: a bro split with one muscle a day, and an upper/lower plus push/pull/legs week, with the weekly sets each gives.
 Short answer: Two five-day weeks work: a bro split, one muscle group a day, so each is trained once, or upper, lower, push, pull and legs, so each is trained twice. A 2019 meta-analysis of 25 studies found no significant difference between training a muscle more or less often once volume was equated, so pick the week you'll repeat.
 
-### Chest and Tricep Workout: Gym and Dumbbells | Diogo
+### Chest and Tricep Workout: Gym and Dumbbells
 URL: https://diogofit.com/learn/chest-and-tricep-workout/
 A chest and tricep workout for the gym and one for dumbbells at home: three chest lifts, then two for triceps, with sets, reps and where it fits a week.
 Short answer: Press first, then do triceps. In 30 trained adults the middle and lower chest were most active on a flat bench and the upper chest at about 30 degrees (muscle activity, not growth), so use a flat press and a low incline. Presses already count for the triceps as half sets, so finish with an overhead extension and a pushdown.
 
-### Back and Bicep Workout: Gym and Dumbbells | Diogo
+### Back and Bicep Workout: Gym and Dumbbells
 URL: https://diogofit.com/learn/back-and-bicep-workout/
 A back and bicep workout for the gym and one for dumbbells at home: a pulldown, rows and a hinge, then two curls, with sets, reps and where it fits a week.
 Short answer: Pull in two directions, then curl. The authors of the ACSM's 2026 position stand suggest considering vertical and horizontal directions for the upper body, so start with a pulldown or pull-up and a row. Rows and pulldowns already count for the biceps as half sets, so end with a curl and a hammer curl.
 
-### Pyramid Sets: Ascending, Descending, How to Load | Diogo
+### Pyramid Sets: Ascending, Descending, How to Load
 URL: https://diogofit.com/learn/pyramid-sets/
 What pyramid sets are, the ascending, descending and triangle versions, how to load them, and what the studies measured for strength and muscle growth.
 Short answer: A pyramid changes the weight from set to set: heavier each set (ascending), lighter each set (descending), or up and back down. A 2023 review of 15 studies found pyramid training was not superior to traditional sets for strength gains or muscle growth, so use one for variety or to find the day's weight, not as a shortcut.
 
-### Newbie Gains: What the Research Says | Diogo
+### Newbie Gains: What the Research Says
 URL: https://diogofit.com/learn/newbie-gains/
 What newbie gains are, why strength comes before muscle size, what studies found about the first weeks of lifting, and how to use them with steady steps.
 Short answer: Newbie gains is the fast early progress of someone new to lifting. In an eight-week study of 15 young adults, nervous-system factors accounted for most of the first strength increase, and muscle growth became the main factor after the first 3 to 5 weeks. No source here gives an end date, so add weight or reps in small steps.
 
-### Jumping Jacks: Form, Studies and a No-Jump Swap | Diogo
+### Jumping Jacks: Form, Studies and a No-Jump Swap
 URL: https://diogofit.com/learn/jumping-jacks/
 How to do jumping jacks: the steps, the common faults, what the few studies measured, why they aren't low impact, a step-jack swap, and how many to do.
 Short answer: Stand with feet together and arms down, jump your feet out wide as your arms swing overhead, then jump back. Both feet leave the floor, so it isn't low impact; a step jack is the no-jump swap. In 10 healthy young adults, jumping jacks done for 30 or 45 seconds were measured at about 23 kilocalories per minute.
 
-### Sit-Ups vs Crunches: How To and the Difference | Diogo
+### Sit-Ups vs Crunches: How To and the Difference
 URL: https://diogofit.com/learn/sit-ups/
 Sit-ups vs crunches: how to do each, how they differ, what studies measured in the abs and hip flexors, what holding your feet changes, and sets and reps.
 Short answer: A crunch lifts just your head and shoulders; a sit-up brings your whole trunk up. In 14 people the crunch was among the exercises with the most front-ab muscle activity, while the bent-knee sit-up was among those with the most activity in the rectus femoris, a hip flexor.
 
-### Side Plank: How To, Easier and Harder Versions | Diogo
+### Side Plank: How To, Easier and Harder Versions
 URL: https://diogofit.com/learn/side-plank/
 How to do a side plank: the setup, the faults, an easier version, harder versions, what studies measured in the obliques, how long to hold, and sets.
 Short answer: Lie on your side with your elbow under your shoulder, lift your hips so your body makes one straight line from head to feet, hold, then switch sides. In 13 apparently healthy people, the internal oblique was thicker on ultrasound during a side plank than during a bird dog or a dead bug.
 
-### Flutter Kicks: How To, Easier and Harder Versions | Diogo
+### Flutter Kicks: How To, Easier and Harder Versions
 URL: https://diogofit.com/learn/flutter-kicks/
 How to do flutter kicks with your lower back down, what studies of straight-leg lifts found in the abs and hip flexors, and harder and easier versions.
 Short answer: Lie on your back, hands under your hips, legs straight a few inches off the floor, lower back down. Kick one leg up, the other down, in small, quick beats. No study of the exercise by name turned up; in 15 men with the pelvis held tucked, lowering both straight legs produced more ab muscle activity than a curl.
 
-### Superman Exercise: How To, Muscles Worked | Diogo
+### Superman Exercise: How To, Muscles Worked
 URL: https://diogofit.com/learn/superman-exercise/
 How to do the superman exercise: the steps, the faults, easier and harder versions, what studies measured in the back muscles, and how many sets and holds.
 Short answer: Lie face down with your arms long, lift your arms, chest and legs a few inches, hold a second or two, then lower. In adults aged 21 to 35, the superman was one of three exercises that produced 77 to 82% of a maximal contraction in the back muscles measured: muscle activity, not growth.
 
-### Box Jumps: Form, Box Height, Sets and Reps | Diogo
+### Box Jumps: Form, Box Height, Sets and Reps
 URL: https://diogofit.com/learn/box-jumps/
 How to do a box jump, how high the box needs to be, what studies measured on the push-off and the landing, the easier and harder versions, and the sets.
 Short answer: Swing your arms, jump, and land softly with both feet on a sturdy box; stand tall, then step down. A tall box may not be needed: in 14 men and 17 women who were recreationally active, boxes up to 80% of each person's maximum didn't change most jump measures.
 
-### Bear Crawl: How to Do It, Versions and Sets | Diogo
+### Bear Crawl: How to Do It, Versions and Sets
 URL: https://diogofit.com/learn/bear-crawl/
 How to do the bear crawl: the steps, hold, backward and shoulder-tap versions, what the closest studies measured, the common faults, and practical sets.
 Short answer: From hands and toes, knees bent and hovering just off the floor, back flat, move one hand and the opposite foot forward together in small steps, hips level; then crawl back. A PubMed search for this page found no study of what the bear crawl itself does, so the sets here are practical starting points.
 
-### Battle Ropes: Waves, Sets and What Studies Found | Diogo
+### Battle Ropes: Waves, Sets and What Studies Found
 URL: https://diogofit.com/learn/battle-ropes/
 How to do battle ropes: the stance and waves, what studies measured for effort, rest and muscle activity, a rope HIIT session, and swaps with no rope.
 Short answer: Anchor a heavy rope, hold an end in each hand, and from a half-squat make waves with your arms. As a practical start, do six rounds of 20 to 30 seconds with 60 to 90 seconds of rest. In 10 resistance-trained men, a three-bout rope session had a higher average rate of oxygen use than squat, deadlift or lunge sessions.
 
-### Turkish Get-Up: Steps, Versions and Sets | Diogo
+### Turkish Get-Up: Steps, Versions and Sets
 URL: https://diogofit.com/learn/turkish-get-up/
 How to do a Turkish get-up step by step, learned with no weight first, the half get-up, what the one study of shoulder muscle activity found, and the sets.
 Short answer: Lie on your back, a weight held straight up over one shoulder. Roll to your elbow, then your hand, lift your hips, sweep your back leg under you to kneel, and stand; then reverse every step. Learn it with no weight. In 12 experienced people, shoulder muscle demand peaked in the press to the elbow and the leg sweep.
 
-### Thrusters: How to Do Them, Versions and Sets | Diogo
+### Thrusters: How to Do Them, Versions and Sets
 URL: https://diogofit.com/learn/thrusters/
 How to do a thruster with a barbell, dumbbells or a kettlebell: the squat and press as one motion, the faults, what workout studies measured, and the sets.
 Short answer: Hold the weight at your shoulders, squat, then stand fast and press it overhead in one motion. In 18 strength-trained men, an all-out workout of 21, 15 and 9 thrusters with a 35-kilogram bar, each set followed by pull-ups, took about five minutes and averaged a heart rate near 173.
 
-### Plyometric Exercises: Examples and a Starter Session | Diogo
+### Plyometric Exercises: Examples and a Starter Session
 URL: https://diogofit.com/learn/plyometric-exercises/
 Plyometric exercises are fast jumps, hops and throws. What counts, what meta-analyses found for jump height, how many jumps, and a starter session to run.
 Short answer: Plyometric exercises are fast, explosive movements, such as jumps, hops and throws, where a muscle lowers under load and pushes straight back out. In a 2007 meta-analysis of 26 studies of healthy people, plyometric training raised vertical jump height by about 5% to 9%, depending on the jump. Start with two short sessions a week.
 
-### Isometric Exercises: Examples, Hold Times and Sets | Diogo
+### Isometric Exercises: Examples, Hold Times and Sets
 URL: https://diogofit.com/learn/isometric-exercises/
 Isometric exercises work a muscle without moving the joint. Holds versus pushes, what meta-analyses found for strength, examples, hold times and a session.
 Short answer: Isometric exercises work a muscle without moving the joint: you hold a position, like a plank, or push against something fixed. In a 2025 meta-analysis of 32 studies of healthy adults aged 18 to 45, isometric training improved strength more than no exercise did, and raised isometric strength more than dynamic training did.
 
-### How to Improve VO2 Max: What Trials Used, and a Week | Diogo
+### How to Improve VO2 Max: What Trials Used, and a Week
 URL: https://diogofit.com/learn/how-to-improve-vo2-max/
 How to improve VO2 max: what steady and interval training did in trials, the 4-by-4 and sprint sessions, how long it took, no running, and a weekly plan.
 Short answer: VO2 max is the highest rate your body can take up oxygen during exercise, a fitness measure. In 28 controlled trials of healthy adults, steady training raised it about 4.9 mL/kg/min against no exercise and intervals about 5.5, a possibly small 1.2 more than steady training. Practical start: one hard interval session plus easy steady cardio each week.
 
-### How Much Cardio Per Week? Guideline, Beginner Plan | Diogo
+### How Much Cardio Per Week? Guideline, Beginner Plan
 URL: https://diogofit.com/learn/how-much-cardio-per-week/
 How much cardio per week? The WHO and ACSM numbers in plain minutes, what counts as moderate, a build-up for beginners, and three weeks beside lifting.
 Short answer: The WHO's guideline for adults is at least 150 to 300 minutes of moderate cardio a week, or at least 75 to 150 of vigorous, or an equivalent mix, in bouts of any length. The ACSM puts it as 30 minutes on five days, or 20 vigorous minutes on three. If you're new, start with small amounts and build gradually.
 
-### Medicine Ball Slams: Form, Ball Weight and a Session | Diogo
+### Medicine Ball Slams: Form, Ball Weight and a Session
 URL: https://diogofit.com/learn/medicine-ball-slams/
 How to do medicine ball slams: the setup, which ball, three versions, what the thin research found, sets and rest for a power block or a finisher.
 Short answer: Raise the ball overhead, rise tall, throw it hard into the floor and pick it up. Use a ball made for slamming. Research on slams themselves is thin; the nearest is upper-body plyometric training, which in 30 studies of healthy children, teens and young adults improved maximal strength and medicine ball throw performance, though certainty was low or very low.
@@ -1702,187 +1702,187 @@ URL: https://diogofit.com/learn/how-much-does-online-fitness-coaching-cost/
 What online coaching and personal training cost, from sourced data: what US gym-goers paid per session, what trainers earn, and how to compare quotes.
 Short answer: In a 2016 survey of US health-club goers, women paid about fifty-nine dollars for an hour with a personal trainer and men about seventy. In May 2025, the median employed fitness trainer or instructor earned about twenty-three dollars an hour. Online ranges mostly come from companies selling coaching or its software, with no stated method: compare what each week includes.
 
-### Belt Squat: Setup, Muscles Worked, vs Back Squat | Diogo
+### Belt Squat: Setup, Muscles Worked, vs Back Squat
 URL: https://diogofit.com/learn/belt-squat/
 How to do a belt squat, what two studies measured against the back squat, the glute and trunk difference, how to pick a load, the faults, and the sets.
 Short answer: Clip the belt around your hips, line your ankles up under its attachment, and squat down and up, hands resting on the handles. In 10 people who trained both lifts, the belt squat showed about 45% less lower-back muscle activity than a back squat at the same load, and no difference at the front of the thigh.
 
-### Smith Machine Squat: Form, Foot Placement, vs Squat | Diogo
+### Smith Machine Squat: Form, Foot Placement, vs Squat
 URL: https://diogofit.com/learn/smith-machine-squat/
 How to do a Smith machine squat, where to put your feet, what studies measured against the free-weight squat on load, force and muscle, and the sets.
 Short answer: Set the bar at upper-chest height and the safety stops just below your lowest point, unhook the bar on your upper back, and squat down and up along the rails. In 16 men and 16 women, the squat one-rep max was heavier on the Smith machine than with free weights.
 
-### Power Clean: How to Do It, the Positions and Sets | Diogo
+### Power Clean: How to Do It, the Positions and Sets
 URL: https://diogofit.com/learn/power-clean/
 How to do a power clean from the floor: the start, the two pulls, the catch above parallel, what studies of the lift measured, the faults, and the sets.
 Short answer: Pull the bar from the floor, stand up fast through your hips, knees and ankles, then pull yourself under it and catch it on the front of your shoulders, hips above your knees. In a 2016 meta-analysis of six studies of athletes and students, weightlifting training raised vertical jump height more than traditional resistance training did.
 
-### Hang Clean: How to Do It, Hang vs Power Clean, Sets | Diogo
+### Hang Clean: How to Do It, Hang vs Power Clean, Sets
 URL: https://diogofit.com/learn/hang-clean/
 How to do a hang clean and hang power clean: the hang position, the pull, the catch, what studies found about load and muscle activity, faults and sets.
 Short answer: Stand with the bar, lower it to just above your knees, then extend your hips, knees and ankles fast and catch it on the front of your shoulders in a quarter squat. In 15 men, power in the hang power clean peaked at 70% of their max, though 50% to 90% weren't significantly different.
 
-### Clean and Jerk: How to Do It, Jerk Styles and Sets | Diogo
+### Clean and Jerk: How to Do It, Jerk Styles and Sets
 URL: https://diogofit.com/learn/clean-and-jerk/
 How the clean and jerk works: the clean, the dip and drive, the split, push and squat jerks, what studies of the lift measured, the faults and the sets.
 Short answer: Clean the bar from the floor to the front of your shoulders and stand up, then dip, drive it overhead and drop under to catch it on straight arms, usually with your feet split. In 15 men with weightlifting experience, the split jerk max averaged about 1.2 times body weight, against 1.0 for the push press.
 
-### Kettlebell Clean: How to Do It, the Rack and Sets | Diogo
+### Kettlebell Clean: How to Do It, the Rack and Sets
 URL: https://diogofit.com/learn/kettlebell-clean/
 How to do a kettlebell clean: the hike, the hip drive, guiding the bell into the rack without hitting your wrist, the muscle study, faults and sets.
 Short answer: Hike one kettlebell back between your legs, drive your hips forward, and guide it up close to your body so it rolls around your hand into the rack at your chest, elbow tucked. In 14 resistance-trained people, the one-arm clean drew more activity from the obliques than the swing did, and less from the outer thigh.
 
-### Pallof Press: How To, Versions, Sets | Diogo
+### Pallof Press: How To, Versions, Sets
 URL: https://diogofit.com/learn/pallof-press/
 How to do a Pallof press with a cable or a band: the setup, the faults, kneeling to standing versions, what the studies measured, and the sets and holds.
 Short answer: Stand side-on to a cable or band at chest height, hold the handle at your chest with both hands, press it straight out, pause, and bring it back without letting your trunk turn. In 12 active adults, kneeling was the steadiest version and standing heel to toe was harder to keep still.
 
-### Cable Woodchopper: Form, High to Low, Sets | Diogo
+### Cable Woodchopper: Form, High to Low, Sets
 URL: https://diogofit.com/learn/cable-woodchopper/
 How to do a cable woodchopper: the setup, high-to-low, horizontal and low-to-high versions, the faults, what the studies measured, and sets and reps.
 Short answer: Stand side-on to a cable, hold the handle with both hands and pull it across your body on a diagonal, turning your hips and chest together, then control it back. In 23 fit men doing a standing cable wood chop, power was highest at about two-thirds to four-fifths of their one-rep max.
 
-### Copenhagen Plank: How To, Short and Long Lever | Diogo
+### Copenhagen Plank: How To, Short and Long Lever
 URL: https://diogofit.com/learn/copenhagen-plank/
 How to do a Copenhagen plank: the bench setup, short and long lever, the faults, what studies measured in the inner thighs and obliques, and the sets.
 Short answer: Lie on your side with your top leg on a bench, knee or ankle on it, and your elbow under your shoulder. Lift your hips into one straight line and hold; the top inner thigh carries you. In 15 participants, the long-lever Copenhagen adduction ranked in the top tier of modeled force for every inner-thigh muscle measured.
 
-### V-Ups: How To, Easier Versions, Muscles Worked | Diogo
+### V-Ups: How To, Easier Versions, Muscles Worked
 URL: https://diogofit.com/learn/v-ups/
 How to do V-ups: the setup, the faults, easier versions from the tuck-up to the V-sit hold, what studies measured in the abs and hip flexors, and sets.
 Short answer: Lie on your back, arms overhead, legs straight. Lift your arms, chest and legs together, reach your hands toward your feet so your body makes a V, then lower slowly. In 21 people holding each exercise still, a V-up and a crunch showed no significant difference in front-ab activity.
 
-### Bicycle Crunches: Form, Muscles Worked, Versions | Diogo
+### Bicycle Crunches: Form, Muscles Worked, Versions
 URL: https://diogofit.com/learn/bicycle-crunches/
 How to do bicycle crunches with proper form: the setup, slow pedalling, the faults, easier and harder versions, what two ab studies measured, and sets.
 Short answer: Lie on your back, hands by your head, knees lifted. Bring your left elbow toward your right knee as your left leg straightens, then switch sides in a slow pedalling rhythm. In a 2001 lab study of 30 adults, it produced the most front-ab activity of 13 ab exercises, about two and a half times a crunch's.
 
-### Reverse Crunch: Form, On a Bench, Common Mistakes | Diogo
+### Reverse Crunch: Form, On a Bench, Common Mistakes
 URL: https://diogofit.com/learn/reverse-crunch/
 How to do a reverse crunch: curl your hips up, not your shoulders, the common mistakes, the incline-bench version, what four studies measured, and sets.
 Short answer: Lie on your back, knees bent at 90 degrees over your hips. Curl your hips off the floor, bringing your knees toward your chest, then lower slowly without swinging. In 25 healthy people, the reverse curl produced the most lower front-ab activity of five ab exercises and, with the v-sit, the most outer-oblique activity.
 
-### Toes-to-Bar: Form, Progression, Strict vs Kipping | Diogo
+### Toes-to-Bar: Form, Progression, Strict vs Kipping
 URL: https://diogofit.com/learn/toes-to-bar/
 How to do toes-to-bar: strict and kipping versions, the progression from a dead hang, the faults, no-bar alternatives, what the studies measured, and sets.
 Short answer: Hang from a pull-up bar with straight arms, then lift your feet all the way up to touch the bar between your hands and lower them under control. Strict means no swing; kipping uses one. In 12 young men, strict toes-to-bar produced significantly more front-ab activity than kipping, about 15% more.
 
-### Clamshell Exercise: How To, Muscles Worked, Band | Diogo
+### Clamshell Exercise: How To, Muscles Worked, Band
 URL: https://diogofit.com/learn/clamshell-exercise/
 How to do the clamshell exercise, what seven muscle-activity studies measured, the hip angle and pelvis, with or without a band, the faults and sets.
 Short answer: Lie on your side with hips and knees bent and feet together, keep your pelvis stacked, and open the top knee without lifting your feet, then lower it slowly. In 17 healthy volunteers, both glutes showed more activity with the pelvis stacked than rolled back, and the side glute the most with the hips bent to 60 degrees.
 
-### Lateral Band Walk: How To, Band Position, Muscles | Diogo
+### Lateral Band Walk: How To, Band Position, Muscles
 URL: https://diogofit.com/learn/lateral-band-walk/
 How to do the lateral band walk, what five studies measured: band at the knees, ankles or feet, standing tall or in a squat, which leg works, and the sets.
 Short answer: Put a loop band around your feet, sit into a shallow squat, and step sideways, bringing the trailing foot in without letting the band go slack. In 22 healthy adults, glute activity rose each time the band moved lower: from the knees to the ankles, and from the ankles to the feet.
 
-### Lateral Lunge: Form, Muscles, vs Forward Lunge | Diogo
+### Lateral Lunge: Form, Muscles, vs Forward Lunge
 URL: https://diogofit.com/learn/lateral-lunge/
 How to do a lateral lunge (side lunge), what one study measured against the forward lunge, what a six-week trial grew, the faults, and the sets and reps.
 Short answer: Step wide to one side, sit your hips back over that leg with the foot flat and the other leg straight, then push back to standing. In 32 young adults, the lateral lunge bent the ankle more and the knee slightly less than a forward lunge did, with no significant difference in how far the hip bent.
 
-### Glute-Ham Raise: Form, Muscles, vs Nordic Curl | Diogo
+### Glute-Ham Raise: Form, Muscles, vs Nordic Curl
 URL: https://diogofit.com/learn/glute-ham-raise/
 How to do a glute-ham raise on the bench, what an EMG study measured against the leg curl and RDL, a youth trial, the Nordic curl difference, and sets.
 Short answer: Lock your ankles in the glute-ham bench with your knees just behind the pad, lower your body forward by straightening your knees, then pull yourself back up with your hamstrings. In 12 weight-trained men, the way up drew more hamstring activity than a lying leg curl; on the way down, a Romanian deadlift drew more.
 
-### Single-Arm Cable Row: Seated vs Standing, Form | Diogo
+### Single-Arm Cable Row: Seated vs Standing, Form
 URL: https://diogofit.com/learn/single-arm-cable-row/
 How to do a single-arm cable row seated or standing, what the studies measured in the trunk, one side vs the other, the faults, and the sets and reps.
 Short answer: Take one cable handle, pull your elbow back past your ribs while your chest stays square to the stack, then let the arm go long again. Seated or standing both work. In 15 resistance-trained men, rows done one arm at a time, the cable row among them, drew more outer-oblique activity than the same rows done with two.
 
-### Dead Hang: How to Do It and How Long to Hang | Diogo
+### Dead Hang: How to Do It and How Long to Hang
 URL: https://diogofit.com/learn/dead-hang/
 How to do a dead hang, the hang times studies measured, how they rose over weeks, the bar vs the climbing edge, the faults, and the sets and holds.
 Short answer: Grab a pull-up bar overhand with your thumbs wrapped around it, straighten your arms, lift your feet and hang until your grip gives out. In 30 physically inactive young men, average hang times started at about 40 to 47 seconds, and after eight weeks of pull-up training they rose by about 41% to 55%.
 
-### Behind the Neck Press: Form, Muscles, vs Front Press | Diogo
+### Behind the Neck Press: Form, Muscles, vs Front Press
 URL: https://diogofit.com/learn/behind-the-neck-press/
 How to do the behind-the-neck press seated, what two muscle-activity studies found against the front press, the shoulder range it takes, and the sets.
 Short answer: Sit upright with your back supported, hold the bar wide enough that your elbows make a right angle when your upper arms are level, and press from just below the back of your head to straight arms. In 14 resistance-trained men, the eight-rep max was about 33 kilograms behind the neck against about 37 in front.
 
-### Front Raise: Form, Muscles Worked, Palms Up or Down | Diogo
+### Front Raise: Form, Muscles Worked, Palms Up or Down
 URL: https://diogofit.com/learn/front-raise/
 How to do a front raise with dumbbells, what the studies measured it works against lateral raises, palms up or down, the faults, and the sets and reps.
 Short answer: Hold a light dumbbell in each hand, raise your arms in front of you with the elbows almost straight until they reach shoulder height, then lower slowly. In 10 competitive bodybuilders, the front raise drew more upper-chest activity than four lateral raise versions, more front-shoulder activity on the way up, and less from the side of the shoulder.
 
-### Y Raise: How to Do It, Lower Traps, Form Cues, Sets | Diogo
+### Y Raise: How to Do It, Lower Traps, Form Cues, Sets
 URL: https://diogofit.com/learn/y-raise/
 How to do the Y raise face down, what three muscle-activity studies found it works in the traps, the shoulder-blade cue that changed it, and the sets.
 Short answer: Lie face down on a bench or the floor, arms overhead and out at an angle so your body makes a Y, thumbs up, and lift your arms a few inches, then lower. In 30 healthy people, the face-down overhead arm raise produced the most lower-trap activity of ten exercises.
 
-### How to Do a Handstand: Wall Steps, Balance, Head | Diogo
+### How to Do a Handstand: Wall Steps, Balance, Head
 URL: https://diogofit.com/learn/how-to-do-a-handstand/
 How to do a handstand: the wall steps, why gymnasts balance through the wrists, where to put your head, what the studies measured, faults and practice.
 Short answer: Learn it against a wall: hands shoulder-width, arms straight, walk or kick up until your body is stacked over your hands, then hold. A review of 21 studies found gymnasts balance it first through the wrists; in one force-plate study, the better balances appeared to rely on the wrists and shoulders, with little from the hips.
 
-### Overhead Tricep Extension: Form, Cable vs Dumbbell | Diogo
+### Overhead Tricep Extension: Form, Cable vs Dumbbell
 URL: https://diogofit.com/learn/overhead-tricep-extension/
 How to do an overhead tricep extension with a dumbbell or a cable, what a 12-week trial found next to pushdowns, the muscle-activity studies, and sets.
 Short answer: Hold a dumbbell or a cable rope behind your head with your upper arms pointing up, then straighten your elbows without moving your upper arms. In 21 adults over 12 weeks, cable extensions done overhead grew the triceps 19.9% in MRI-measured volume, against 13.9% for the same extension with the arm at the side.
 
-### Bicep Curl Variations: Incline, Bayesian, EZ-Bar | Diogo
+### Bicep Curl Variations: Incline, Bayesian, EZ-Bar
 URL: https://diogofit.com/learn/bicep-curl-variations/
 Bicep curl variations side by side: incline, spider, EZ-bar, Bayesian, cable, reverse and Zottman curls, how to do each, and what the studies measured.
 Short answer: Curl versions differ in where your upper arm sits and which way your palms face. In trials of untrained adults and young men, curling with the arm in front of the body or behind it grew the elbow flexors by similar amounts over 10 to 12 weeks. Pick the versions you can keep adding weight to.
 
-### Kettlebell Snatch: How to Do It, Forces, Heart Rate | Diogo
+### Kettlebell Snatch: How to Do It, Forces, Heart Rate
 URL: https://diogofit.com/learn/kettlebell-snatch/
 How to do a kettlebell snatch: the hike, the pull, punching through to lockout, what force-plate, muscle and heart-rate studies measured, faults and sets.
 Short answer: Hike one kettlebell back between your legs, drive your hips forward, pull it up close to your body and punch your hand through as it turns over, finishing with a straight arm overhead. In 22 men, it lifted the combined centre of mass of lifter and bell higher than a two-handed swing, with otherwise similar mechanical output.
 
-### Band Pull-Apart: Form, Muscles Worked, Grip | Diogo
+### Band Pull-Apart: Form, Muscles Worked, Grip
 URL: https://diogofit.com/learn/band-pull-apart/
 How to do a band pull-apart: the setup, what palms up, palms down and the diagonal versions changed in a muscle-activity study, the faults, and the sets.
 Short answer: Hold a light band in front of you at shoulder height with straight arms, pull it apart, then let it back slowly. In 10 healthy men, palms down drew the most activity from the back of the shoulder; palms up drew more from the lower trapezius and the infraspinatus, a rotator cuff muscle.
 
-### How to Breathe While Lifting Weights and Brace | Diogo
+### How to Breathe While Lifting Weights and Brace
 URL: https://diogofit.com/learn/how-to-breathe-while-lifting/
 How to breathe while lifting weights: when to breathe in and out, how to brace on heavy sets, and what studies measured for abdominal pressure and bench.
 Short answer: On most sets, breathe in as you lower the weight and out as you lift it. On heavy sets, take a breath before the rep, brace around it, and hold it through the hardest part. In 11 healthy adults, a breath taken in and held produced more pressure inside the abdomen during lifting than three other ways of breathing.
 
-### Lifting Belt: What It Does, When and How to Wear It | Diogo
+### Lifting Belt: What It Does, When and How to Wear It
 URL: https://diogofit.com/learn/lifting-belt/
 What a lifting belt does, what studies measured for squat reps, speed, one-rep max and abdominal pressure, when to wear one, and how to brace against it.
 Short answer: A lifting belt is a stiff belt worn tight around the waist on heavy sets, for your brace to push against. In squat studies, people did more reps with the same weight, moved the bar faster and reached a slightly heavier one-rep max with a belt, and one small study measured 25 to 40% more pressure in the abdomen.
 
-### Running vs Walking: What the Studies Measured | Diogo
+### Running vs Walking: What the Studies Measured
 URL: https://diogofit.com/learn/running-vs-walking/
 Running vs walking over the same mile: the energy two lab studies measured, the time each took, the load under the foot, and when a fast walk costs more.
 Short answer: Over 1,600 m, running used more energy than walking in two lab studies: about 40% more in 24 participants and about 26% more in 30 young adults, in roughly half the time. Walking put less load under the foot. Both count; pick the one you'll keep doing.
 
-### Rest-Pause Sets: How to Do Them, What Studies Found | Diogo
+### Rest-Pause Sets: How to Do Them, What Studies Found
 URL: https://diogofit.com/learn/rest-pause-sets/
 What rest-pause sets are, the two common ways to run them, how they compare with straight sets in the studies, and when they fit a week of training.
 Short answer: A rest-pause set is a set taken to or near failure, a rest of about 20 seconds, then more reps with the same weight, repeated until you reach a planned total. In trained lifters it built strength at least as well as straight sets, and one review found it roughly halves session time while keeping the volume.
 
-### Treadmill vs Outdoor Running: What Studies Found | Diogo
+### Treadmill vs Outdoor Running: What Studies Found
 URL: https://diogofit.com/learn/treadmill-vs-outdoor-running/
 Treadmill vs outdoor running: what two meta-analyses found for effort, endurance and form, whether the 1% incline rule holds, and the load per step.
 Short answer: Mostly the same. Across 34 crossover studies, oxygen uptake at easy and maximal speeds matched, but endurance performance was worse on a motorized treadmill. Across 33 studies, most running-form measures didn't differ. In nine trained men at about 6.5 to 11 mph, a 1% incline matched a level road.
 
-### Pilates vs Weight Training: What the Trials Found | Diogo
+### Pilates vs Weight Training: What the Trials Found
 URL: https://diogofit.com/learn/pilates-vs-weight-training/
 Pilates vs weight training: two randomized trials in women compared them for strength and balance, a big review ranked them for balance, and the gaps left.
 Short answer: Both improved balance in the two head-to-head trials, both in women, and both improved strength where it was measured: 49 aged 60 to 80, and 18 aged 45 or over. Pilates gained a little more balance in the smaller trial; weight training improved more strength tests in the larger one, with no significant difference between the two.
 
-### Weighted Vest: Walking, Workouts, How Heavy to Go | Diogo
+### Weighted Vest: Walking, Workouts, How Heavy to Go
 URL: https://diogofit.com/learn/weighted-vest/
 What a weighted vest changes in walking, bodyweight exercises, sprints and jumps by the studies, how heavy they went, and how to fit one into a week.
 Short answer: A weighted vest adds load to your own body, so walking, bodyweight exercises and jumps get harder. In 10 young adults walking on a treadmill, vests of 10 to 20% of body weight raised oxygen uptake. In a 7-week trial in college lacrosse players, sprint training in a vest didn't beat sprinting without one.
 
-### Functional Training: What It Is, What Trials Found | Diogo
+### Functional Training: What It Is, What Trials Found
 URL: https://diogofit.com/learn/functional-training/
 Functional training explained: what the term means in research, what trials found against traditional training, what's untested, and a first session.
 Short answer: Functional training is built from multi-joint movements, often across several planes, rather than one muscle at a time. In trials it matched or beat traditional programs on fitness tests, but a 2020 meta-analysis of 17 papers found no trial comparing it with classic resistance training.
 
-### Sprint Workout for Speed: Sessions and Rest Times | Diogo
+### Sprint Workout for Speed: Sessions and Rest Times
 URL: https://diogofit.com/learn/sprint-workout/
 A sprint workout for speed: short all-out runs with full rest, a beginner session, how long to rest, what the reviews found and where it fits in a week.
 Short answer: A sprint workout for speed is a few short, all-out runs with enough rest that each one stays fast. As a starting point: warm up, then four to six runs of 20 meters from a crouched start with about two minutes of rest, once or twice a week. Sprints with short rests are a fitness workout instead: HIIT.
 
-### Desk Stretches: Simple Moves to Do at Work | Diogo
+### Desk Stretches: Simple Moves to Do at Work
 URL: https://diogofit.com/learn/desk-stretches/
 Desk stretches for the neck, shoulders, wrists, back and hips, done in your chair, with hold times, a five-minute routine and how often to get up.
 Short answer: Desk stretches are simple moves you can do in or beside your chair: neck tilts, shoulder rolls, wrist stretches, an overhead reach, a seated twist and a forward curl. Hold most gently for 10 to 20 seconds, never into pain. An occupational safety guide also advises a 5 to 10 minute break every hour, ideally standing and walking.
@@ -1892,37 +1892,37 @@ URL: https://diogofit.com/learn/workout-plan-for-busy-moms/
 A workout plan for busy moms: two 30-minute full-body sessions, a 20-minute session with the kids around, a floor for full weeks, and where each one goes.
 Short answer: Train three times a week: two 30-minute full-body sessions at home or in the gym, and one 20-minute session you can do with the kids around or during their practice. One session is the floor for a full week. Pair exercises to save time, stop each set two or three reps short of failure, and write it down.
 
-### How to Get a Six Pack: What the Research Says | Diogo
+### How to Get a Six Pack: What the Research Says
 URL: https://diogofit.com/learn/how-to-get-a-six-pack/
 How to get a six pack: train your abs like any muscle, lose fat across your whole body, keep lifting and protein up. What the ab-training trials found.
 Short answer: A six pack is your front ab muscle showing through. That takes two things: train the abs like any other muscle, and lower your body fat overall with a calorie deficit, lifting and enough protein. Ab exercises alone don't do the second part: in a 2011 trial, six weeks of ab exercises left abdominal fat unchanged.
 
-### How to Lose Body Fat: What the Research Says | Diogo
+### How to Lose Body Fat: What the Research Says
 URL: https://diogofit.com/learn/how-to-lose-body-fat/
 How to lose body fat: eat a little under maintenance, keep lifting, eat enough protein, move more and sleep. What the trials found on keeping your muscle.
 Short answer: Eat a little less than you burn, keep lifting, eat enough protein, move more and sleep. The calorie deficit is what takes fat off; lifting and protein are what keep your muscle while it happens. In a 2018 analysis of six trials in older adults with obesity, lifting during a calorie cut prevented almost all of the muscle loss.
 
-### How to Lose Belly Fat: What the Trials Found | Diogo
+### How to Lose Belly Fat: What the Trials Found
 URL: https://diogofit.com/learn/how-to-lose-belly-fat/
 How to lose belly fat: why ab work alone didn't shift it in the trials, two small trials that hinted otherwise, and the whole-body method instead.
 Short answer: You can't choose where fat comes off. In trials where people trained only their abs, one arm or one leg, the fat over that muscle mostly didn't go first; two small trials found signs of a local effect at the trunk. Belly fat comes off the way all fat does: a calorie deficit, lifting, enough protein, daily movement and sleep.
 
-### How to Get Toned: Muscle, Fat and the Myths | Diogo
+### How to Get Toned: Muscle, Fat and the Myths
 URL: https://diogofit.com/learn/how-to-get-toned/
 How to get toned: lift with sets that get hard, add a little over time, eat enough protein and lose some fat. Why light weights and high reps don't tone.
 Short answer: “Toned” means some visible muscle and less fat over it. So lift with sets that get hard, add a little over time, eat enough protein, and keep a small calorie deficit if there's fat to lose. Light weights don't tone differently: a 2017 review found light and heavy loads built similar muscle when sets were taken to failure.
 
-### How to Get Stronger: What the Research Says | Diogo
+### How to Get Stronger: What the Research Says
 URL: https://diogofit.com/learn/how-to-get-stronger/
 How to get stronger: heavier loads, a few hard sets, the same lifts practiced two or more days a week, longer rests, small jumps in weight, and time.
 Short answer: Lift heavy on a few big lifts, two or more days a week, and add a little weight when the reps get easier. The American College of Sports Medicine's 2026 overview of 137 systematic reviews found strength was enhanced by heavier loads (80% of a one-rep max or more), 2 to 3 sets and two or more sessions a week.
 
-### How to Get in Shape: A Plain Plan, With Sources | Diogo
+### How to Get in Shape: A Plain Plan, With Sources
 URL: https://diogofit.com/learn/how-to-get-in-shape/
 How to get in shape: cardio most days, strength work two or more days a week, start small and build up, some hard sessions, and a week you can repeat.
 Short answer: Do both kinds of exercise each week: 150 to 300 minutes of moderate cardio, or 75 to 150 of vigorous, plus strength work for all the major muscles on two or more days. Those are the World Health Organization's numbers for adults. If you're starting from little, begin with small amounts, build up gradually and keep the week going.
 
-### How to Build Endurance and Stamina: What Works | Diogo
+### How to Build Endurance and Stamina: What Works
 URL: https://diogofit.com/learn/how-to-build-endurance/
 How to build endurance and stamina: mostly easy cardio, one or two harder interval sessions, time added gradually, lifting beside it, and a sample week.
 Short answer: Do cardio most days, mostly at an easy pace you could talk through, add one or two harder interval sessions a week, and add time gradually. In 28 controlled trials of healthy adults, steady training raised VO2 max about 4.9 mL/kg/min against no exercise and intervals about 5.5.
@@ -1947,93 +1947,118 @@ URL: https://diogofit.com/learn/workouts-for-seniors/
 Exercise for seniors: the WHO guideline for adults 65 and over, what 121 strength trials in older people found, and a first week of strength, balance and walking.
 Short answer: For adults 65 and over, the WHO recommends 150 to 300 minutes of moderate activity a week, muscle-strengthening on 2 or more days, and varied multicomponent activity that emphasises functional balance and strength on 3 or more days. In a Cochrane review of trials in older people, the 73 trials that measured strength found a large average gain. Start small and build up gradually.
 
-### How to Get a V Taper and Wider Shoulders | Diogo
+### How to Get a V Taper and Wider Shoulders
 URL: https://diogofit.com/learn/how-to-get-a-v-taper/
 How to get a V taper and wider shoulders: pull-ups, pulldowns and rows for the lats, lateral raises for the side delts, enough sets, and a sample week.
 Short answer: Train the two muscles at the top of the V: the lats, with pull-ups, pulldowns and rows, and the side delts, with lateral raises, which a bench press barely reaches. In an eight-week trial of 24 trained men and women, lateral raises twice a week raised side-delt thickness, measured by ultrasound, by 3.3% to 4.6%. Add sets and weight over months.
 
-### How to Run Faster: What the Research Found | Diogo
+### How to Run Faster: What the Research Found
 URL: https://diogofit.com/learn/how-to-run-faster/
 How to run faster and longer: interval sessions, strength and jump work, sprints for top speed, a sample week, and an honest answer on doing it in a day.
 Short answer: Run one or two harder interval sessions a week, keep the rest of your running easy, and add strength and jump training twice a week. A 2018 meta-analysis of 28 studies found a strength-training block added to endurance training moderately improved middle- and long-distance performance. For top speed, sprint all-out with full rest.
 
-### How to Jump Higher: Plyometrics and Strength | Diogo
+### How to Jump Higher: Plyometrics and Strength
 URL: https://diogofit.com/learn/how-to-jump-higher/
 How to jump higher for basketball, volleyball or at home: plyometric jumps, stronger legs from squats, a mix of jump types, enough weeks and a sample week.
 Short answer: Do plyometric jumps twice a week, mixing squat jumps, countermovement jumps and drop jumps, and get your legs stronger with squats. A 2007 meta-analysis of 26 studies found plyometric training raised countermovement jump height by about 8.7% on average. Rest fully between jumps, and give it weeks.
 
-### Fasted Cardio: Does It Burn More Fat? | Diogo
+### Fasted Cardio: Does It Burn More Fat?
 URL: https://diogofit.com/learn/fasted-cardio/
 Does fasted cardio burn more fat? More is burned during the session, but trials that tracked body fat for weeks found no difference. What each measured.
 Short answer: During the session, yes: across 27 studies, cardio done fasted used more fat as fuel than cardio done fed. Over weeks, no difference showed up: in a 2014 trial, 20 young women on a calorie cut did an hour of cardio three days a week, fasted or fed, and their body composition changed similarly.
 
-### Cardio vs Weights for Fat Loss: What Trials Found | Diogo
+### Cardio vs Weights for Fat Loss: What Trials Found
 URL: https://diogofit.com/learn/cardio-vs-weights-for-fat-loss/
 Cardio vs weights for fat loss: in trials, cardio cut fat mass and weight more, lifting built lean mass, and doing both got both. What each one measured.
 Short answer: Both, because they do different jobs. In an eight-month trial of 119 overweight or obese adults, cardio reduced fat mass and body weight more than lifting did, lifting added more lean mass than cardio, and the group that did both got both. Eating a little less than you burn is still what takes fat off.
 
-### Pull-Ups vs Lat Pulldown: What the Studies Found | Diogo
+### Pull-Ups vs Lat Pulldown: What the Studies Found
 URL: https://diogofit.com/learn/pull-ups-vs-lat-pulldown/
 Pull-ups vs lat pulldowns: the muscles each worked in the studies, how the heaviest reps compared, whether pulldowns build pull-ups, and how to use both.
 Short answer: Both work the lats hardest, and they don't swap one for one. In 58 college students, the heaviest single pull-up was more weight relative to body weight than the heaviest pulldown, about 1.16 against 0.93 times body weight in the men. Pulldowns let you pick the load, and in one trial they raised pull-up reps.
 
-### Squats vs Deadlifts: What the Studies Measured | Diogo
+### Squats vs Deadlifts: What the Studies Measured
 URL: https://diogofit.com/learn/squats-vs-deadlifts/
 Squats vs deadlifts: the knee and hip loads, the muscles each worked, what six weeks of each built, the fatigue and hormones measured, and how to use both.
 Short answer: Both train the legs and hips, but the squat leans on the knees and the deadlift on the hips. In 28 resistance-trained adults, the squat's peak knee-extensor moment was about 1.8 times the deadlift's, and the deadlift's hip moment was larger. In a six-week trial, each group gained most at the lift it trained.
 
-### Bodybuilding vs Powerlifting: What the Trials Found | Diogo
+### Bodybuilding vs Powerlifting: What the Trials Found
 URL: https://diogofit.com/learn/bodybuilding-vs-powerlifting/
 Bodybuilding vs powerlifting: what each sport is for, how each style trains, what trials of each found for size and strength, and powerbuilding in between.
 Short answer: Bodybuilding aims at muscle mass, symmetry and definition; powerlifting at the heaviest squat, bench press and deadlift. In an eight-week trial of 17 trained men, bodybuilding-style sets of 10 and powerlifting-style sets of 3 built similar biceps thickness, and the powerlifting style built more bench press strength.
 
-### Rowing vs Running: What the Studies Measured | Diogo
+### Rowing vs Running: What the Studies Measured
 URL: https://diogofit.com/learn/rowing-vs-running/
 Rowing vs running: the effort, heart rate and oxygen use lab studies measured on both, which used more energy at the same effort, and a calorie estimate.
 Short answer: At the same hard rated effort, 10 men worked at about 86% of their peak oxygen uptake running on a treadmill and 84% rowing, with heart rate about 9 beats higher running. Rowing works the arms and legs; running mainly the legs. Both count as cardio. Pick the one you'll keep doing.
 
-### Running vs Cycling: What the Studies Measured | Diogo
+### Running vs Cycling: What the Studies Measured
 URL: https://diogofit.com/learn/running-vs-cycling/
 Running vs cycling: energy at the same effort, what weeks of each did for fitness in a meta-analysis, which felt better, the load, and a calorie estimate.
 Short answer: In a 2026 meta-analysis of 7 randomized trials of at least four weeks in trained or recreationally active people, running and cycling training produced no significant difference in VO2 max or running performance. The treadmill used more energy than the bikes at the same rated effort in three lab studies. Both count as cardio; pick the one you'll keep doing.
 
-### Swimming vs Running: What the Studies Measured | Diogo
+### Swimming vs Running: What the Studies Measured
 URL: https://diogofit.com/learn/swimming-vs-running/
 Swimming vs running: why heart rate peaks lower in the pool, what weeks of each did for fitness in two trials, load on the feet, and a calorie estimate.
 Short answer: In 34 college-age fitness swimmers, peak heart rate was 11 beats a minute lower swimming than running on a treadmill. In 37 sedentary men, 11.5 weeks of swim or run training raised treadmill VO2 max by similar amounts. Both count as cardio; pick the one you can do and keep doing.
 
-### How to Build a Workout Plan, Step by Step | Diogo
+### How to Build a Workout Plan, Step by Step
 URL: https://diogofit.com/learn/how-to-build-a-workout-plan/
 How to build your own workout plan: count your days, pick a split, cover a squat, hinge, push and pull, set sets, reps and rest, and a rule to progress.
 Short answer: Count the days you can train, pick a split that fits them, cover a squat, a hinge, a push and a pull, do at least two sets of each, and decide in advance when the weight goes up. The American College of Sports Medicine's 2026 stand recommends hard training at least twice a week, with all major muscle groups engaged.
 
-### What Does 3x10 Mean? Reps and Sets, Explained | Diogo
+### What Does 3x10 Mean? Reps and Sets, Explained
 URL: https://diogofit.com/learn/reps-and-sets-explained/
 What does 3x10 mean? Three sets of ten reps. How to read a program: sets x reps, ranges like 3x8-12, 5x5, RPE and RIR, each side, AMRAP, rest and tempo.
 Short answer: 3x10 means three sets of ten reps: do ten repetitions in a row, rest, and repeat until you've done three sets. The first number is sets, the second is reps. Ten sits inside the 8 to 12 rep range the American College of Sports Medicine's 2009 stand recommends for novice lifters.
 
-### Intermediate Lifter: What It Means, What Changes | Diogo
+### Intermediate Lifter: What It Means, What Changes
 URL: https://diogofit.com/learn/intermediate-lifter/
 What is an intermediate lifter? The ACSM's definition, about six months of steady training, and what its advice changes: days, loads, rest and planning.
 Short answer: An intermediate lifter, in the American College of Sports Medicine's 2009 definition, has about six months of consistent resistance training; a novice has none or hasn't trained for several years. For intermediates the stand moves from two to three days a week to three to four, and widens loads from an 8 to 12 rep maximum to 1 to 12.
 
-### Dynamic Stretching: Examples, vs Static | Diogo
+### Dynamic Stretching: Examples, vs Static
 URL: https://diogofit.com/learn/dynamic-stretching/
 Dynamic stretching: what it is, examples for the legs and upper body, dynamic vs static stretching, and whether to do it before or after a workout.
 Short answer: Dynamic stretching means moving a joint through its range again and again, like leg swings, without holding the end position. Before training it's the better choice: in a 2016 review, dynamic stretching nudged performance up about 1% while static holds lowered it about 4%. For more range over weeks, static holds did better.
 
-### Thoracic Mobility Exercises and a Simple Test | Diogo
+### Thoracic Mobility Exercises and a Simple Test
 URL: https://diogofit.com/learn/thoracic-mobility/
 Thoracic mobility for lifters: what your upper back does when your arms go overhead, a simple rotation test, the exercises, and what the studies found.
 Short answer: The thoracic spine is your upper and middle back, and it extends and rotates. Raising both arms overhead extended it by about 13 degrees on average in 21 men, with wide differences between them. To train it, use slow rotation and extension drills: two rotation exercises improved thoracic range equally over two weeks in 39 healthy people.
 
-### Hip Flexor Exercises: Gym and Home, for Runners | Diogo
+### Hip Flexor Exercises: Gym and Home, for Runners
 URL: https://diogofit.com/learn/hip-flexor-exercises/
 Hip flexor exercises for strength: knee raises, leg raises and band or cable marches, what muscle-activity studies show, and what training did for sprints.
 Short answer: Train the hip flexors by lifting your legs against resistance: hanging and lying leg raises, standing knee raises, and cable or band marches. Leg-lifting exercises drove the deep hip flexor above 60% of a maximal contraction in a 2024 review. In one trial in active, untrained adults, eight weeks of hip flexor training cut 40-yard dash times by 3.8%.
 
-### Strength Standards: Squat, Bench, Deadlift by Age | Diogo
+### Strength Standards: Squat, Bench, Deadlift by Age
 URL: https://diogofit.com/learn/strength-standards/
 Squat, bench press and deadlift percentiles for 327,938 lifters in tested raw powerlifting meets since 2015, by sex, weight class and age, with the CSV.
 Short answer: These are competitors, not the general public: lifters in drug-tested categories at raw powerlifting meets since 2015, from the OpenPowerlifting data. In the men's class with the most lifters, 83 kg, the median squat was 182.5 kg (402 lb). The tables give the squat, bench press and deadlift by sex, weight class and age.
 Data (CSV): https://diogofit.com/learn/strength-standards/strength-standards.csv
+
+### Strength Training for Wrestlers: Lifts and a Week
+URL: https://diogofit.com/learn/strength-training-for-wrestlers/
+Strength training for wrestlers: what elite and amateur wrestlers differ in, the lifts that train it, an off-season and in-season week, and home work.
+Short answer: Lift two or three days a week around practice: heavy squats, pulls and presses, plus jumps and grip work. In a study of 92 male wrestlers, the elite group had 8 to 25% more maximal strength than the amateurs, and more grip and back strength.
+
+### Strength Training for Runners: Lifts and a Week
+URL: https://diogofit.com/learn/strength-training-for-runners/
+Strength training for runners: what lifting and jumping did in trials of distance runners, how heavy and how often, the lifts, a week, and home options.
+Short answer: Add two or three strength sessions a week to your running: lower-body lifts plus jumps. A 2016 meta-analysis of 93 competitive, high-level distance runners found 8 to 12 weeks of strength and jump training had a large beneficial effect on running economy, the oxygen a given pace costs.
+
+### Strength Training for Swimmers: Dry-Land Lifts
+URL: https://diogofit.com/learn/strength-training-for-swimmers/
+Strength training for swimmers: what dry-land lifting did in trials of competitive swimmers, heavy or light, the core work, the lifts, and a week.
+Short answer: Lift twice a week beside your swimming, heavy and low in volume, with jumps for starts and a short core session. In 27 university swimmers, six weeks of heavy lifting twice a week beat a light, high-rep program on the 15-meter start, the 25-meter and the 50-meter freestyle.
+
+### Strength Training for Cyclists: Lifts and a Week
+URL: https://diogofit.com/learn/strength-training-for-cyclists/
+Strength training for cyclists: what heavy lifting did in trials of trained riders, the four lifts used, off-season and in-season weeks, and home work.
+Short answer: Lift heavy twice a week in the off-season and once a week in season, mostly legs. A 2026 meta-analysis of 17 studies in 262 adult cyclists found heavy strength training, at 80% of a one-rep max or more, improved cycling performance, cycling efficiency and anaerobic power against riding alone.
+
+### Strength Training for Soccer Players: A Week
+URL: https://diogofit.com/learn/strength-training-for-soccer-players/
+Strength training for soccer players: what heavy squats and jumps did for sprints and jumps in trials of adult players, the lifts, and a week by season.
+Short answer: Lift heavy twice a week in pre-season and once a week in season, with jumps and sprints beside it. In 21 elite players with no comparison group, eight weeks of heavy half squats and intervals twice a week went with a 51.7% higher half-squat max and a 10-meter sprint 0.06 seconds faster.
