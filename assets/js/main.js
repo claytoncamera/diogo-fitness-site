@@ -1,6 +1,6 @@
 // Site behaviour. Progressive enhancement only: every page works with this script blocked.
-import { track } from './track.js?v=ca424109';
-import { carryLabel } from './source.js?v=ca424109';
+import { track } from './track.js?v=eaf35f8e';
+import { carryLabel } from './source.js?v=eaf35f8e';
 
 const $ = (sel, root = document) => root.querySelector(sel);
 const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
@@ -94,7 +94,7 @@ if (videos.length && !reduced && !saveData) {
   // corner; a full-bleed background loop shares the button of the last card in its section, or else gets one in the
   // section's corner. Only made here, where the videos can play: without this script, or with reduced motion on, nobody
   // sees anything but the still poster. Nothing is stored.
-  const SVG = (inner) => `<svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor">${inner}</svg>`;
+  const SVG = (inner) => `<svg class="icon" viewBox="0 0 24 24" aria-hidden="true" fill="currentColor">${inner}</svg>`;
   const PAUSE = SVG('<rect x="6.5" y="5" width="3.8" height="14" rx="1"/><rect x="13.7" y="5" width="3.8" height="14" rx="1"/>');
   const PLAY = SVG('<path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/>');
   const groups = new Map(); // where the button goes → the videos it controls
@@ -200,5 +200,6 @@ const V = new URL(import.meta.url).search;
 const lazy = (name) => import(`./${name}.js${V}`).catch((err) => { console.warn(`[site] ${name}.js did not load`, err); return null; });
 if ($('[data-week]')) lazy('week-widget');
 if ($('[data-cal]')) lazy('calendars');
-if ($('[data-apply]')) lazy('apply').then((m) => { if (!m) $('[data-apply]').classList.add('is-failed'); }); // is-failed: show the plain DM link text
+// apply.js: own tag on /apply/ (F-53), run before this; not armed = failed, so show the plain DM link
+if ($('[data-apply]') && !$('[data-apply]').classList.contains('is-armed')) $('[data-apply]').classList.add('is-failed');
 if ($('[data-readbar]')) lazy('readbar');

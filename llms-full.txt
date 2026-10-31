@@ -2001,3 +2001,18 @@ Short answer: In a 2026 meta-analysis of 7 randomized trials of at least four we
 URL: https://diogofit.com/learn/swimming-vs-running/
 Swimming vs running: why heart rate peaks lower in the pool, what weeks of each did for fitness in two trials, load on the feet, and a calorie estimate.
 Short answer: In 34 college-age fitness swimmers, peak heart rate was 11 beats a minute lower swimming than running on a treadmill. In 37 sedentary men, 11.5 weeks of swim or run training raised treadmill VO2 max by similar amounts. Both count as cardio; pick the one you can do and keep doing.
+
+### How to Build a Workout Plan, Step by Step | Diogo
+URL: https://diogofit.com/learn/how-to-build-a-workout-plan/
+How to build your own workout plan: count your days, pick a split, cover a squat, hinge, push and pull, set sets, reps and rest, and a rule to progress.
+Short answer: Count the days you can train, pick a split that fits them, cover a squat, a hinge, a push and a pull, do at least two sets of each, and decide in advance when the weight goes up. The American College of Sports Medicine's 2026 stand recommends hard training at least twice a week, with all major muscle groups engaged.
+
+### What Does 3x10 Mean? Reps and Sets, Explained | Diogo
+URL: https://diogofit.com/learn/reps-and-sets-explained/
+What does 3x10 mean? Three sets of ten reps. How to read a program: sets x reps, ranges like 3x8-12, 5x5, RPE and RIR, each side, AMRAP, rest and tempo.
+Short answer: 3x10 means three sets of ten reps: do ten repetitions in a row, rest, and repeat until you've done three sets. The first number is sets, the second is reps. Ten sits inside the 8 to 12 rep range the American College of Sports Medicine's 2009 stand recommends for novice lifters.
+
+### Intermediate Lifter: What It Means, What Changes | Diogo
+URL: https://diogofit.com/learn/intermediate-lifter/
+What is an intermediate lifter? The ACSM's definition, about six months of steady training, and what its advice changes: days, loads, rest and planning.
+Short answer: An intermediate lifter, in the American College of Sports Medicine's 2009 definition, has about six months of consistent resistance training; a novice has none or hasn't trained for several years. For intermediates the stand moves from two to three days a week to three to four, and widens loads from an 8 to 12 rep maximum to 1 to 12.
