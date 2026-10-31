@@ -2166,3 +2166,33 @@ Short answer: Train for a hike by practising it: long walks, hills or stairs, a 
 URL: https://diogofit.com/learn/swimming-workout/
 A swimming workout for beginners: two pool sessions of short repeats with rests, what heart rate does in the water, and what the swim trials measured.
 Short answer: Swim an easy warm-up, then short repeats with a rest at the wall, then an easy finish: about 20 to 30 minutes, twice a week to start. In 15 male college-age recreational swimmers, 10 weeks of interval swim training raised swimming VO2 max by 380 mL/min. In 34 fitness swimmers tested against a tether, peak heart rate was lower swimming than running, so don't borrow running numbers.
+
+### Quad Exercises: Squats, Press, Extension
+URL: https://diogofit.com/learn/quad-exercises/
+Quad exercises with their own guides: leg press, hack squat, split squat, lunges, step-ups and leg extension, and what the studies measured.
+Short answer: Build quad work from one squat or press and one leg extension. The quadriceps are four muscles that straighten the knee, and one of them, the rectus femoris, also crosses the hip. In two studies of men, it was more active in the leg extension than in the leg press, while the other quadriceps muscles were about as active or more active in the press. Count hard sets across the week: the American College of Sports Medicine's 2026 stand found muscle growth was enhanced by ten or more sets per week.
+
+### Lat Exercises: Pull-Ups, Rows, Pulldowns
+URL: https://diogofit.com/learn/lat-exercises/
+Lat exercises sorted by how the arm moves: pull-ups and pulldowns, rows, and the straight-arm pulldown, with what the muscle-activity studies measured in each.
+Short answer: Pick a lat exercise from each of three families: a vertical pull (pull-up or lat pulldown), a row, and a straight-arm pulldown. In 25 people, the lats were the most active muscles measured in the pull-up and chin-up, at 117 to 130% of a maximal test contraction. A 2026 review of 23 studies found an anterior bar path was the pulldown setup most consistently associated with greater lat amplitude, and grip width inconsistent.
+
+### Rhomboid Exercises: Rows and Pulls
+URL: https://diogofit.com/learn/rhomboid-exercises/
+Rhomboid exercises for the gym and home: which rows and rear-shoulder moves the muscle-activity studies measured, what they didn't, and a short session.
+Short answer: Train the rhomboids with rows and with pulls that bring the arms back. In small studies of healthy adults, mostly men, wire electrodes in the rhomboid major showed moderate activity, above 20% of a maximal contraction, in low scapular rows done with a band, and significantly higher activity in a retraction with the arms overhead among three exercises compared. This page is about training. It makes no promise about posture or pain.
+
+### Serratus Anterior Exercises: Push-Up Plus
+URL: https://diogofit.com/learn/serratus-anterior-exercises/
+Serratus anterior exercises: the push-up plus, overhead raises and the wall slide, with what the muscle-activity studies measured and a short session.
+Short answer: Add a push-up plus and an overhead reaching move. A systematic review of 19 studies and 356 people concluded the standard push-up plus elicited high serratus anterior activity, In 30 healthy people doing ten exercises, the serratus anterior was activated maximally by exercises needing a great amount of upward rotation of the shoulder blade, such as raising the arm in the plane of the shoulder blade above 120 degrees. This page is about training. It makes no promise about posture or pain.
+
+### Adductor Exercises: Inner Thigh Moves
+URL: https://diogofit.com/learn/adductor-exercises/
+Adductor exercises: the Copenhagen plank, side-lying adduction, ball squeezes, squats and deadlifts, with what the studies measured in each.
+Short answer: Use a Copenhagen plank or a side-lying adduction for direct inner-thigh work, and keep squatting and deadlifting. In 40 elite soccer players, peak adductor longus activity ranged from 14% to 108% of a maximal contraction across eight adduction exercises, and in 15 people a model put the long-lever Copenhagen adduction in the top tier of force for every adductor muscle measured. The biggest adductor, the adductor magnus, is built to extend the hip more than to squeeze the legs together.
+
+### Obliques Workout: Side Plank, Hanging Raise
+URL: https://diogofit.com/learn/obliques-workout/
+An obliques workout from exercises with their own guide: side plank, Copenhagen plank, reverse crunch, hanging knee raise, and what the studies measured.
+Short answer: Do a side plank and a hanging or reverse leg raise, then add a turning move. In 13 people, the external oblique was thicker on ultrasound during a side plank than during a bird dog, a glute bridge or a hip extension, and across ten side and Copenhagen plank versions in 15 men, the internal oblique was the most active trunk muscle measured. The hanging knee-up and the incline reverse crunch were among the top exercises for oblique activity in a 21-person study.
