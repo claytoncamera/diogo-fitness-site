@@ -489,6 +489,12 @@ Coaching is online and sold only through a conversation: there are no prices on 
 - [Working Out Twice a Day: What the Trials Found](https://diogofit.com/learn/working-out-twice-a-day/): Working out twice a day: what three two-a-day trials found, how far apart to put lifting and cardio, and how to split one day's training into two.
 - [Fitness Accountability: What Keeps You Showing Up](https://diogofit.com/learn/fitness-accountability/): What fitness accountability means, what research found about tracking, supervision and habit, and how to set up a log, a partner or a coach to keep training.
 - [Strength Training Statistics by Age and Sex](https://diogofit.com/learn/strength-training-by-age/): How many U.S. adults do muscle-strengthening activity 2+ days a week, by age group and sex, from the CDC's 2023 survey of 411,023 adults, with the CSV.
+- [Running for Beginners: How to Start](https://diogofit.com/learn/running-for-beginners/): Running for beginners: run-walk intervals three times a week, a pace you can talk at, minutes before speed, a sample first month, and what the studies counted.
+- [How to Run a Mile Without Stopping](https://diogofit.com/learn/how-to-run-a-mile-without-stopping/): How to run a mile without stopping: a pace you can talk at, walk breaks that shrink over six weeks, the mile itself, and what the beginner studies measured.
+- [Beginner 5K Plan: 8 Weeks of Run-Walk](https://diogofit.com/learn/beginner-5k-plan/): A beginner 5K plan: eight weeks of run-walk, three sessions a week, at a talking pace, week by week, with what the studies of novice runners measured.
+- [Rucking for Beginners: How Heavy and How Far](https://diogofit.com/learn/rucking/): Rucking is walking with a loaded pack. What load changes about the effort, how heavy the studies went, what training did for load carriage, and a build-up.
+- [Hiking Training: How to Get Ready for a Hike](https://diogofit.com/learn/hiking-training/): Hiking training: what hills and a pack add to walking in the lab studies, legs and long walks, a sample week, and a build-up that starts where you are.
+- [Swimming Workout for Beginners: Two Sessions](https://diogofit.com/learn/swimming-workout/): A swimming workout for beginners: two pool sessions of short repeats with rests, what heart rate does in the water, and what the swim trials measured.
 
 ## Feeds
 
