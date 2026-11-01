@@ -2236,3 +2236,48 @@ Short answer: Set the seat so the handles start near shoulder height, sit back a
 URL: https://diogofit.com/learn/lengthened-partials/
 What lengthened partials are, what eight trials and a meta-analysis measured against full reps, where the results disagree, and how to try them.
 Short answer: A lengthened partial is a rep done only in the stretched part of the range, such as the bottom of a curl. Three trials in women found more growth in some regions than full reps (two trials) or than the squeezed half (one), while trials in 13, 16 and 25 trained men or mixed groups found mostly similar growth to full reps, so they look like an option, not an upgrade.
+
+### Strength Training for Baseball Players: Lifts
+URL: https://diogofit.com/learn/strength-training-for-baseball-players/
+Strength training for baseball players: what lifting and upper-body jumps did to throwing velocity in trials of collegiate players, the lifts, and a week.
+Short answer: In 24 Division I collegiate baseball players averaging 19.7 years, eight weeks of upper-body plyometric exercises twice a week raised throwing velocity from 83.15 to 85.15 mph in the group that did them. A 2023 review of 16 studies in players of all ages says resistance-based training interventions appear to be effective in enhancing throwing velocity.
+
+### Strength Training for Skiers: Pre-Season Lifts
+URL: https://diogofit.com/learn/strength-training-for-skiers/
+Strength training for skiers: what 12 trials in cross-country skiers found, what alpine racing asks of the body, the lifts, and a pre-season and in-season week.
+Short answer: Lift two or three days a week before the snow comes. In 19 elite cross-country skiers aged 18 to 27, 12 weeks of heavy strength training twice a week, added to their endurance training, raised half-squat max 12% and seated pull-down max 19%. A review of 12 trials found moderate effects on skiing performance, though the trials' quality was mostly poor-to-fair.
+
+### Strength Training for Climbers: Pulls and Hangs
+URL: https://diogofit.com/learn/strength-training-for-climbers/
+Strength training for climbers: what reviews and trials of sport climbers found for finger, pulling and forearm strength, the lifts, and a week around climbing.
+Short answer: Add strength work beside your climbing, a couple of days a week. A 2023 meta-analysis of five trials in 110 active climbers, with average ages from 23 to 30, found resistance training improved climbing-related test performance more than climbing alone (standardized difference 0.57), though a later trial in female climbers found finger strength rose in all three groups, with only weak evidence of any difference between them.
+
+### Strength Training for Volleyball Players: A Week
+URL: https://diogofit.com/learn/strength-training-for-volleyball-players/
+Strength training for volleyball players: what jump training and lifting did to jump height in trials, the lifts, and an off-season and in-season week.
+Short answer: Jump and lift beside your practice. A 2020 meta-analysis of 14 trials in volleyball players of any age found jump training raised vertical jump height (effect size 0.82). In 16 male Division I collegiate players, eight weeks of squat jump training raised two vertical-jump tests 5.9% and 6.3%, more than squats and leg presses did.
+
+### Strength Training for Dancers: Lifts and a Week
+URL: https://diogofit.com/learn/strength-training-for-dancers/
+Strength training for dancers: what the studies in ballet and contemporary dancers measured, the lifts, and a week around classes and rehearsals.
+Short answer: Add strength work beside your dance training, twice a week. In 24 women who were contemporary professional and student dancers, averaging 27 years, a 6-week circuit and vibration program twice a week raised lower-body muscular power 11% and upper-body muscular endurance 22%, while the control group reported decreases in the other fitness measures (the abstract doesn't say these were tested).
+
+### German Volume Training: What Two Trials Found
+URL: https://diogofit.com/learn/german-volume-training/
+German volume training is 10 sets of 10 reps. Two trials in healthy men compared it with 5 sets of 10 and found no extra gain. What it is and how to run it.
+Short answer: German volume training (GVT) is 10 sets of 10 reps for two compound exercises a session, at about 60% of a one-rep max with 60 to 90 seconds' rest. In two trials in healthy men, 10 sets per exercise did not beat 5. Over six weeks (19 men), trunk lean mass and bench press and lat pulldown strength rose more with 5 sets. Over 12 weeks (12 men), total, trunk and arm lean mass did not change significantly in either group.
+
+### Pre-Exhaust Training: What the Studies Found
+URL: https://diogofit.com/learn/pre-exhaust-training/
+Pre-exhaust training does a single-joint set right before a compound lift. What muscle-activity studies and training trials measured, and when to skip it.
+Short answer: Pre-exhaustion means doing a single-joint exercise for a muscle group right before a multi-joint exercise for the same muscle group. In the three muscle-activity studies cited here, activity in the muscle the set was aimed at rose in one (the triceps), was unchanged in one (the lats) and fell in one (the quadriceps, with fewer reps). In an 8-week and a 12-week training trial, it did not beat doing the exercises in the usual order.
+
+### Muscular Endurance Exercises: What It Is and How
+URL: https://diogofit.com/learn/muscular-endurance-exercises/
+Muscular endurance is how long a muscle keeps working against a light load. What trials of high reps found, plus a practical exercise list and session.
+Short answer: A 2021 review, citing another source, operationally defines local muscular endurance as the ability to resist muscular fatigue when using a submaximal resistance. For it, the American College of Sports Medicine's 2009 stand recommends light to moderate loads (40 to 60% of a one-rep max) for more than 15 reps, with rests under 90 seconds. In two eight-week trials in men, high-rep training improved reps-to-failure tests more than heavier training, but a 2021 review calls the load effect equivocal.
+
+### Powerlifting for Beginners: Sport and First Block
+URL: https://diogofit.com/learn/powerlifting-for-beginners/
+What powerlifting is, how a meet works, what meet data showed about squat, bench and deadlift progress, and a practical first block to start training for it.
+Short answer: Powerlifting is a sport in which lifters get three attempts at the barbell back squat, bench press and deadlift, and the heaviest successful attempt of each is added into a total. Rules differ slightly between federations, so read the rulebook of the meet you enter. Training for it is practical, not a finding: three days a week, the three lifts in sets of 5 to 8, adding a little weight when the sets are clean.
