@@ -1,4 +1,4 @@
-// "Two ways to spend 13 weeks": the cells pop in day by day when the figure scrolls into view; Replay runs it again.
+// "Two ways to spend the next few months": the cells pop in day by day when the figure scrolls into view; Replay runs it again.
 const cal = document.querySelector('[data-cal]');
 
 if (cal) {

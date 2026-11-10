@@ -1,5 +1,5 @@
 // "Fit your week" widget: pick how many days you can train, see where they land in a normal week.
-import { track } from './track.js?v=1be3eee2';
+import { track } from './track.js?v=cef14d38';
 
 const root = document.querySelector('[data-week]');
 if (root) {
